@@ -1,5 +1,6 @@
 {
  "batimento": "2026-46",
+ "chat_id": 1001322888,
  "conhecidos": {
   "olfactory": [
    "1-nota-di-viaggio-rites-de-passage-meo-fusciuni-edp",
@@ -5328,7 +5329,7 @@
  },
  "falhas": {
   "olfactory": 0,
-  "venba": 1
+  "venba": 2
  },
  "marcas": [
   "Acqua di Parma",
@@ -5420,6 +5421,7 @@
   "Xerjoff",
   "Yves Saint Laurent"
  ],
+ "offset": 602495559,
  "produtos": {
   "olfactory:acqua-di-parma-ambra": {
    "a": true,
@@ -10702,7 +10704,7 @@
    "tester": false
   }
  },
- "ultima": "10/11 19:39",
+ "ultima": "10/11 19:47",
  "vigiados": [
   "olfactory:acqua-di-parma-ambra",
   "olfactory:acqua-di-parma-luce-di-rosa",
