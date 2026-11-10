@@ -1,0 +1,5452 @@
+{
+ "produtos": [
+  {
+   "loja": "venba",
+   "handle": "27-9-saphir-blanc-scented-candle",
+   "marca": "27.9 Fragrance",
+   "nome": "Saphir Blanc Scented Candle"
+  },
+  {
+   "loja": "venba",
+   "handle": "27-9-cammeo-edp",
+   "marca": "27.9 Fragrance",
+   "nome": "Cammeo EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "27-9-lapel-edp",
+   "marca": "27.9 Fragrance",
+   "nome": "Lapel EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "acqua-di-parma-mirto-di-panarea-la-riserva-edt",
+   "marca": "Acqua di Parma",
+   "nome": "Mirto di Panarea La Riserva EDT"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "acqua-di-parma-ambra",
+   "marca": "Acqua di Parma",
+   "nome": "Ambra"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "acqua-di-parma-quercia",
+   "marca": "Acqua di Parma",
+   "nome": "Quercia"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "acqua-di-parma-luce-di-rosa",
+   "marca": "Acqua di Parma",
+   "nome": "Luce Di Rosa"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "acqua-di-parma-yuzu",
+   "marca": "Acqua di Parma",
+   "nome": "Yuzu"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "acqua-di-parma-magnolia",
+   "marca": "Acqua di Parma",
+   "nome": "Magnolia"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "acqua-di-parma-rosa",
+   "marca": "Acqua di Parma",
+   "nome": "Rosa"
+  },
+  {
+   "loja": "venba",
+   "handle": "adamo-parfum-south-of-5th-parfum",
+   "marca": "Adamo Parfum",
+   "nome": "South of 5th Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "adamo-parfum-kraus-numero-i-extrait",
+   "marca": "Adamo Parfum",
+   "nome": "Kraus (Numero I) Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "agatho-seigiorni",
+   "marca": "Agatho",
+   "nome": "Seigiorni Extrait de Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "agatho-195-a-c",
+   "marca": "Agatho",
+   "nome": "195 A.C."
+  },
+  {
+   "loja": "olfactory",
+   "handle": "akro-malt-edp",
+   "marca": "Akro",
+   "nome": "Malt EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "akro-crush-extrait",
+   "marca": "Akro",
+   "nome": "Crush Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "amouage-opus-vii-reckless-leather-edp-1",
+   "marca": "Amouage",
+   "nome": "Opus VII - Reckless Leather EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "amouage-the-library-collection-opus-xvi-timber",
+   "marca": "Amouage",
+   "nome": "The Library Collection - Opus XVI - Timber"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "amouage-love-delight-woman",
+   "marca": "Amouage",
+   "nome": "Love Delight Woman"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "amouage-interlude-man",
+   "marca": "Amouage",
+   "nome": "Interlude Man"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "amouage-purpose-edp",
+   "marca": "Amouage",
+   "nome": "Purpose EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "amouage-honour-woman-43-extrait",
+   "marca": "Amouage",
+   "nome": "Honour Woman 43 Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "amouage-reasons",
+   "marca": "Amouage",
+   "nome": "The Essences - Reasons"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "amouage-epic-woman-56-extrait",
+   "marca": "Amouage",
+   "nome": "Epic Woman 56 Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "amouage-opus-xiii-silver-oud-edp",
+   "marca": "Amouage",
+   "nome": "Opus XIII - Silver Oud EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "amouage-opus-xv-king-blue-edp",
+   "marca": "Amouage",
+   "nome": "Opus Xv - King Blue EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "amouage-lustre",
+   "marca": "Amouage",
+   "nome": "The Essences - Lustre"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-remain-extrait-tester",
+   "marca": "Amouage",
+   "nome": "Remain Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-overture-man-edp",
+   "marca": "Amouage",
+   "nome": "Overture Man EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-reflection-man-edp",
+   "marca": "Amouage",
+   "nome": "Reflection Man EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "amouage-guidance-edp",
+   "marca": "Amouage",
+   "nome": "Guidance EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-enclave",
+   "marca": "Amouage",
+   "nome": "Enclave EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-love-delight-edp",
+   "marca": "Amouage",
+   "nome": "Love Delight EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "sample-amouage-opus-xvi-timber-edp",
+   "marca": "Amouage",
+   "nome": "Opus XVI Timber EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-gold-man-edp",
+   "marca": "Amouage",
+   "nome": "Gold Man EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-interlude-black-iris-edp",
+   "marca": "Amouage",
+   "nome": "Interlude Black Iris EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-lineage-edp",
+   "marca": "Amouage",
+   "nome": "Lineage EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "sample-amouage-remain-extrait",
+   "marca": "Amouage",
+   "nome": "Remain Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-blossom-love-edp",
+   "marca": "Amouage",
+   "nome": "Blossom Love EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-epic-man-edp",
+   "marca": "Amouage",
+   "nome": "Epic Man EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-existence-edp",
+   "marca": "Amouage",
+   "nome": "Existence EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-lilac-love-extrait",
+   "marca": "Amouage",
+   "nome": "Lilac Love Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "amouage-exceptional-extraits-collection-interlude-53",
+   "marca": "Amouage",
+   "nome": "Exceptional Extraits Collection - Interlude 53"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "amouage-dia-40-woman-edp",
+   "marca": "Amouage",
+   "nome": "Dia 40 Woman EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-love-hibiscus-edp",
+   "marca": "Amouage",
+   "nome": "Love Hibiscus EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-decision-edp",
+   "marca": "Amouage",
+   "nome": "Decision EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-epic-56-woman-extrait",
+   "marca": "Amouage",
+   "nome": "Epic 56 Woman Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "sample-amouage-honour-43-extrait",
+   "marca": "Amouage",
+   "nome": "Honour 43 Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "amouage-remain",
+   "marca": "Amouage",
+   "nome": "The Essences - Remain"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "amouage-jubilation-40-man-extrait-de-parfum",
+   "marca": "Amouage",
+   "nome": "Jubilation 40 Man Extrait de Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-guidance-46-extrait-tester-with-cap",
+   "marca": "Amouage",
+   "nome": "Guidance 46 Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-jubilation-40-extrait",
+   "marca": "Amouage",
+   "nome": "Jubilation 40 Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-outlands-edp-1",
+   "marca": "Amouage",
+   "nome": "Outlands Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-reflection-45-extrait",
+   "marca": "Amouage",
+   "nome": "Reflection 45 Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-guidance-46-extrait",
+   "marca": "Amouage",
+   "nome": "Guidance 46 Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "amouage-purpose-50",
+   "marca": "Amouage",
+   "nome": "Purpose 50"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-decision-42-extrait",
+   "marca": "Amouage",
+   "nome": "Decision 42 Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "amouage-oud-zuhal-edp",
+   "marca": "Amouage",
+   "nome": "Oud Zuhal EDP (Dubai Exclusive)"
+  },
+  {
+   "loja": "venba",
+   "handle": "anti-antinous-edp",
+   "marca": "Anti",
+   "nome": "Antinous EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "anti-paura-dellacqua-edp",
+   "marca": "Anti",
+   "nome": "Paura Dell'Acqua EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "argos-bacio-immortale-copy",
+   "marca": "Argos",
+   "nome": "Sacred Flame"
+  },
+  {
+   "loja": "venba",
+   "handle": "argos-birth-of-venus-edp-1",
+   "marca": "Argos",
+   "nome": "Birth of Venus EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "argos-neptunes-trident",
+   "marca": "Argos",
+   "nome": "Neptune's Trident"
+  },
+  {
+   "loja": "venba",
+   "handle": "astrophil-stella-nabati-oud-extrait-1",
+   "marca": "Astrophil & Stella",
+   "nome": "Nabati Oud Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "attar-al-has-leather-effecto",
+   "marca": "Attar Al Has",
+   "nome": "Leather Effecto"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "attar-al-has-spice-rose",
+   "marca": "Attar Al Has",
+   "nome": "Spice Rose"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "attar-al-has-anatolian-rose",
+   "marca": "Attar Al Has",
+   "nome": "Anatolian Rose"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "attar-al-has-golden-ice",
+   "marca": "Attar Al Has",
+   "nome": "Golden Ice"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "attar-al-has-harmonic",
+   "marca": "Attar Al Has",
+   "nome": "Harmonic Tourmaline"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "attar-al-has-libertys-way",
+   "marca": "Attar Al Has",
+   "nome": "Libertys Way"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "attar-al-has-tigers-eye",
+   "marca": "Attar Al Has",
+   "nome": "Tiger's Eye"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-collection-matieres",
+   "marca": "BDK Parfums",
+   "nome": "Collection Matieres"
+  },
+  {
+   "loja": "venba",
+   "handle": "tester-bdk-parfums-bouquet-de-hongrie-edp-3-4-oz-with-cap",
+   "marca": "BDK Parfums",
+   "nome": "Bouquet De Hongrie EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-312-saint-honore",
+   "marca": "BDK Parfums",
+   "nome": "312 Saint Honore"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-parfums-nuit-de-sable-edp",
+   "marca": "BDK Parfums",
+   "nome": "Nuit de Sable EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-parfums-wood-jasmin-edp",
+   "marca": "BDK Parfums",
+   "nome": "Wood Jasmin EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "bdk-parfums-pas-ce-soir-edp-tester-with-cap",
+   "marca": "BDK Parfums",
+   "nome": "Pas Ce Soir EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-parfums-tubereuse-imperial",
+   "marca": "BDK Parfums",
+   "nome": "Tubereuse Imperial"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-parfums-citrus-riviera",
+   "marca": "BDK Parfums",
+   "nome": "Citrus Riviera"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-parfums-oud-abramad-edp",
+   "marca": "BDK Parfums",
+   "nome": "Oud Abramad EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-parfums-villa-neroli",
+   "marca": "BDK Parfums",
+   "nome": "Villa Neroli"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-ambre-safrano",
+   "marca": "BDK Parfums",
+   "nome": "Ambre Safrano"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-parfums-sel-dargent-edp",
+   "marca": "BDK Parfums",
+   "nome": "Sel D'Argent EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-parfums-vanille-leather-100ml",
+   "marca": "BDK Parfums",
+   "nome": "Vanille Leather"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-parfums-vanille-caviar",
+   "marca": "BDK Parfums",
+   "nome": "Vanille Caviar"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-bouquet-de-hongrie",
+   "marca": "BDK Parfums",
+   "nome": "Bouquet De Hongrie"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-creme-de-cuir",
+   "marca": "BDK Parfums",
+   "nome": "Creme De Cuir"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-parfums-velvet-tonka-edp",
+   "marca": "BDK Parfums",
+   "nome": "Velvet Tonka EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-parfums-rouge-smoking-edp",
+   "marca": "BDK Parfums",
+   "nome": "Rouge Smoking EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-parfums-tabac-rose-edp",
+   "marca": "BDK Parfums",
+   "nome": "Tabac Rose EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "bdk-parfums-tubereuse-imperiale-edp-1",
+   "marca": "BDK Parfums",
+   "nome": "Tubereuse Imperiale EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-parfums-collection-parisienne-gris-charnel",
+   "marca": "BDK Parfums",
+   "nome": "Gris Charnel"
+  },
+  {
+   "loja": "venba",
+   "handle": "bdk-parfums-gris-charnel-extrait-tester",
+   "marca": "BDK Parfums",
+   "nome": "Gris Charnel Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "bdk-parfums-creme-de-cuir-edp",
+   "marca": "BDK Parfums",
+   "nome": "Creme de Cuir EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-parfums-impadia",
+   "marca": "BDK Parfums",
+   "nome": "Impadia"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-pas-ce-soir-extrait",
+   "marca": "BDK Parfums",
+   "nome": "Pas ce soir extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-parfums-rouge-smoking-extrait",
+   "marca": "BDK Parfums",
+   "nome": "Rouge Smoking Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-parfums-gris-charnel-extrait",
+   "marca": "BDK Parfums",
+   "nome": "Gris Charnel Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-parfums-silver-ceremony-absolu",
+   "marca": "BDK Parfums",
+   "nome": "Silver Ceremony Absolu"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-parfums-oud-paradisio-absolu",
+   "marca": "BDK Parfums",
+   "nome": "Oud Paradisio Absolu"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bdk-parfums-stellar-silk",
+   "marca": "BDK Parfums",
+   "nome": "Stellar Silk"
+  },
+  {
+   "loja": "venba",
+   "handle": "bdk-parfums-oud-paradisio-absolu-de-parfum",
+   "marca": "BDK Parfums",
+   "nome": "Oud Paradisio Absolu De Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "beso-beach-deseo",
+   "marca": "Beso Beach",
+   "nome": "Deseo"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "birkholz-tales-of-torino",
+   "marca": "Birkholz",
+   "nome": "Tales Of Torino"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "blndr-grphy-01-jasmin-martini",
+   "marca": "Blndr Grphy",
+   "nome": "01 Jasmin Martini"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-best-seller-gift-set",
+   "marca": "Boadicea the Victorious",
+   "nome": "Best Seller Gift Set"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-ardent",
+   "marca": "Boadicea the Victorious",
+   "nome": "Ardent"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-energizer",
+   "marca": "Boadicea the Victorious",
+   "nome": "Energizer"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-eternal-sapphires",
+   "marca": "Boadicea the Victorious",
+   "nome": "Eternal Sapphires gift set"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-new-discovery-gift-set",
+   "marca": "Boadicea the Victorious",
+   "nome": "New Discovery Gift Set"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-the-amber-gift-set",
+   "marca": "Boadicea the Victorious",
+   "nome": "The Amber Gift Set"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-the-citrus-gift-set",
+   "marca": "Boadicea the Victorious",
+   "nome": "The Citrus Gift Set"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-the-leather-gift-set",
+   "marca": "Boadicea the Victorious",
+   "nome": "The Leather gift set"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-the-woody-gift-set",
+   "marca": "Boadicea the Victorious",
+   "nome": "The Woody Gift Set"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-glorious-parfum",
+   "marca": "Boadicea the Victorious",
+   "nome": "Glorious parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-royal-sapphire-collection-gift-set",
+   "marca": "Boadicea the Victorious",
+   "nome": "Royal Sapphire Collection gift set"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-bodacious",
+   "marca": "Boadicea the Victorious",
+   "nome": "Bodacious"
+  },
+  {
+   "loja": "venba",
+   "handle": "boadicea-the-victorious-bodacious-edp",
+   "marca": "Boadicea the Victorious",
+   "nome": "Bodacious EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-bravery-edp",
+   "marca": "Boadicea the Victorious",
+   "nome": "Bravery EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-harmonious",
+   "marca": "Boadicea the Victorious",
+   "nome": "Harmonious"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-consort",
+   "marca": "Boadicea the Victorious",
+   "nome": "Consort"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-heroine",
+   "marca": "Boadicea the Victorious",
+   "nome": "Heroine"
+  },
+  {
+   "loja": "venba",
+   "handle": "boadicea-the-victorious-consort-edp-1",
+   "marca": "Boadicea the Victorious",
+   "nome": "Consort EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-envious-edp",
+   "marca": "Boadicea the Victorious",
+   "nome": "Envious EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-imperial-parfum",
+   "marca": "Boadicea the Victorious",
+   "nome": "Imperial parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-lavish",
+   "marca": "Boadicea the Victorious",
+   "nome": "Lavish"
+  },
+  {
+   "loja": "venba",
+   "handle": "boadicea-the-victorious-azrak-edp-1",
+   "marca": "Boadicea the Victorious",
+   "nome": "Azrak EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-azrak-parfum",
+   "marca": "Boadicea the Victorious",
+   "nome": "Azrak parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-defender",
+   "marca": "Boadicea the Victorious",
+   "nome": "Defender"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-empire",
+   "marca": "Boadicea the Victorious",
+   "nome": "Empire"
+  },
+  {
+   "loja": "venba",
+   "handle": "boadicea-the-victorious-heroine-edp-1",
+   "marca": "Boadicea the Victorious",
+   "nome": "Heroine EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "boadicea-the-victorious-lannosea-edp-2",
+   "marca": "Boadicea the Victorious",
+   "nome": "Lannosea EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-lannosea",
+   "marca": "Boadicea the Victorious",
+   "nome": "Lannosea"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-nemer",
+   "marca": "Boadicea the Victorious",
+   "nome": "Nemer"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-knight-of-love",
+   "marca": "Boadicea the Victorious",
+   "nome": "Knight Of Love"
+  },
+  {
+   "loja": "venba",
+   "handle": "boadicea-the-victorious-andraste-edp",
+   "marca": "Boadicea the Victorious",
+   "nome": "Andraste EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-dasman",
+   "marca": "Boadicea the Victorious",
+   "nome": "Dasman"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-tobacco-sapphire",
+   "marca": "Boadicea the Victorious",
+   "nome": "Tobacco Sapphire"
+  },
+  {
+   "loja": "venba",
+   "handle": "boadicea-the-victorious-green-sapphire-parfum",
+   "marca": "Boadicea the Victorious",
+   "nome": "Green Sapphire Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-opal",
+   "marca": "Boadicea the Victorious",
+   "nome": "Opal"
+  },
+  {
+   "loja": "venba",
+   "handle": "boadicea-the-victorious-amber-sapphire-parfum",
+   "marca": "Boadicea the Victorious",
+   "nome": "Amber Sapphire Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-dragon-edp",
+   "marca": "Boadicea the Victorious",
+   "nome": "Dragon EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-valiant-parfum",
+   "marca": "Boadicea the Victorious",
+   "nome": "Valiant parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "boadicea-the-victorious-hanuman-edp",
+   "marca": "Boadicea the Victorious",
+   "nome": "Hanuman EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-violet-sapphire-supercarged",
+   "marca": "Boadicea the Victorious",
+   "nome": "Violet Sapphire Supercharged"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-blue-sapphire-supercharged-edp",
+   "marca": "Boadicea the Victorious",
+   "nome": "Blue Sapphire Supercharged EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "boadicea-the-victorious-decadence-pure-perfume-1",
+   "marca": "Boadicea the Victorious",
+   "nome": "Decadence Pure Perfume"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "boadicea-the-victorious-nemer-oud",
+   "marca": "Boadicea the Victorious",
+   "nome": "Nemer Oud"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bond-no-9-new-york-spring-fling",
+   "marca": "Bond No.9",
+   "nome": "New York Spring Fling"
+  },
+  {
+   "loja": "venba",
+   "handle": "borntostandout-sin-pleasure-edp-1",
+   "marca": "Borntostandout",
+   "nome": "Sin & Pleasure EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "borntostandout-dirty-milk-edp",
+   "marca": "Borntostandout",
+   "nome": "Dirty Milk EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "borntostandout-cola-addict-edp",
+   "marca": "Borntostandout",
+   "nome": "Cola Addict EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "borntostandout-fig-porn-edp",
+   "marca": "Borntostandout",
+   "nome": "Fig Porn EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "borntostandout-indecent-cherry",
+   "marca": "Borntostandout",
+   "nome": "Indecent Cherry EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "borntostandout-black-creme",
+   "marca": "Borntostandout",
+   "nome": "Black Creme"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "borntostandout-black-karak",
+   "marca": "Borntostandout",
+   "nome": "Black Karak"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "borntostandout-cola-addict-edp",
+   "marca": "Borntostandout",
+   "nome": "Cola Addict EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "borntostandout-purple-stain",
+   "marca": "Borntostandout",
+   "nome": "Purple Stain - Extrait Extreme"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "borntostandout-drunk-lovers",
+   "marca": "Borntostandout",
+   "nome": "Drunk Lovers EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "borntostandout-black-creme-extrait",
+   "marca": "Borntostandout",
+   "nome": "Black Creme Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "borntostandout-drunk-lovers-edp-1",
+   "marca": "Borntostandout",
+   "nome": "Drunk Lovers EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "borntostandout-melon-malo-extrait-tester",
+   "marca": "Borntostandout",
+   "nome": "Melon Malo Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "borntostandout-drunk-lovers-extrait",
+   "marca": "Borntostandout",
+   "nome": "Drunk Lovers Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "borntostandout-fig-porn",
+   "marca": "Borntostandout",
+   "nome": "Fig Porn EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bortnikoff-millennium-santal",
+   "marca": "Bortnikoff",
+   "nome": "Millennium Santal"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bortnikoff-golden-saffron",
+   "marca": "Bortnikoff",
+   "nome": "Golden Saffron"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bortnikoff-spanish-honey",
+   "marca": "Bortnikoff",
+   "nome": "Spanish Honey"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "bortnikoff-tiger-blue",
+   "marca": "Bortnikoff",
+   "nome": "Tiger Blue"
+  },
+  {
+   "loja": "venba",
+   "handle": "bvlgari-gyan-edp",
+   "marca": "Bvlgari",
+   "nome": "Gyan EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "sample-bvlgari-tygar-edp",
+   "marca": "Bvlgari",
+   "nome": "Tygar EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "bvlgari-kobraa-edp",
+   "marca": "Bvlgari",
+   "nome": "Kobraa EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "sample-bvlgari-tygar-extrait",
+   "marca": "Bvlgari",
+   "nome": "Tygar Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "byredo-parfums-black-saffron",
+   "marca": "Byredo",
+   "nome": "Black Saffron"
+  },
+  {
+   "loja": "venba",
+   "handle": "byredo-alto-astral-edp-tester",
+   "marca": "Byredo",
+   "nome": "Alto Astral EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "byredo-parfums-mojave-ghost",
+   "marca": "Byredo",
+   "nome": "Mojave Ghost"
+  },
+  {
+   "loja": "venba",
+   "handle": "byredo-parfums-alto-astral-edp",
+   "marca": "Byredo",
+   "nome": "Alto Astral EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "byredo-parfums-wick-trimmer",
+   "marca": "Byredo",
+   "nome": "Desert Dawn"
+  },
+  {
+   "loja": "venba",
+   "handle": "byredo-parfums-blanche-absolu-tester",
+   "marca": "Byredo",
+   "nome": "Blanche Absolu"
+  },
+  {
+   "loja": "venba",
+   "handle": "byredo-bois-obscur-extrait",
+   "marca": "Byredo",
+   "nome": "Bois Obscur Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "byredo-parfums-bal-dafrique-absolu-de-parfum-tester",
+   "marca": "Byredo",
+   "nome": "Bal d'Afrique Absolu De Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "sample-byredo-parfums-rose-of-no-mans-land-absolu-de-parfum",
+   "marca": "Byredo",
+   "nome": "Rose of No Man's Land Absolu De Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "byredo-parfums-absolu-collection-bal-dafrique",
+   "marca": "Byredo",
+   "nome": "Absolu Collection - Bal d'Afrique Absolu de Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "byredo-parfums-mojave-ghost-absolu-de-parfum",
+   "marca": "Byredo",
+   "nome": "Absolu Collection - Mojave Ghost Absolu de Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "sample-byredo-parfums-bal-dafrique-absolu-de-parfum",
+   "marca": "Byredo",
+   "nome": "Bal d'Afrique Absolu De Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "byredo-parfums-mojave-ghost-absolu",
+   "marca": "Byredo",
+   "nome": "Mojave Ghost Absolu"
+  },
+  {
+   "loja": "venba",
+   "handle": "byredo-parfums-vanille-antique-extrait-tester",
+   "marca": "Byredo",
+   "nome": "Vanille Antique Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "byredo-parfums-vanille-antique-extrait",
+   "marca": "Byredo",
+   "nome": "Vanille Antique Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "caron-poivre-imperial",
+   "marca": "Caron",
+   "nome": "Poivre Imperial"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "chambre52-tobacco-memories-edp",
+   "marca": "Chambre52",
+   "nome": "Tobacco Memories EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "chambre52-tobacco-memories-extrait",
+   "marca": "Chambre52",
+   "nome": "Tobacco Memories Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "chambre52-bois-flotte-edp",
+   "marca": "Chambre52",
+   "nome": "Bois Flotte EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "chambre52-soleil-tonka-edp",
+   "marca": "Chambre52",
+   "nome": "Soleil Tonka EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "chanel-no-5-eau-premiere-tester",
+   "marca": "Chanel",
+   "nome": "No 5 Eau Premiere"
+  },
+  {
+   "loja": "venba",
+   "handle": "chanel-coco-edt-tester",
+   "marca": "Chanel",
+   "nome": "Coco EDT"
+  },
+  {
+   "loja": "venba",
+   "handle": "christian-provenzano-colosseum-extrait",
+   "marca": "Christian Provenzano",
+   "nome": "Colosseum Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "christian-provenzano-onda-dor-extrait",
+   "marca": "Christian Provenzano",
+   "nome": "Onda de Mar Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "christian-provenzano-rocco-extrait",
+   "marca": "Christian Provenzano",
+   "nome": "Rocca Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "city-rhythm-2654-extrait",
+   "marca": "City Rhythm",
+   "nome": "2654 Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "city-rhythm-miami-tropical-confessions-extrait",
+   "marca": "City Rhythm",
+   "nome": "Miami Tropical Confessions Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "clive-christian-noble-xxi-art-deco-amberwood",
+   "marca": "Clive Christian",
+   "nome": "Noble Xxi Art Deco Amberwood"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "clive-christian-1872-for-men",
+   "marca": "Clive Christian",
+   "nome": "1872 for Masculine"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "clive-christian-private-collection-c-woody-leather",
+   "marca": "Clive Christian",
+   "nome": "Private Collection C Woody Leather"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "clive-christian-original-collection-no1-feminine",
+   "marca": "Clive Christian",
+   "nome": "Original Collection No1 Feminine"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "clive-christian-crown-collection-town-country",
+   "marca": "Clive Christian",
+   "nome": "Crown Collection - Town & Country"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "private-collection-e-cashmere-musk",
+   "marca": "Clive Christian",
+   "nome": "Private Collection E Cashmere Musk"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "clive-christian-crown-crab-apple-blossom",
+   "marca": "Clive Christian",
+   "nome": "Crown Crab Apple Blossom"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "clive-christian-noble-vii-rock-rose",
+   "marca": "Clive Christian",
+   "nome": "Noble VII - Rock Rose"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "clive-christian-noble-vii-cosmos-flower-feminine-perfume",
+   "marca": "Clive Christian",
+   "nome": "Noble VII Cosmos Flower"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "clive-christian-noble-xxi-art-deco-blonde-amber",
+   "marca": "Clive Christian",
+   "nome": "Noble Xxi Art Deco Blonde Amber"
+  },
+  {
+   "loja": "venba",
+   "handle": "clive-christian-strange-heavens-out-of-the-blue",
+   "marca": "Clive Christian",
+   "nome": "Strange Heavens Out of the Blue Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "creed-aventus-100ml-latest-batch",
+   "marca": "Creed",
+   "nome": "Aventus"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "creed-eladaria",
+   "marca": "Creed",
+   "nome": "Eladaria"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "creed-millesime-imperial",
+   "marca": "Creed",
+   "nome": "Millesime Imperial"
+  },
+  {
+   "loja": "venba",
+   "handle": "creed-original-santal-edp",
+   "marca": "Creed",
+   "nome": "Original Santal EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "creed-original-santal",
+   "marca": "Creed",
+   "nome": "Original Santal"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "creed-erolfa",
+   "marca": "Creed",
+   "nome": "Erolfa"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "creed-wild-vetiver",
+   "marca": "Creed",
+   "nome": "Wild Vetiver"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "creed-aventus-cologne",
+   "marca": "Creed",
+   "nome": "Aventus Cologne"
+  },
+  {
+   "loja": "venba",
+   "handle": "creed-royal-oud-edp",
+   "marca": "Creed",
+   "nome": "Royal Oud EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "creed-aventus-absolu-100ml",
+   "marca": "Creed",
+   "nome": "Aventus Absolu"
+  },
+  {
+   "loja": "venba",
+   "handle": "creed-wild-vetiver-edp",
+   "marca": "Creed",
+   "nome": "Wild Vetiver EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "creed-iris-debonair",
+   "marca": "Creed",
+   "nome": "Iris Debonair"
+  },
+  {
+   "loja": "venba",
+   "handle": "dorsay-sweet-disruption-wt-edp",
+   "marca": "D'Orsay",
+   "nome": "Sweet Disruption WT EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "dorsay-holy-berry-extrait",
+   "marca": "D'Orsay",
+   "nome": "Holy Berry Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "dorsay-flower-lust-extrait",
+   "marca": "D'Orsay",
+   "nome": "Flower Lust Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "dorsay-rose-blaze-edp",
+   "marca": "D'Orsay",
+   "nome": "Rose Blaze Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "dorsay-tonka-hysteria-extrait",
+   "marca": "D'Orsay",
+   "nome": "Tonka Hysteria Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "dorsay-vanilla-affair-extrait",
+   "marca": "D'Orsay",
+   "nome": "Vanilla Affair Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "devertere-panama-affair-extrait",
+   "marca": "Devertere",
+   "nome": "Panama Affair Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "christian-dior-dioriviera",
+   "marca": "Dior",
+   "nome": "Dioriviera"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "christian-dior-eau-noire",
+   "marca": "Dior",
+   "nome": "Eau Noire"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "christian-dior-balade-sauvage",
+   "marca": "Dior",
+   "nome": "Balade Sauvage"
+  },
+  {
+   "loja": "venba",
+   "handle": "diptyque-orpheon-edt",
+   "marca": "Diptyque",
+   "nome": "Orpheon EDT"
+  },
+  {
+   "loja": "venba",
+   "handle": "diptyque-lombre-dans-leau-edp",
+   "marca": "Diptyque",
+   "nome": "L'Ombre Dans L'Eau EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "diptyque-eau-rose-edp-2",
+   "marca": "Diptyque",
+   "nome": "Eau Rose EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "diptyque-tempo-edp",
+   "marca": "Diptyque",
+   "nome": "Tempo EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "diptyque-fleur-de-peau-edp-1",
+   "marca": "Diptyque",
+   "nome": "Fleur de Peau EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "eight-bob-le-trou-19-du-phare",
+   "marca": "Eight & Bob",
+   "nome": "Le Trou 19 Du Phare"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "eight-bob-original-inside-book-eau-de-parfum-2",
+   "marca": "Eight & Bob",
+   "nome": "Original EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "electimuss-reverie-haze",
+   "marca": "Electimuss",
+   "nome": "Reverie Haze Pure Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "electimuss-astrum-nova-parfum",
+   "marca": "Electimuss",
+   "nome": "Astrum Nova Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "electimuss-amber-bloom-parfum",
+   "marca": "Electimuss",
+   "nome": "Amber Bloom Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "ella-k-memoire-de-daisen-in-edp",
+   "marca": "Ella K",
+   "nome": "Memoire de Daisen In EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "ella-k-musc-k-edp-tester-with-cap",
+   "marca": "Ella K",
+   "nome": "Musc K EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ella-k-pluie-sur-ha-long",
+   "marca": "Ella K",
+   "nome": "Pluie Sur Ha Long"
+  },
+  {
+   "loja": "venba",
+   "handle": "ella-k-musc-k-edp",
+   "marca": "Ella K",
+   "nome": "Musc K EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "ella-k-pluie-sur-ha-long-edp",
+   "marca": "Ella K",
+   "nome": "Pluie sur Ha Long EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ella-k-camelia-k",
+   "marca": "Ella K",
+   "nome": "Camelia K"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ella-k-musc-k",
+   "marca": "Ella K",
+   "nome": "Musc K"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "escentric-molecules-escentric-03",
+   "marca": "Escentric Molecules",
+   "nome": "Escentric 03"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "escentric-molecules-molecule-01-cistus",
+   "marca": "Escentric Molecules",
+   "nome": "Molecule 01 + Cistus"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "escentric-molecules-molecule-02-edt",
+   "marca": "Escentric Molecules",
+   "nome": "Molecule 02 EDT"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "escentric-molecules-molecule-03-cased",
+   "marca": "Escentric Molecules",
+   "nome": "Molecule 03"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "molecule-05-brazil",
+   "marca": "Escentric Molecules",
+   "nome": "Molecule 05"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "escentric-molecules-molecule-01-ginger",
+   "marca": "Escentric Molecules",
+   "nome": "Molecule 01 + Ginger"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "escentric-molecules-escentric-05",
+   "marca": "Escentric Molecules",
+   "nome": "Escentric 05"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "molecule-01-patchouli",
+   "marca": "Escentric Molecules",
+   "nome": "Molecule 01 + Patchouli"
+  },
+  {
+   "loja": "venba",
+   "handle": "essential-parfums-nice-bergamote-edp-3-4-oz",
+   "marca": "Essential Parfums",
+   "nome": "Nice Bergamote EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "essential-parfums-nice-bergamote-edp-tester",
+   "marca": "Essential Parfums",
+   "nome": "Nice Bergamote EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "essential-parfums-bois-imperial-extrait",
+   "marca": "Essential Parfums",
+   "nome": "Bois Imperial Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "essential-parfums-divine-vanille-edp",
+   "marca": "Essential Parfums",
+   "nome": "Divine Vanille EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "essential-parfums-the-musc-edp",
+   "marca": "Essential Parfums",
+   "nome": "The Musc EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "essential-parfums-bois-imperial-edp-3-4-oz",
+   "marca": "Essential Parfums",
+   "nome": "Bois Imperial EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "essential-parfums-velvet-iris-edp-tester",
+   "marca": "Essential Parfums",
+   "nome": "Velvet Iris EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ex-nihilo-paris-chandigarh-express-edp",
+   "marca": "Ex Nihilo",
+   "nome": "Chandigarh Express EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ex-nihilo-paris-rose-hubris-edp",
+   "marca": "Ex Nihilo",
+   "nome": "Rose Hubris EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ex-nihilo-paris-french-affair-edp",
+   "marca": "Ex Nihilo",
+   "nome": "French Affair EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ex-nihilo-paris-lust-in-paradise-edp",
+   "marca": "Ex Nihilo",
+   "nome": "Lust In Paradise EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ex-nihilo-paris-devil-tender-edp",
+   "marca": "Ex Nihilo",
+   "nome": "Devil Tender EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ex-nihilo-paris-love-shot-edp",
+   "marca": "Ex Nihilo",
+   "nome": "Love Shot EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ex-nihilo-paris-cuir-celeste",
+   "marca": "Ex Nihilo",
+   "nome": "Cuir Celeste"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ex-nihilo-paris-musc-infini-edp",
+   "marca": "Ex Nihilo",
+   "nome": "Musc Infini EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ex-nihilo-santal-calling-edp",
+   "marca": "Ex Nihilo",
+   "nome": "Santal Calling EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ex-nihilo-paris-vesper-glitz",
+   "marca": "Ex Nihilo",
+   "nome": "Vesper Glitz"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ex-nihilo-paris-collection-initiale-fleur-narcotique",
+   "marca": "Ex Nihilo",
+   "nome": "Collection Initiale - Fleur Narcotique EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "ex-nihilo-fleur-narcotique-edp",
+   "marca": "Ex Nihilo",
+   "nome": "Fleur Narcotique EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "ex-nihilo-vetiver-moloko-edp-tester",
+   "marca": "Ex Nihilo",
+   "nome": "Vetiver Moloko EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ex-nihilo-paris-coffret-miniatures-iconique",
+   "marca": "Ex Nihilo",
+   "nome": "Coffret Miniatures - Iconique"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ex-nihilo-paris-coffret-miniatures-quintessence",
+   "marca": "Ex Nihilo",
+   "nome": "Coffret Miniatures - Quintessence"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ex-nihilo-paris-collection-iconoclaste-demon-dancer",
+   "marca": "Ex Nihilo",
+   "nome": "Collection Iconoclaste - Demon Dancer"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ex-nihilo-paris-the-hedonist",
+   "marca": "Ex Nihilo",
+   "nome": "The Hedonist"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ex-nihilo-fleur-narcotique-extrait-de-parfum",
+   "marca": "Ex Nihilo",
+   "nome": "Fleur Narcotique Extrait de Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "ex-nihilo-my-sweetest-morphine-edp",
+   "marca": "Ex Nihilo",
+   "nome": "My Sweetest Morphine EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ex-nihilo-paris-blue-talisman",
+   "marca": "Ex Nihilo",
+   "nome": "Blue Talisman"
+  },
+  {
+   "loja": "venba",
+   "handle": "ex-nihilo-atlas-fever-edp-copy",
+   "marca": "Ex Nihilo",
+   "nome": "Atlas Fever EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "ex-nihilo-lust-in-paradise-extrait",
+   "marca": "Ex Nihilo",
+   "nome": "Lust in Paradise Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ex-nihilo-paris-outcast-blue-extrait",
+   "marca": "Ex Nihilo",
+   "nome": "Outcast Blue Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ex-nihilo-paris-lust-in-paradise-extrait-100-ml",
+   "marca": "Ex Nihilo",
+   "nome": "Lust In Paradise Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ex-nihilo-paris-blue-talisman-extrait",
+   "marca": "Ex Nihilo",
+   "nome": "Blue Talisman Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "ex-nihilo-blue-talisman-signature-collection-amber-limited",
+   "marca": "Ex Nihilo",
+   "nome": "Blue Talisman Signature Collection Amber (Limited)"
+  },
+  {
+   "loja": "venba",
+   "handle": "ex-nihilo-patchouli-memory-edp",
+   "marca": "Ex Nihilo",
+   "nome": "Patchouli Memory EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "ex-nihilo-scarlet-sands-edp-dubai-exclusive-1",
+   "marca": "Ex Nihilo",
+   "nome": "Scarlet Sands EDP (Dubai Exclusive)"
+  },
+  {
+   "loja": "venba",
+   "handle": "extra-virgo-fortuna-extrait",
+   "marca": "Extra Virgo",
+   "nome": "Fortuna Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "extra-virgo-vesta-extrait",
+   "marca": "Extra Virgo",
+   "nome": "Vesta Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "extra-virgo-montectristo-extrait",
+   "marca": "Extra Virgo",
+   "nome": "Montecristo Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "fabbrica-della-musa-tribeca-vibes-extrait",
+   "marca": "Fabbrica Della Musa",
+   "nome": "Tribeca Vibes Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "fabbrica-della-musa-dynasty-extrait",
+   "marca": "Fabbrica Della Musa",
+   "nome": "Dynasty Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "fabbrica-della-musa-piccadilly-hero-extrait",
+   "marca": "Fabbrica Della Musa",
+   "nome": "Piccadilly Hero Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "filippo-sorcinelli-chiesa-doro",
+   "marca": "Filippo Sorcinelli",
+   "nome": "Chiesa D'Oro Extrait de Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "filippo-sorcinelli-lascia-che-io-pianga",
+   "marca": "Filippo Sorcinelli",
+   "nome": "Lascia Che Io Pianga Extrait de Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "filippo-sorcinelli-chiudi-gli-occhi-e-poi-vedi",
+   "marca": "Filippo Sorcinelli",
+   "nome": "Chiudi Gli Occhi E Poi Vedi Extrait de Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "filippo-sorcinelli-domm",
+   "marca": "Filippo Sorcinelli",
+   "nome": "Do'mm Extrait de Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "filippo-sorcinelli-io-non-ho-mani-che",
+   "marca": "Filippo Sorcinelli",
+   "nome": "Io Non Ho Mani Che Extrait de Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "filippo-sorcinelli-notre-dame-15-4-2019-extrait-de-parfum",
+   "marca": "Filippo Sorcinelli",
+   "nome": "Notre Dame 15.4.2019 Extrait de Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "filippo-sorcinelli-epicentro",
+   "marca": "Filippo Sorcinelli",
+   "nome": "Epicentro Extrait de Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "filippo-sorcinelli-lux-visionaria",
+   "marca": "Filippo Sorcinelli",
+   "nome": "Lux Visionaria Extrait de Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "floraiku-i-am-coming-home-edp-tester",
+   "marca": "Floraiku",
+   "nome": "I Am Coming Home EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "floraiku-golden-eyes-edp-tester",
+   "marca": "Floraiku",
+   "nome": "Golden Eyes EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "floraiku-rise-and-fall-edp-tester",
+   "marca": "Floraiku",
+   "nome": "Rise and Fall EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "floraiku-i-see-the-clouds-edp",
+   "marca": "Floraiku",
+   "nome": "I See the Clouds Go By EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "floraiku-gong-edp",
+   "marca": "Floraiku",
+   "nome": "Gong EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "floraiku-one-umbrella-for-two-edp-1",
+   "marca": "Floraiku",
+   "nome": "One Umbrella for Two EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-new-york-5-th-avenue",
+   "marca": "Fragrance du Bois",
+   "nome": "New York 5th Avenue"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-new-york-intense-edp",
+   "marca": "Fragrance du Bois",
+   "nome": "New York Intense"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-milano-edp",
+   "marca": "Fragrance du Bois",
+   "nome": "Milano EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-brume-du-matin",
+   "marca": "Fragrance du Bois",
+   "nome": "Brume Du Matin"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-santal-complet",
+   "marca": "Fragrance du Bois",
+   "nome": "Santal Complet"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-siberian-rose",
+   "marca": "Fragrance du Bois",
+   "nome": "Siberian Rose"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-sirene",
+   "marca": "Fragrance du Bois",
+   "nome": "Sirene"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-oud-jaune-intense-edp",
+   "marca": "Fragrance du Bois",
+   "nome": "Oud Jaune Intense EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-sirene-privee",
+   "marca": "Fragrance du Bois",
+   "nome": "Sirene Privee"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-lovers",
+   "marca": "Fragrance du Bois",
+   "nome": "Lovers"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-oud-rose-intense",
+   "marca": "Fragrance du Bois",
+   "nome": "Oud Rose Intense"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "frangrance-du-bois-oud-vert-intense",
+   "marca": "Fragrance du Bois",
+   "nome": "Oud Vert Intense"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-cavort",
+   "marca": "Fragrance du Bois",
+   "nome": "Cavort"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-london-spice",
+   "marca": "Fragrance du Bois",
+   "nome": "London Spice"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-solstis",
+   "marca": "Fragrance du Bois",
+   "nome": "Solstis"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-tropiques",
+   "marca": "Fragrance du Bois",
+   "nome": "Tropiques"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-voyage-a-paris",
+   "marca": "Fragrance du Bois",
+   "nome": "Voyage à Paris"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-pm",
+   "marca": "Fragrance du Bois",
+   "nome": "PM"
+  },
+  {
+   "loja": "venba",
+   "handle": "fragrance-du-bois-cavort-extrait",
+   "marca": "Fragrance du Bois",
+   "nome": "Cavort Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "fragrance-du-bois-new-york-5th-avenue-parfum",
+   "marca": "Fragrance du Bois",
+   "nome": "New York 5th Avenue Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "fragrance-du-bois-london-spice-parfum",
+   "marca": "Fragrance du Bois",
+   "nome": "London Spice Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-prive-oud-noir-intense",
+   "marca": "Fragrance du Bois",
+   "nome": "Prive Oud Noir Intense"
+  },
+  {
+   "loja": "venba",
+   "handle": "fragrance-du-bois-secret-tryst-extrait",
+   "marca": "Fragrance du Bois",
+   "nome": "Secret Tryst Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-prive-sahraa-oud",
+   "marca": "Fragrance du Bois",
+   "nome": "Prive Sahraa"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-lucius",
+   "marca": "Fragrance du Bois",
+   "nome": "Lucius"
+  },
+  {
+   "loja": "venba",
+   "handle": "fragrance-du-bois-lovers-extrait",
+   "marca": "Fragrance du Bois",
+   "nome": "Lovers Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-lucius-maximus-parfum",
+   "marca": "Fragrance du Bois",
+   "nome": "Lucius Maximus parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "fragrance-du-bois-lucius-parfum-1",
+   "marca": "Fragrance du Bois",
+   "nome": "Lucius Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "fragrance-du-bois-oud-bleu-intense-extrait-tester",
+   "marca": "Fragrance du Bois",
+   "nome": "Oud Bleu Intense Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "fragrance-du-bois-tropiques-extrait",
+   "marca": "Fragrance du Bois",
+   "nome": "Tropiques Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-oud-noir-intense-edp",
+   "marca": "Fragrance du Bois",
+   "nome": "Oud Noir Intense EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-oud-bleu-intense-edp",
+   "marca": "Fragrance du Bois",
+   "nome": "Oud Bleu Intense EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fragrance-du-bois-parisian-oud-edp",
+   "marca": "Fragrance du Bois",
+   "nome": "Parisian EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "fragrance-du-bois-oud-vert-intense",
+   "marca": "Fragrance du Bois",
+   "nome": "Oud Vert Intense Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "fragrance-du-bois-amber-intense-extrait-tester",
+   "marca": "Fragrance du Bois",
+   "nome": "Amber Intense Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "fragrance-du-bois-parisian",
+   "marca": "Fragrance du Bois",
+   "nome": "Oud Parisian Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "editions-de-parfums-frederic-malle-monsieur",
+   "marca": "Frederic Malle",
+   "nome": "Monsieur."
+  },
+  {
+   "loja": "olfactory",
+   "handle": "editions-de-parfums-frederic-malle-carnal-flower",
+   "marca": "Frederic Malle",
+   "nome": "Carnal Flower"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "editions-de-parfums-frederic-malle-geranium-pour-monsieur",
+   "marca": "Frederic Malle",
+   "nome": "Geranium Pour Monsieur"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "editions-de-parfums-frederic-malle-bigarade-concentree",
+   "marca": "Frederic Malle",
+   "nome": "Bigarade Concentrée"
+  },
+  {
+   "loja": "venba",
+   "handle": "frederic-malle-portrait-of-a-lady",
+   "marca": "Frederic Malle",
+   "nome": "Portrait Of A Lady EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "french-cowboy-mezcal-chocolat-edp",
+   "marca": "French Cowboy",
+   "nome": "Mezcal Chocolat EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "french-cowboy-pear-pavlova-edp",
+   "marca": "French Cowboy",
+   "nome": "Pear Pavlova EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "french-cowboy-vanilla-breakfast-edp",
+   "marca": "French Cowboy",
+   "nome": "Vanilla for Breakfast EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "french-cowboy-fig-lemonade-edp",
+   "marca": "French Cowboy",
+   "nome": "Fig Lemonade EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "fugazzi-angel-dust-edp-1",
+   "marca": "Fugazzi",
+   "nome": "Angel Dust EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "fugazzi-pomegranoudh-extrait",
+   "marca": "Fugazzi",
+   "nome": "Pomegranoudh Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "giardini-di-toscana-oro-e-miele-100ml-tester",
+   "marca": "Giardini di Toscana",
+   "nome": "Oro E Miele"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "giardini-di-toscana-shabby-chic",
+   "marca": "Giardini di Toscana",
+   "nome": "Shabby Chic"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "giardini-di-toscana-verde-respiro",
+   "marca": "Giardini di Toscana",
+   "nome": "Verde Respiro"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "giardini-di-toscana-bianco-latte",
+   "marca": "Giardini di Toscana",
+   "nome": "Bianco Latte"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gisada-luxury-collection-imperial",
+   "marca": "Gisada",
+   "nome": "Luxury Collection Imperial"
+  },
+  {
+   "loja": "venba",
+   "handle": "goldfield-banks-pacific-rock-moss-edp",
+   "marca": "Goldfield & Banks",
+   "nome": "Pacific Rock Moss EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "goldfield-banks-sunset-hour-edp",
+   "marca": "Goldfield & Banks",
+   "nome": "Sunset Hour EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "goldfield-banks-purple-suede-edp",
+   "marca": "Goldfield & Banks",
+   "nome": "Purple Suede EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "goldfield-and-banks-tales-of-amber",
+   "marca": "Goldfield & Banks",
+   "nome": "Tales of Amber"
+  },
+  {
+   "loja": "venba",
+   "handle": "goldfield-banks-pacific-rock-swell-edp",
+   "marca": "Goldfield & Banks",
+   "nome": "Pacific Rock Swell Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gritti-biassanot",
+   "marca": "Gritti",
+   "nome": "Biassanot"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gritti-19-68",
+   "marca": "Gritti",
+   "nome": "19-68"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gritti-noctem-arabs",
+   "marca": "Gritti",
+   "nome": "Noctem Arabs"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gritti-rebrode",
+   "marca": "Gritti",
+   "nome": "Rebrode"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gritti-chantally-edp",
+   "marca": "Gritti",
+   "nome": "Costiera EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gritti-dame-de-lile",
+   "marca": "Gritti",
+   "nome": "Dame De L'ile"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gritti-jacqueline",
+   "marca": "Gritti",
+   "nome": "Jacqueline"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gritti-adele",
+   "marca": "Gritti",
+   "nome": "Adele"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gritti-gossip-night-edp",
+   "marca": "Gritti",
+   "nome": "Gossip Night EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gritti-kill-the-lights-extrait",
+   "marca": "Gritti",
+   "nome": "Kill The Lights Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gritti-tutu-blanc",
+   "marca": "Gritti",
+   "nome": "Tutu Blanc"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gritti-pomelo-sorrento",
+   "marca": "Gritti",
+   "nome": "Pomelo Sorrento"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gritti-macrame",
+   "marca": "Gritti",
+   "nome": "Macrame"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gritti-tutu-pink-extrait-de-perfum",
+   "marca": "Gritti",
+   "nome": "Tutu Pink - Extrait De Perfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gritti-seta",
+   "marca": "Gritti",
+   "nome": "Seta"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gritti-hysterica",
+   "marca": "Gritti",
+   "nome": "Hysterica"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gritti-pomelo-absoluto",
+   "marca": "Gritti",
+   "nome": "Pomelo Assoluto"
+  },
+  {
+   "loja": "venba",
+   "handle": "gritti-muskaria-extrait",
+   "marca": "Gritti",
+   "nome": "Muskaria Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "gritti-chantilly-extrait",
+   "marca": "Gritti",
+   "nome": "Chantilly Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gritti-super-nova",
+   "marca": "Gritti",
+   "nome": "Super Nova"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gritti-vanilla-tana",
+   "marca": "Gritti",
+   "nome": "Vanilla Tana"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "gritti-gritti-violet-venom",
+   "marca": "Gritti",
+   "nome": "Violet Venom"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "haute-fragrance-company-hfc-dry-wood",
+   "marca": "Haute Fragrance Company HFC",
+   "nome": "Dry Wood"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "haute-fragrance-company-hfc-beautiful-and-wild",
+   "marca": "Haute Fragrance Company HFC",
+   "nome": "Beautiful And Wild"
+  },
+  {
+   "loja": "venba",
+   "handle": "hind-al-oud-yae-parfum-1",
+   "marca": "Hind Al Oud",
+   "nome": "Ya'E Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "hind-al-oud-aliya-e-parfum",
+   "marca": "Hind Al Oud",
+   "nome": "Aliya' E Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "hind-al-oud-dalaa-parfum",
+   "marca": "Hind Al Oud",
+   "nome": "Dalaa Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "hind-al-oud-emarati-musk-parfum",
+   "marca": "Hind Al Oud",
+   "nome": "Emarati Musk Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "hind-al-oud-kohl-parfum",
+   "marca": "Hind Al Oud",
+   "nome": "Kohl Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "hind-al-oud-kohl-parfum-1",
+   "marca": "Hind Al Oud",
+   "nome": "Masa'ey Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "hind-al-oud-sheikh-a-parfum",
+   "marca": "Hind Al Oud",
+   "nome": "Sheikh A Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "hind-al-oud-silver-musk-parfum",
+   "marca": "Hind Al Oud",
+   "nome": "Silver Musk Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "hind-al-oud-alifi-parfum",
+   "marca": "Hind Al Oud",
+   "nome": "Alifi Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "hind-al-oud-barari-parfum",
+   "marca": "Hind Al Oud",
+   "nome": "Barari Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "hind-al-oud-deep-masaey-parfum",
+   "marca": "Hind Al Oud",
+   "nome": "Deep Masa'ey Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "house-of-bo-ave-maria-parfum",
+   "marca": "House Of Bo",
+   "nome": "Ave Maria Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "house-of-bo-bonbom-parfum",
+   "marca": "House Of Bo",
+   "nome": "Bombon Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "house-of-bo-xuxu-parfum",
+   "marca": "House Of Bo",
+   "nome": "Xuxu Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "house-of-bo-la-mar-parfum",
+   "marca": "House Of Bo",
+   "nome": "La Mar Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "house-of-bo-rosario-parfum",
+   "marca": "House Of Bo",
+   "nome": "Rosario Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "initio-oud-for-greatness-hair-perfume",
+   "marca": "Initio Parfums",
+   "nome": "Oud For Greatness Hair Perfume"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "initio-atomic-rose-hair-perfume",
+   "marca": "Initio Parfums",
+   "nome": "Atomic Rose Hair Perfume"
+  },
+  {
+   "loja": "venba",
+   "handle": "initio-parfums-atomic-rose-edp-tester-with-cap",
+   "marca": "Initio Parfums",
+   "nome": "Atomic Rose EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "initio-parfums-side-effect-tester",
+   "marca": "Initio Parfums",
+   "nome": "Side Effect EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "initio-parfums-oud-for-greatness-neo-edp-tester",
+   "marca": "Initio Parfums",
+   "nome": "Oud For Greatness NEO EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "initio-psychedelic-love",
+   "marca": "Initio Parfums",
+   "nome": "Psychedelic Love"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "initio-parfums-oud-for-greatness-neo-edp",
+   "marca": "Initio Parfums",
+   "nome": "Oud For Greatness Neo EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "initio-parfums-narcotic-delight-edp-tester-with-cap",
+   "marca": "Initio Parfums",
+   "nome": "Narcotic Delight EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "initio-parfums-prives-power-self",
+   "marca": "Initio Parfums",
+   "nome": "Parfums Prives - Power Self"
+  },
+  {
+   "loja": "venba",
+   "handle": "initio-parfums-oud-for-greatness-edp-tester-with-cap",
+   "marca": "Initio Parfums",
+   "nome": "Oud For Greatness EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "initio-paragon",
+   "marca": "Initio Parfums",
+   "nome": "Paragon"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "initio-narcotic-delight-edp-90ml-flacon",
+   "marca": "Initio Parfums",
+   "nome": "Narcotic Delight EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "initio-parfums-atomic-rose-edp",
+   "marca": "Initio Parfums",
+   "nome": "Atomic Rose EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "initio-absolute-aphrodisiac",
+   "marca": "Initio Parfums",
+   "nome": "Absolute Aphrodisiac"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "initio-side-effect",
+   "marca": "Initio Parfums",
+   "nome": "Side Effect"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "initio-cant-get-enough",
+   "marca": "Initio Parfums",
+   "nome": "Can't Get Enough"
+  },
+  {
+   "loja": "venba",
+   "handle": "initio-parfums-cant-get-enough-edp-tester",
+   "marca": "Initio Parfums",
+   "nome": "Can't Get Enough EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "initio-oud-for-greatness",
+   "marca": "Initio Parfums",
+   "nome": "Oud For Greatness"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "initio-wild-rush",
+   "marca": "Initio Parfums",
+   "nome": "Wild Rush"
+  },
+  {
+   "loja": "venba",
+   "handle": "initio-parfums-oud-for-grace-edp",
+   "marca": "Initio Parfums",
+   "nome": "Oud for Grace EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "j-u-s-bloomastral",
+   "marca": "J.U.S",
+   "nome": "Bloomastral"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "j-u-s-icyfizz",
+   "marca": "J.U.S",
+   "nome": "Icyfizz"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "j-u-s-noiressence",
+   "marca": "J.U.S",
+   "nome": "Noir Essence"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "j-u-s-sopoudrage",
+   "marca": "J.U.S",
+   "nome": "Sopoudrage"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "j-u-s-spicydelice",
+   "marca": "J.U.S",
+   "nome": "Spicy Delice"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "j-u-s-spritzlove",
+   "marca": "J.U.S",
+   "nome": "Spritzlove"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "j-u-s-superfusion",
+   "marca": "J.U.S",
+   "nome": "Superfusion"
+  },
+  {
+   "loja": "venba",
+   "handle": "jeroboam-floro-extrait-1",
+   "marca": "Jeroboam",
+   "nome": "Floro Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "juliette-has-a-gun-liquid-illusion",
+   "marca": "Juliette Has A Gun",
+   "nome": "Liquid Illusion"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "juliette-has-a-gun-madeleine-imperiale",
+   "marca": "Juliette Has A Gun",
+   "nome": "Madeleine Imperiale"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "juliette-has-a-gun-oil-fiction",
+   "marca": "Juliette Has A Gun",
+   "nome": "Oil Fiction"
+  },
+  {
+   "loja": "venba",
+   "handle": "kajal-lamar-edp",
+   "marca": "Kajal",
+   "nome": "Lamar EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "kajal-dahab-absolu-extrait-tester",
+   "marca": "Kajal",
+   "nome": "Dahab Absolu Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "killian-black-phantom-edp-1-7-oz",
+   "marca": "Kilian",
+   "nome": "Black Phantom EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "kilian-smoking-hot-edp",
+   "marca": "Kilian",
+   "nome": "Smoking Hot EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "kilian-straight-to-heaven-1-7-oz-edp",
+   "marca": "Kilian",
+   "nome": "Straight To Heaven EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "kilian-rolling-in-love-edp-1-7-oz",
+   "marca": "Kilian",
+   "nome": "Rolling In Love EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "kilian-angels-share-on-the-rocks-edp-1",
+   "marca": "Kilian",
+   "nome": "Angels Share On the Rocks EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "lentropiste-altamura",
+   "marca": "L'Entropiste",
+   "nome": "Altamura"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "lentropiste-semence-douce",
+   "marca": "L'Entropiste",
+   "nome": "Semence Douce"
+  },
+  {
+   "loja": "venba",
+   "handle": "les-eaux-primordiales-iris-palladium-edp",
+   "marca": "Les Eaux Primordiales",
+   "nome": "Iris Palladium EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "les-eaux-primordiales-elevation-edp",
+   "marca": "Les Eaux Primordiales",
+   "nome": "Elevation EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "les-eaux-primordiales-couleur-primaire-edp",
+   "marca": "Les Eaux Primordiales",
+   "nome": "Couleur Primaire EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "eaux-primordiales-superose-edp",
+   "marca": "Les Eaux Primordiales",
+   "nome": "Superose EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "eaux-primordiales-ambre-superfluide-edp",
+   "marca": "Les Eaux Primordiales",
+   "nome": "Ambre Superfluide EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "eaux-primordiales-oud-superfluide-edp",
+   "marca": "Les Eaux Primordiales",
+   "nome": "Oud Superfluide EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "les-eaux-primordiales-oud-supermassive-edp",
+   "marca": "Les Eaux Primordiales",
+   "nome": "Oud Supermassive Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "eaux-primordiales-ambre-supermassive-extrait",
+   "marca": "Les Eaux Primordiales",
+   "nome": "Ambre Supermassive Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "eaux-primordiales-vanille-supermassive-extrait",
+   "marca": "Les Eaux Primordiales",
+   "nome": "Vanille Supermassive Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "les-indemodables-cafe-arabesque",
+   "marca": "Les Indemodables",
+   "nome": "Cafe Arabesque"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "les-indemodables-cuir-de-chine-edp",
+   "marca": "Les Indemodables",
+   "nome": "Cuir De Chine EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "les-indemodables-fougere-emeraude-edp",
+   "marca": "Les Indemodables",
+   "nome": "Fougere Emeraude EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "les-indemodables-immortelle-solaire-edp",
+   "marca": "Les Indemodables",
+   "nome": "Immortelle Solaire EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "les-indemodables-oranger-sirocco-edp",
+   "marca": "Les Indemodables",
+   "nome": "Oranger Sirocco EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "les-indemodables-vanille-havane-edp",
+   "marca": "Les Indemodables",
+   "nome": "Vanille Havane EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "les-indemodables-chypre-azural-edp-tester",
+   "marca": "Les Indemodables",
+   "nome": "Chypre Azural EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "les-indemodables-cuir-de-chine-edp-tester",
+   "marca": "Les Indemodables",
+   "nome": "Cuir de Chine EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "les-indemodables-immortelle-solaire-edp-tester",
+   "marca": "Les Indemodables",
+   "nome": "Immortelle Solaire EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "les-indemodables-rose-de-jamal-edp-tester",
+   "marca": "Les Indemodables",
+   "nome": "Rose de Jamal EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "les-indemodables-ambre-supreme-edp-tester",
+   "marca": "Les Indemodables",
+   "nome": "Ambre Supreme EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "essential-parfums-tumultu",
+   "marca": "Liquides Imaginaires",
+   "nome": "Tumultu"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "liquides-imaginaires-ame-du-coeur",
+   "marca": "Liquides Imaginaires",
+   "nome": "Ame du Coeur"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "les-liquides-imaginaires-bloody-wood",
+   "marca": "Liquides Imaginaires",
+   "nome": "Bloody Wood"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "essential-parfums-fortis",
+   "marca": "Liquides Imaginaires",
+   "nome": "Fortis"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "les-liquides-imaginaires-tapis-volant",
+   "marca": "Liquides Imaginaires",
+   "nome": "Tapis Volant"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "liquides-imaginaires-liquide-gold",
+   "marca": "Liquides Imaginaires",
+   "nome": "Liquide Gold"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "essential-parfums-ame-de-fleur",
+   "marca": "Liquides Imaginaires",
+   "nome": "Ame De Fleur"
+  },
+  {
+   "loja": "venba",
+   "handle": "lorenzo-pazzaglia-evil-angel-extrait-tester-with-no-cap",
+   "marca": "Lorenzo Pazzaglia",
+   "nome": "Evil Angel Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "lorenzo-pazzaglia-passion-rose-1-7-oz-extrait",
+   "marca": "Lorenzo Pazzaglia",
+   "nome": "Passion Rose Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "lorenzo-pazzaglia-ginfusion-extrait-tester",
+   "marca": "Lorenzo Pazzaglia",
+   "nome": "Ginfusion Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "lorenzo-pazzaglia-tropikalys-karma-extrait-tester",
+   "marca": "Lorenzo Pazzaglia",
+   "nome": "Tropikalys Karma Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "lorenzo-pazzaglia-cherry-ink",
+   "marca": "Lorenzo Pazzaglia",
+   "nome": "Cherry Ink"
+  },
+  {
+   "loja": "venba",
+   "handle": "lorenzo-pazzaglia-black-sea-1-7-oz-extrait-tester-with-no-cap",
+   "marca": "Lorenzo Pazzaglia",
+   "nome": "Black Sea Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "lorenzo-pazzaglia-van-sea-extrait-tester-with-cap",
+   "marca": "Lorenzo Pazzaglia",
+   "nome": "Van Sea Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "lorenzo-pazzaglia-vesuviuur-50-ml",
+   "marca": "Lorenzo Pazzaglia",
+   "nome": "Vesuviuur"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "lorenzo-pazzaglia-foresta-magica-50-ml",
+   "marca": "Lorenzo Pazzaglia",
+   "nome": "Foresta Magica"
+  },
+  {
+   "loja": "venba",
+   "handle": "lorenzo-pazzaglia-evil-angel-extrait",
+   "marca": "Lorenzo Pazzaglia",
+   "nome": "Evil Angel Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "lorenzo-pazzaglia-green-island-50-ml",
+   "marca": "Lorenzo Pazzaglia",
+   "nome": "Green Island"
+  },
+  {
+   "loja": "venba",
+   "handle": "lorenzo-pazzaglia-tropikalys-karma-extrait",
+   "marca": "Lorenzo Pazzaglia",
+   "nome": "Tropikalys Karma Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "loumari-almeria-edp",
+   "marca": "Loumari",
+   "nome": "Almeria Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "loumari-maydanextrait",
+   "marca": "Loumari",
+   "nome": "Maydan Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "loumari-noble-cavale-extrait",
+   "marca": "Loumari",
+   "nome": "Noble Cavale Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "loumari-porthole-edp",
+   "marca": "Loumari",
+   "nome": "Porthole Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "loumari-radanfor-extrait",
+   "marca": "Loumari",
+   "nome": "Radanfor Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "loumari-saja-extrait",
+   "marca": "Loumari",
+   "nome": "Saja Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "loumari-aomak-extrait-1",
+   "marca": "Loumari",
+   "nome": "Aomak Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "luxury-overdose-discovery-set-4x10ml-tester",
+   "marca": "Luxury Overdose",
+   "nome": "Discovery Set"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "luxury-overdose-le-parfum-100ml",
+   "marca": "Luxury Overdose",
+   "nome": "Le Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "luxury-overdose-pluie-dosmanthe-100ml-tester",
+   "marca": "Luxury Overdose",
+   "nome": "Pluie D'Osmanthe"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "luxury-overdose-black-orchid-100ml",
+   "marca": "Luxury Overdose",
+   "nome": "Black Orchid"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "luxury-overdose-extatic-gardenia-100ml",
+   "marca": "Luxury Overdose",
+   "nome": "Ecstatic Gardenia"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "micallef-ananda-nectar-50ml-tester",
+   "marca": "M. Micallef",
+   "nome": "Ananda Nectar"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "micallef-secret-of-love-ma-nature",
+   "marca": "M. Micallef",
+   "nome": "Secret Of Love Ma Nature"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "micallef-secret-of-love-glamour",
+   "marca": "M. Micallef",
+   "nome": "Secret Of Love Glamour"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "micallef-gntonic-virgin-100ml-tester",
+   "marca": "M. Micallef",
+   "nome": "GnTonic Virgin"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "micallef-purple-love-100ml-tester",
+   "marca": "M. Micallef",
+   "nome": "Purple Love"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "micallef-secret-of-love-royal-blue",
+   "marca": "M. Micallef",
+   "nome": "Secret Of Love Royal Blue"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "maison-crivelli-rose-satifolia",
+   "marca": "Maison Crivelli",
+   "nome": "Rose Satifolia"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-crivelli-patchouli-magnetik-extrait-1-7-oz",
+   "marca": "Maison Crivelli",
+   "nome": "Patchouli Magnetik Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "maison-crivelli-amabre-chromatique",
+   "marca": "Maison Crivelli",
+   "nome": "Ambre chromatique"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "maison-crivelli-cuir-infrarouge",
+   "marca": "Maison Crivelli",
+   "nome": "Cuir Infrarouge"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "maison-crivelli-hibiscus-mahajad",
+   "marca": "Maison Crivelli",
+   "nome": "Hibiscus Mahajad"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "maison-crivelli-oud-stallion",
+   "marca": "Maison Crivelli",
+   "nome": "Oud Stallion"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-crivelli-musc-nurasana-extrait-tester",
+   "marca": "Maison Crivelli",
+   "nome": "Musc Nurasana Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-crivelli-hibiscus-mahajad-extrait",
+   "marca": "Maison Crivelli",
+   "nome": "Hibiscus Mahajad Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-crivelli-musc-nurasana-extrait",
+   "marca": "Maison Crivelli",
+   "nome": "Musc Nurasana Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "maison-crivelli-oud-maracuja",
+   "marca": "Maison Crivelli",
+   "nome": "Oud Maracujá"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-crivelli-tobacco-carnaval-extrait",
+   "marca": "Maison Crivelli",
+   "nome": "Tobacco Carnaval Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "maison-francis-kurkdjian-a-la-rose-eau-de-parfum",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "À la rose EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "maison-francis-kurkdjian-gentle-fluidity-gold",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "Gentle Fluidity Gold"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "maison-francis-kurkdjian-aqua-universalis-eau-de-toilette",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "Aqua Universalis EDT"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-francis-kurkdjian-amyris-femme-extrait-tester",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "Amyris Femme Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "maison-francis-kurkdjian-kurky",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "Kurky"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "maison-francis-kurkdjian-amyris-femme",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "Amyris Femme EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-francis-kurkdjian-gentle-fluidity-silver-edp-tester",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "Gentle Fluidity Silver EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-francis-kurkdjian-grand-soir-edp-tester-with-cap",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "Grand Soir EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-francis-kurkdjian-kurky-edp-1",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "Kurky EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-francis-kurkdjian-apom-edp",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "APOM EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "maison-francis-kurkdjian-gentle-fluidity-silver",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "Gentle Fluidity Silver"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "maison-francis-kurkdjian-grand-soir",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "Grand Soir"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "maison-francis-kurkdjian-oud-satin-mood-eau-de-parfum",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "OUD - Satin Mood EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "maison-francis-kurkdjian-baccarat-rouge-540",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "Baccarat Rouge 540 EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "maison-francis-kurkdjian-baccarat-rouge-540-extrait-de-parfum",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "Baccarat Rouge 540 Extrait de Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-francis-kurkdjian-724-edp",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "724 EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-francis-kurkdjian-gentle-fluidity-gold-edp",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "Gentle Fluidity Gold EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-francis-kurkdjian-grand-soir-edp",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "Grand Soir EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-francis-kurkdjian-gentle-fluidity-silver-edp",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "Gentle Fluidity Silver EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-francis-kurkdjian-oud-satin-mood-edp",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "Oud Satin Mood EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-francis-kurkdjian-baccarat-rouge-540-edp",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "Baccarat Rouge 540 EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-francis-kurkdjian-baccarat-rouge-540-extrait-tester-with-cap",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "Baccarat Rouge 540 Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-francis-kurkdjian-baccarat-rouge-540-extrait",
+   "marca": "Maison Francis Kurkdjian",
+   "nome": "Baccarat Rouge 540 Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "maison-mataha-evasion-bonbon",
+   "marca": "Maison Mataha",
+   "nome": "Evasion bonbon"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "maison-mataha-peche-velours",
+   "marca": "Maison Mataha",
+   "nome": "Peche Velours"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-mataha-escapade-gourmande-extrait-3-4-oz",
+   "marca": "Maison Mataha",
+   "nome": "Escapade Gourmande Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-mataha-peche-velours-extrait",
+   "marca": "Maison Mataha",
+   "nome": "Peche Velours Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "maison-mataha-printemps-blanc-extrait",
+   "marca": "Maison Mataha",
+   "nome": "Printemps Blanc Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "mancera-cedrat-boise-edp-tester-with-cap",
+   "marca": "Mancera",
+   "nome": "Cedrat Boise EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mancera-instant-crush",
+   "marca": "Mancera",
+   "nome": "Instant Crush"
+  },
+  {
+   "loja": "venba",
+   "handle": "mancera-sicily-edp-4-oz",
+   "marca": "Mancera",
+   "nome": "Sicily EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mancera-intense-cedrat-boise-intense-edp",
+   "marca": "Mancera",
+   "nome": "Intense Cedrat Boise"
+  },
+  {
+   "loja": "venba",
+   "handle": "mancera-black-gold-edp",
+   "marca": "Mancera",
+   "nome": "Black Gold EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "mancera-french-riviera-edp",
+   "marca": "Mancera",
+   "nome": "French Riviera EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "marc-antoine-barrois-ganymede",
+   "marca": "Marc-Antoine Barrois",
+   "nome": "Ganymede"
+  },
+  {
+   "loja": "venba",
+   "handle": "marc-antoine-barrois-ganymede-edp",
+   "marca": "Marc-Antoine Barrois",
+   "nome": "Ganymede EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "marc-antoine-barrois-tilia",
+   "marca": "Marc-Antoine Barrois",
+   "nome": "Tilia"
+  },
+  {
+   "loja": "venba",
+   "handle": "marc-antoine-barrois-tilia-edp-tester",
+   "marca": "Marc-Antoine Barrois",
+   "nome": "Tilia EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "marc-antoine-barrois-tilia-edp",
+   "marca": "Marc-Antoine Barrois",
+   "nome": "Tilia EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "marrakech-imperial-boheme-chic-edp",
+   "marca": "Marrakech Imperial",
+   "nome": "Boheme Chic Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "marrakech-imperial-esprit-nomade-edp",
+   "marca": "Marrakech Imperial",
+   "nome": "Esprit Nomade Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "marrakech-imperial-oud-kasbah-royal-edp",
+   "marca": "Marrakech Imperial",
+   "nome": "Oud Kasbah Royal Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "marrakech-imperial-royal-sultana-extrait",
+   "marca": "Marrakech Imperial",
+   "nome": "Royal Sultana Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "marrakech-imperial-leau-du-deset-marocain-edp",
+   "marca": "Marrakech Imperial",
+   "nome": "L'Eau du Deset Marocain Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "matiere-premiere-discovery-set",
+   "marca": "Matiere Premiere",
+   "nome": "Discovery Set"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "matiere-premiere-vanilla-powder-1",
+   "marca": "Matiere Premiere",
+   "nome": "Vanilla Powder"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mp-be100f",
+   "marca": "Matiere Premiere",
+   "nome": "Bois d'Ebene EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mp-fl100",
+   "marca": "Matiere Premiere",
+   "nome": "Falcon Leather EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "matiere-premiere-french-flower",
+   "marca": "Matiere Premiere",
+   "nome": "French Flower"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mp-sa100",
+   "marca": "Matiere Premiere",
+   "nome": "Santal Austral - 100ml - 95% or more full - No Box"
+  },
+  {
+   "loja": "venba",
+   "handle": "matiere-premiere-bois-debene-edp-copy",
+   "marca": "Matiere Premiere",
+   "nome": "Bois D'Ebene EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mp-pm6",
+   "marca": "Matiere Premiere",
+   "nome": "Parisian Musc EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "matiere-premiere-santal-austral-extrait",
+   "marca": "Matiere Premiere",
+   "nome": "Santal Austral Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "matiere-premiere-radical-rose-extrait",
+   "marca": "Matiere Premiere",
+   "nome": "Radical Rose Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "matiere-premiere-vanilla-powder",
+   "marca": "Matiere Premiere",
+   "nome": "Vanilla Powder Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "memo-paris-abudhabi-edp",
+   "marca": "Memo Paris",
+   "nome": "Abu Dhabi EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "memo-paris-french-leather-edp",
+   "marca": "Memo Paris",
+   "nome": "French Leather EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "memo-paris-cuirs-nomades-irish-leather",
+   "marca": "Memo Paris",
+   "nome": "Irish Leather"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "memo-paris-flam-abu-dhabi",
+   "marca": "Memo Paris",
+   "nome": "Abu Dhabi"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "memo-paris-cappadocia",
+   "marca": "Memo Paris",
+   "nome": "Cappadocia"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "memo-paris-corfu-edp",
+   "marca": "Memo Paris",
+   "nome": "Corfu EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "memo-paris-escales-extraordinaires-irish-oud",
+   "marca": "Memo Paris",
+   "nome": "Escales Extraordinaires - Irish Oud"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "memo-paris-indian-leather",
+   "marca": "Memo Paris",
+   "nome": "Indian Leather"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "memo-paris-ithaque",
+   "marca": "Memo Paris",
+   "nome": "Ithaque"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "memo-paris-flam-edp",
+   "marca": "Memo Paris",
+   "nome": "Flam EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "memo-paris-odeon-edp-tester",
+   "marca": "Memo Paris",
+   "nome": "Odeon EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "memo-paris-art-land-marfa",
+   "marca": "Memo Paris",
+   "nome": "Art Land - Marfa"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "memo-paris-marfa-spices",
+   "marca": "Memo Paris",
+   "nome": "Marfa Spices"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "memo-paris-graines-vagabondes-ilha-do-mel",
+   "marca": "Memo Paris",
+   "nome": "Graines Vagabondes - Ilha do Mel"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "memo-paris-odeon-edp",
+   "marca": "Memo Paris",
+   "nome": "Odeon EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "memo-paris-zante",
+   "marca": "Memo Paris",
+   "nome": "Zante"
+  },
+  {
+   "loja": "venba",
+   "handle": "memo-paris-african-leather-edp-tester",
+   "marca": "Memo Paris",
+   "nome": "African Leather EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "memo-paris-african-leather-edp",
+   "marca": "Memo Paris",
+   "nome": "African Leather EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "memo-paris-madurai-edp-tester",
+   "marca": "Memo Paris",
+   "nome": "Madurai EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "memo-paris-odeon-edp",
+   "marca": "Memo Paris",
+   "nome": "Odeon EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "memo-paris-palais-bourbon-edp",
+   "marca": "Memo Paris",
+   "nome": "Palais Bourbon EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "memo-paris-graines-vagabondes-kedu",
+   "marca": "Memo Paris",
+   "nome": "Graines Vagabondes - Kedu"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "memo-paris-les-echappees-lalibela",
+   "marca": "Memo Paris",
+   "nome": "Lalibela"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "memo-paris-italian-leather",
+   "marca": "Memo Paris",
+   "nome": "Italian Leather"
+  },
+  {
+   "loja": "venba",
+   "handle": "memo-paris-honey-dragon-edp",
+   "marca": "Memo Paris",
+   "nome": "Honey Dragon EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "memo-paris-cap-camarat-x-olimpia-zagnoli-edp",
+   "marca": "Memo Paris",
+   "nome": "Cap Camarat x Olimpia Zagnoli EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "memo-paris-darling-point-edp",
+   "marca": "Memo Paris",
+   "nome": "Darling Point EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "memo-paris-marfa-oud",
+   "marca": "Memo Paris",
+   "nome": "Marfa Oud"
+  },
+  {
+   "loja": "venba",
+   "handle": "memoirs-of-a-perfume-collector-chapter-pina-colada-extrait",
+   "marca": "Memoirs Of A Perfume Collector",
+   "nome": "Chapter: Pina Colada Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "memoirs-of-a-perfume-collector-pacific-grapefruit-extrait-1",
+   "marca": "Memoirs Of A Perfume Collector",
+   "nome": "Pacific Grapefruit Cologne Intense"
+  },
+  {
+   "loja": "venba",
+   "handle": "memoirs-of-a-perfume-collector-trouble-in-paradise-extrait-1",
+   "marca": "Memoirs Of A Perfume Collector",
+   "nome": "Trouble in Paradise Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mes-bisous-discovery-set",
+   "marca": "Mes Bisous",
+   "nome": "Discovery set"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mes-bisous-crumble-me-softly",
+   "marca": "Mes Bisous",
+   "nome": "Crumble Me Softly"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "miller-harris-reverie-de-bergamote-100ml",
+   "marca": "Miller Harris",
+   "nome": "Rêverie de Bergamote"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mind-games-artisan-collection-grand-master-100ml",
+   "marca": "Mind Games",
+   "nome": "Artisan Collection - Grand Master"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mind-games-scholars-mate",
+   "marca": "Mind Games",
+   "nome": "Scholar's Mate"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mind-games-checkmate",
+   "marca": "Mind Games",
+   "nome": "Checkmate"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mind-games-roy-lopez",
+   "marca": "Mind Games",
+   "nome": "Ruy Lopez"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mind-games-caissa",
+   "marca": "Mind Games",
+   "nome": "Caissa"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mind-games-gardez",
+   "marca": "Mind Games",
+   "nome": "Gardez"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mind-games-soulmate-collection-the-forward-100ml",
+   "marca": "Mind Games",
+   "nome": "Soulmate Collection - The Forward"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mind-games-castling",
+   "marca": "Mind Games",
+   "nome": "Castling"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mind-games-artisan-collection-jadoube-100ml",
+   "marca": "Mind Games",
+   "nome": "Artisan Collection - J'Adoube"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mind-games-lionora",
+   "marca": "Mind Games",
+   "nome": "Lionora"
+  },
+  {
+   "loja": "venba",
+   "handle": "mind-games-as-sulis-diamond-extrait-de-parfum-3-4-oz",
+   "marca": "Mind Games",
+   "nome": "As-Suli's Diamond Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "mind-games-lionora-extrait",
+   "marca": "Mind Games",
+   "nome": "Lionora Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "mind-games-prodigy-extrait-tester-with-cap",
+   "marca": "Mind Games",
+   "nome": "Prodigy Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "mind-games-sissa-extrait",
+   "marca": "Mind Games",
+   "nome": "Sissa Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "mind-games-scholars-mate-extrait-de-parfum-3-4-oz",
+   "marca": "Mind Games",
+   "nome": "Scholar's Mate Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "mind-games-mentor-extrait",
+   "marca": "Mind Games",
+   "nome": "Mentor Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "mind-games-prodigy-extrait",
+   "marca": "Mind Games",
+   "nome": "Prodigy Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "mind-games-arabian-mate-extrait-tester",
+   "marca": "Mind Games",
+   "nome": "Arabian Mate Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "mind-games-knights-tour-extrait-tester",
+   "marca": "Mind Games",
+   "nome": "Knight's Tour Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mind-games-soulmate-collection-gambit-100ml",
+   "marca": "Mind Games",
+   "nome": "Soulmate Collection - Gambit"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mind-games-soulmate-collection-french-defense-100ml",
+   "marca": "Mind Games",
+   "nome": "Soulmate Collection - French Defense"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mind-games-artisan-collection-blockade-100ml",
+   "marca": "Mind Games",
+   "nome": "Artisan Collection - Blockade"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mind-games-queening",
+   "marca": "Mind Games",
+   "nome": "Queening"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mind-games-perfumer-extraordinaire-collection-queenside",
+   "marca": "Mind Games",
+   "nome": "Perfumer Extraordinaire Collection - Queenside"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "mind-games-prodigy",
+   "marca": "Mind Games",
+   "nome": "Prodigy"
+  },
+  {
+   "loja": "venba",
+   "handle": "narcotica-narco-oasis-edp-tester-no-cap",
+   "marca": "Narcotica",
+   "nome": "Narco Oasis Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "narcotica-limonata-extrait-tester-no-cap",
+   "marca": "Narcotica",
+   "nome": "Limonata Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "narcotica-amber-radiance-extrait",
+   "marca": "Narcotica",
+   "nome": "Amber Radiance Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nasomatto-absinth",
+   "marca": "Nasomatto",
+   "nome": "Absinth"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nasomatto-black-afgano",
+   "marca": "Nasomatto",
+   "nome": "Black Afgano"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nasomatto-narcotic-v",
+   "marca": "Nasomatto",
+   "nome": "Narcotic V."
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nasomatto-pardon",
+   "marca": "Nasomatto",
+   "nome": "Pardon"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nasomatto-silver-musk",
+   "marca": "Nasomatto",
+   "nome": "Silver Musk"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nasomatto-blamage",
+   "marca": "Nasomatto",
+   "nome": "Blamage"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nasomatto-fantomas",
+   "marca": "Nasomatto",
+   "nome": "Fantomas"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nasomatto-sado-naso",
+   "marca": "Nasomatto",
+   "nome": "Sadonaso"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nasomatto-duro",
+   "marca": "Nasomatto",
+   "nome": "Duro"
+  },
+  {
+   "loja": "venba",
+   "handle": "nicolai-fig-tea-edt",
+   "marca": "Nicolai",
+   "nome": "Fig Tea EDT"
+  },
+  {
+   "loja": "venba",
+   "handle": "nicolai-creme-ebene-edp-intense",
+   "marca": "Nicolai",
+   "nome": "Creme Ebene EDP Intense"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nicolai-les-oud-sublime-elixir-de-parfum-spray",
+   "marca": "Nicolai",
+   "nome": "Oud Sublime Elixir De Parfum Spray"
+  },
+  {
+   "loja": "venba",
+   "handle": "nicolai-new-york-edp-intense",
+   "marca": "Nicolai",
+   "nome": "New York EDP Intense"
+  },
+  {
+   "loja": "venba",
+   "handle": "nicolai-saint-honore-edp-intense",
+   "marca": "Nicolai",
+   "nome": "Saint-Honore EDP Intense"
+  },
+  {
+   "loja": "venba",
+   "handle": "nicolai-fig-tea-edp-intense",
+   "marca": "Nicolai",
+   "nome": "Fig Tea EDP Intense"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "sultan-vetiver",
+   "marca": "Nishane",
+   "nome": "Sultan Vetiver"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nishane-b-612-extrait-de-parfum",
+   "marca": "Nishane",
+   "nome": "B-612 Extrait de Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "fan-your-flames",
+   "marca": "Nishane",
+   "nome": "Fan Your Flames"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nishane-nanshe",
+   "marca": "Nishane",
+   "nome": "Nanshe"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "wulong-cha",
+   "marca": "Nishane",
+   "nome": "Wulong Cha"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nishane-thorns-become-roses",
+   "marca": "Nishane",
+   "nome": "Thorns Become Roses"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nishane-deziro",
+   "marca": "Nishane",
+   "nome": "Deziro"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nishane-hacivat",
+   "marca": "Nishane",
+   "nome": "Hacivat Perfume"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nishane-hacivat-x-extrait-de-parfume",
+   "marca": "Nishane",
+   "nome": "Hacivat X Extrait de Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "nishane-hundred-silent-ways-extrait",
+   "marca": "Nishane",
+   "nome": "Hundred Silent Ways Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "nishane-wulong-cha-x-extrait",
+   "marca": "Nishane",
+   "nome": "Wulong Cha X Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "nishane-ani-x-extrait",
+   "marca": "Nishane",
+   "nome": "Ani X Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nishane-ani",
+   "marca": "Nishane",
+   "nome": "Ani"
+  },
+  {
+   "loja": "venba",
+   "handle": "nishane-favonius-extrait",
+   "marca": "Nishane",
+   "nome": "Favonius Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nishane-meant-to-be-seen",
+   "marca": "Nishane",
+   "nome": "Meant To Be Seen"
+  },
+  {
+   "loja": "venba",
+   "handle": "nishane-meant-to-be-seen-tester",
+   "marca": "Nishane",
+   "nome": "Meant To Be Seen"
+  },
+  {
+   "loja": "venba",
+   "handle": "nishane-meant-to-be-seen",
+   "marca": "Nishane",
+   "nome": "Meant To Be Seen Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nobile-1942-casta-diva",
+   "marca": "Nobile 1942",
+   "nome": "Casta Diva"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nobile-1942-la-danza-delle-libellule",
+   "marca": "Nobile 1942",
+   "nome": "La Danza Delle Libellule"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nobile-1942-patchouli-nobile",
+   "marca": "Nobile 1942",
+   "nome": "Patchouli Nobile"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nobile-1942-capriccio-del-maestro-exceptional-edition",
+   "marca": "Nobile 1942",
+   "nome": "Capriccio Del Maestro Exceptional Edition"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nobile-1942-la-stanza-delle-bambole",
+   "marca": "Nobile 1942",
+   "nome": "La Stanza Delle Bambole"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nobile-1942-pontevecchio-exceptional-edition-women",
+   "marca": "Nobile 1942",
+   "nome": "Pontevecchio Exceptional Edition Women"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nobile-1942-casta-diva-exceptional-edition-75ml",
+   "marca": "Nobile 1942",
+   "nome": "Casta Diva Exceptional Edition"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "nobile-1942-la-danza-delle-libellule-exceptional-edition-extrait-de-parfum",
+   "marca": "Nobile 1942",
+   "nome": "La Danza Delle Libellule Exceptional Edition Extrait de Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "ojar-stallion-soul-edp",
+   "marca": "Ojar",
+   "nome": "Stallion Soul EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "ojar-encens-cuivre-edp-copy",
+   "marca": "Ojar",
+   "nome": "Encens Cuivre EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "ojar-eagle-eyed-stranger-edp",
+   "marca": "Ojar",
+   "nome": "Eagle Eyed Stranger EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "ojar-red-redemption-edp",
+   "marca": "Ojar",
+   "nome": "Red Redemption EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "ojar-infusion-velours-edp-3-4-oz",
+   "marca": "Ojar",
+   "nome": "Infusion Velours EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "ojar-routes-nomades-edp",
+   "marca": "Ojar",
+   "nome": "Routes Nomades EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "ojar-ciel-dorage-edp",
+   "marca": "Ojar",
+   "nome": "Ciel d'Orage EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "ojar-halwa-kiss-edp",
+   "marca": "Ojar",
+   "nome": "Halwa Kiss EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "ojar-musk-colada-extrait",
+   "marca": "Ojar",
+   "nome": "Musk Colada Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "omanluxury-overdose-edp",
+   "marca": "Oman Luxury",
+   "nome": "Overdose EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "omanluxury-serenity-edp-1",
+   "marca": "Oman Luxury",
+   "nome": "Serenity EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "oman-luxury-caden",
+   "marca": "Oman Luxury",
+   "nome": "Caden"
+  },
+  {
+   "loja": "venba",
+   "handle": "omanluxury-caden-edp",
+   "marca": "Oman Luxury",
+   "nome": "Caden EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "omanluxury-zafar-edp-3-4-oz",
+   "marca": "Oman Luxury",
+   "nome": "Zafar EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "omanluxury-dejan-edp-1",
+   "marca": "Oman Luxury",
+   "nome": "Dejan EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "omanluxury-nasaj-edp",
+   "marca": "Oman Luxury",
+   "nome": "Nasaj EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ormonde-jayne-kashmir",
+   "marca": "Ormonde Jayne",
+   "nome": "Kashmir"
+  },
+  {
+   "loja": "venba",
+   "handle": "ormonde-jayne-montabaco-intensivo-edp",
+   "marca": "Ormonde Jayne",
+   "nome": "Montabaco Intensivo EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "ormonde-jayne-vanille-aube-edp",
+   "marca": "Ormonde Jayne",
+   "nome": "Vanille Aube EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "orto-parisi-terroni",
+   "marca": "Orto Parisi",
+   "nome": "Terroni"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "orto-parisi-seminalis",
+   "marca": "Orto Parisi",
+   "nome": "Seminalis"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "orto-parisi-risvelium-parfum",
+   "marca": "Orto Parisi",
+   "nome": "Risvelium Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "pana-dora-forever-love",
+   "marca": "Pana Dora",
+   "nome": "Forever Love"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "pana-dora-oud-republic",
+   "marca": "Pana Dora",
+   "nome": "Oud Republic"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "pana-dora-skadi-edp",
+   "marca": "Pana Dora",
+   "nome": "Skadi EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "parfums-de-marly-delina-la-rosee-tester",
+   "marca": "Parfums de Marly",
+   "nome": "Delina La Rosee EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "parfums-de-marly-godolphin",
+   "marca": "Parfums de Marly",
+   "nome": "Godolphin"
+  },
+  {
+   "loja": "venba",
+   "handle": "tester-parfums-de-marly-althair-edp-4-2-oz-no-cap",
+   "marca": "Parfums de Marly",
+   "nome": "Althair EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "parfums-de-marly-delina-exclusif",
+   "marca": "Parfums de Marly",
+   "nome": "Delina Exclusif"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "parfums-de-marly-greenley",
+   "marca": "Parfums de Marly",
+   "nome": "Greenley"
+  },
+  {
+   "loja": "venba",
+   "handle": "parfums-de-marly-delina-edp-tester-with-cap-1",
+   "marca": "Parfums de Marly",
+   "nome": "Delina EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "parfums-de-marly-haltane",
+   "marca": "Parfums de Marly",
+   "nome": "Haltane"
+  },
+  {
+   "loja": "venba",
+   "handle": "parfums-de-marly-palatine-edp-tester",
+   "marca": "Parfums de Marly",
+   "nome": "Palatine EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "parfums-de-marly-perseus",
+   "marca": "Parfums de Marly",
+   "nome": "Perseus"
+  },
+  {
+   "loja": "venba",
+   "handle": "parfums-de-marly-delina-exclusif-tester",
+   "marca": "Parfums de Marly",
+   "nome": "Delina Exclusif EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "parfums-de-marly-meliora-2-5-oz-edp",
+   "marca": "Parfums de Marly",
+   "nome": "Meliora EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "parfums-de-marly-pegasus-exclusif",
+   "marca": "Parfums de Marly",
+   "nome": "Pegasus Exclusif"
+  },
+  {
+   "loja": "venba",
+   "handle": "parfums-de-marly-percival-tester",
+   "marca": "Parfums de Marly",
+   "nome": "Percival EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "parfums-de-marly-castley",
+   "marca": "Parfums de Marly",
+   "nome": "Castley"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "parfums-de-marly-delina-la-rosee",
+   "marca": "Parfums de Marly",
+   "nome": "Delina La Rosee"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "parfums-de-marly-delina",
+   "marca": "Parfums de Marly",
+   "nome": "Delina"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "parfums-de-marly-sedley",
+   "marca": "Parfums de Marly",
+   "nome": "Sedley"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "parfums-de-marly-kalan",
+   "marca": "Parfums de Marly",
+   "nome": "Kalan"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "parfums-de-marly-althair",
+   "marca": "Parfums de Marly",
+   "nome": "Althair"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "parfums-de-marly-meliora",
+   "marca": "Parfums de Marly",
+   "nome": "Meliora"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "parfums-de-marly-layton-exclusif",
+   "marca": "Parfums de Marly",
+   "nome": "Layton Exclusif"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "parfums-de-marly-carlisle",
+   "marca": "Parfums de Marly",
+   "nome": "Carlisle"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "parfums-de-marly-athenais",
+   "marca": "Parfums de Marly",
+   "nome": "Athenais"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "parfums-de-marly-valaya-exclusive",
+   "marca": "Parfums de Marly",
+   "nome": "Valaya Exclusif"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "parfums-de-marly-oajan",
+   "marca": "Parfums de Marly",
+   "nome": "Oajan"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "parfums-de-marly-layton",
+   "marca": "Parfums de Marly",
+   "nome": "Layton"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "penhaligons-london-portraits-scent-library",
+   "marca": "Penhaligon's",
+   "nome": "London - Portraits Scent Library Gift Set"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "penhaligons-london-potions-scent-library",
+   "marca": "Penhaligon's",
+   "nome": "London - Potions Scent Library"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "penhaligons-sartorial-edt-spray-100ml-m",
+   "marca": "Penhaligon's",
+   "nome": "Sartorial EDT"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "penhaligons-london-dandy",
+   "marca": "Penhaligon's",
+   "nome": "London Dandy"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "penhaligons-luna",
+   "marca": "Penhaligon's",
+   "nome": "Luna"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "penhaligons-london-trade-routes-babylon",
+   "marca": "Penhaligon's",
+   "nome": "London - Trade Routes - Babylon"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "penhaligons-portraits-collection-changing-constance",
+   "marca": "Penhaligon's",
+   "nome": "Portraits Collection - Changing Constance"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "penhaligons-portraits-the-inimitable-william-edp",
+   "marca": "Penhaligon's",
+   "nome": "Portraits The Inimitable William EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "penhaligons-portraits-collection-lady-blanche-panther-flakon",
+   "marca": "Penhaligon's",
+   "nome": "Portraits Collection - Lady Blanche (\"Panther-Flakon\")"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "penhaligons-fortuitous-finley",
+   "marca": "Penhaligon's",
+   "nome": "Fortuitous Finley"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "penhaligons-solaris",
+   "marca": "Penhaligon's",
+   "nome": "Solaris"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "penhaligons-the-cut",
+   "marca": "Penhaligon's",
+   "nome": "The Cut"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "penhaligons-the-favourite-edp",
+   "marca": "Penhaligon's",
+   "nome": "The Favourite EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "pernoire-anelo-extrait-tester",
+   "marca": "Pernoire",
+   "nome": "Anelo Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "pernoire-yuma-extrait-tester",
+   "marca": "Pernoire",
+   "nome": "Yuma Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "pernoire-anelo-extrait-1",
+   "marca": "Pernoire",
+   "nome": "Anelo Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "perris-monte-carlo-rose-de-taif-extrait-de-parfum",
+   "marca": "Perris Monte Carlo",
+   "nome": "Rose De Taif Extrait de Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "profumum-roma-acqua-di-sale",
+   "marca": "Profumum Roma",
+   "nome": "Acqua di Sale EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "profumum-roma-aqua-e-zuccero",
+   "marca": "Profumum Roma",
+   "nome": "Aqua E Zucchero EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "profumum-roma-acqua-viva-edp",
+   "marca": "Profumum Roma",
+   "nome": "Acqua Viva EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "profumum-roma-arso-edp-1",
+   "marca": "Profumum Roma",
+   "nome": "Arso EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "profumum-roma-gioiosa-edp",
+   "marca": "Profumum Roma",
+   "nome": "Gioiosa EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ramon-monegal-invisible-but-cool",
+   "marca": "Ramon Monegal",
+   "nome": "Invisible But Cool"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ramon-monegal-ibiza-laislablanca",
+   "marca": "Ramon Monegal",
+   "nome": "IBIZA - #LAISLABLANCA"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ramon-monegal-ibiza-love-reaction-100ml",
+   "marca": "Ramon Monegal",
+   "nome": "Ibiza Love Reaction"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ramon-monegal-faisa",
+   "marca": "Ramon Monegal",
+   "nome": "Faisa"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ramon-monegal-flamenco",
+   "marca": "Ramon Monegal",
+   "nome": "Flamenco"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ramon-monegal-matador",
+   "marca": "Ramon Monegal",
+   "nome": "Matador"
+  },
+  {
+   "loja": "venba",
+   "handle": "regalien-heart-of-rose-extrait",
+   "marca": "Regalien",
+   "nome": "Heart of Rose Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "regalien-hazz-extrait-tester",
+   "marca": "Regalien",
+   "nome": "Hazz Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "regalien-agora-golden-horn-extrait",
+   "marca": "Regalien",
+   "nome": "Agora: Golden Horn Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "regalien-anemos-cappadocia-wild-extrait",
+   "marca": "Regalien",
+   "nome": "Anemos: Cappadocia Wild Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "regalien-antidote-extrait",
+   "marca": "Regalien",
+   "nome": "Antidote Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "regalien-aurora-halfeti-dark-extrait",
+   "marca": "Regalien",
+   "nome": "Aurora: Halfeti Dark Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "regalien-chatelain-22-extrait",
+   "marca": "Regalien",
+   "nome": "Chatelain 22 Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "regalien-club-of-iris-extrait",
+   "marca": "Regalien",
+   "nome": "Clubs of Iris Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "regalien-dem-extrait",
+   "marca": "Regalien",
+   "nome": "Dem Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "regalien-hatir-extrait",
+   "marca": "Regalien",
+   "nome": "Hatir Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "regalien-hazz-extrait",
+   "marca": "Regalien",
+   "nome": "Hazz Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "regalien-kashmeran-extrait",
+   "marca": "Regalien",
+   "nome": "Kashmeran Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "regalien-marrakesh-extrait",
+   "marca": "Regalien",
+   "nome": "Marrakesh Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "regalien-turkuaz-extrait",
+   "marca": "Regalien",
+   "nome": "Turkuaz Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "regalien-vanity-oud-extrait",
+   "marca": "Regalien",
+   "nome": "Vanity Oud Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "reinvented-illusion",
+   "marca": "Reinvented",
+   "nome": "Illusion EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "reinvented-pheromones-extrait-de-parfum",
+   "marca": "Reinvented",
+   "nome": "Pheromones Extrait de Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "reminiscence-macaron-damour-edp",
+   "marca": "Reminiscence",
+   "nome": "Macaron D'Amour EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-the-womens-discovery-collection",
+   "marca": "Roja Parfums",
+   "nome": "The Women's Discovery Collection"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-enigma-pour-homme-parfum-cologne",
+   "marca": "Roja Parfums",
+   "nome": "Enigma Pour Homme EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-parfums-apex-edp",
+   "marca": "Roja Parfums",
+   "nome": "Apex EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-elysium-noir-pour-homme",
+   "marca": "Roja Parfums",
+   "nome": "Elysium Noir Pour Homme EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-parfums-elysium-eau-intense-pour-homme",
+   "marca": "Roja Parfums",
+   "nome": "Elysium Eau Intense Pour Homme EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-parfums-apex-eau-intense-pour-homme-edp",
+   "marca": "Roja Parfums",
+   "nome": "Apex Eau Intense Pour Homme EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-scandal-pour-homme-parfum-cologne",
+   "marca": "Roja Parfums",
+   "nome": "Scandal Pour Homme Parfum Cologne"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-danger-pour-homme-parfum-cologne",
+   "marca": "Roja Parfums",
+   "nome": "Danger Pour Homme Parfum Cologne"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-danger-parfum-pour-homme-50ml",
+   "marca": "Roja Parfums",
+   "nome": "Danger Parfum Pour Homme"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-apex-parfum-pour-homme-50ml",
+   "marca": "Roja Parfums",
+   "nome": "Apex Pour Homme Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-burlington-1819-edp",
+   "marca": "Roja Parfums",
+   "nome": "Burlington 1819 EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-isola-verde-parfum",
+   "marca": "Roja Parfums",
+   "nome": "Isola Verde Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-a-midsummer-dream-eau-de-parfum-100-ml",
+   "marca": "Roja Parfums",
+   "nome": "A Midsummer Dream EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-elysium-parfum",
+   "marca": "Roja Parfums",
+   "nome": "Elysium Parfum Homme"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-oceania-parfum",
+   "marca": "Roja Parfums",
+   "nome": "Oceania Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-isola-blu",
+   "marca": "Roja Parfums",
+   "nome": "Isola Blu Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "roja-parfums-manhattan-edp",
+   "marca": "Roja Parfums",
+   "nome": "Manhattan EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-aoud-parfum-100ml",
+   "marca": "Roja Parfums",
+   "nome": "Aoud Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "roja-parfums-nuwa-edp",
+   "marca": "Roja Parfums",
+   "nome": "Nuwa EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-nuwa-edp",
+   "marca": "Roja Parfums",
+   "nome": "Nuwa EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "roja-parfums-qatar-edp",
+   "marca": "Roja Parfums",
+   "nome": "Qatar Aoud Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "roja-taif-aoud-parfum",
+   "marca": "Roja Parfums",
+   "nome": "Taif Aoud Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "roja-parfums-united-arab-emirates-parfum",
+   "marca": "Roja Parfums",
+   "nome": "United Arab Emirates Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-aoud-extraordinaire-parfum",
+   "marca": "Roja Parfums",
+   "nome": "Aoud Extraordinaire Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-enigma-aoud-parfum",
+   "marca": "Roja Parfums",
+   "nome": "Enigma Aoud Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-taif-aoud-parfum",
+   "marca": "Roja Parfums",
+   "nome": "Taif Aoud Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-sweetie-aoud-parfum",
+   "marca": "Roja Parfums",
+   "nome": "Sweetie Aoud Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-neiman-marcus-exclusive-parfum",
+   "marca": "Roja Parfums",
+   "nome": "Neiman Marcus Exclusive Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-nuwa",
+   "marca": "Roja Parfums",
+   "nome": "Nuwa"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-diaghilev",
+   "marca": "Roja Parfums",
+   "nome": "Diaghilev"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-parfum-de-la-nuit",
+   "marca": "Roja Parfums",
+   "nome": "Parfum De La Nuit"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-lost-in-paris",
+   "marca": "Roja Parfums",
+   "nome": "Lost In Paris"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "roja-a-goodnight-kiss-parfum",
+   "marca": "Roja Parfums",
+   "nome": "A Goodnight Kiss Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "room-1015-cherry-punk-edp",
+   "marca": "Room 1015",
+   "nome": "Cherry Punk EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "room-1015-jasmine-freak-edp-tester",
+   "marca": "Room 1015",
+   "nome": "Jasmine Freak EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "room-1015-wavechild-edp-tester",
+   "marca": "Room 1015",
+   "nome": "Wavechild EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "room-1015-love-o-matic-edp-1",
+   "marca": "Room 1015",
+   "nome": "Love-O-Matic EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "room-1015-sweet-leaf-edp-3-4-oz",
+   "marca": "Room 1015",
+   "nome": "Sweet Leaf EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "room-1015-kokoa-bang-edp",
+   "marca": "Room 1015",
+   "nome": "Kokoa Bang EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "room-1015-wasabi-klub-edp",
+   "marca": "Room 1015",
+   "nome": "Wasabi Klub EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "room-1015-wavechild-edp",
+   "marca": "Room 1015",
+   "nome": "Wavechild EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "room-1015-cherry-punk-extrait",
+   "marca": "Room 1015",
+   "nome": "Cherry Punk Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "rosendo-mateu-olfactive-expressions-n-8",
+   "marca": "Rosendo Mateu",
+   "nome": "Olfactive Expressions - N° 8"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "rosendo-mateu-olfactive-expressions-n-5",
+   "marca": "Rosendo Mateu",
+   "nome": "Olfactive Expressions - N° 5"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "rosendo-mateu-incense-wood",
+   "marca": "Rosendo Mateu",
+   "nome": "Incense Wood"
+  },
+  {
+   "loja": "venba",
+   "handle": "rosendo-mateu-no-5-edp",
+   "marca": "Rosendo Mateu",
+   "nome": "No 5 EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "rosendo-mateu-no-7-edp",
+   "marca": "Rosendo Mateu",
+   "nome": "No 7 EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "rosendo-mateu-no-5-elixir",
+   "marca": "Rosendo Mateu",
+   "nome": "No 5 Elixir"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "simone-andreoli-criminal-lipstick-50ml-tester",
+   "marca": "Simone Andreoli",
+   "nome": "Criminal Lipstick"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "simone-andreoli-born-from-fire",
+   "marca": "Simone Andreoli",
+   "nome": "Born From Fire"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "simone-andreoli-apricot-innocence-50ml",
+   "marca": "Simone Andreoli",
+   "nome": "Apricot Innocence"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "simone-andreoli-smoke-of-desert",
+   "marca": "Simone Andreoli",
+   "nome": "Smoke Of Desert"
+  },
+  {
+   "loja": "venba",
+   "handle": "sora-dora-lu-bu-parfum",
+   "marca": "Sora Dora",
+   "nome": "Lu Bu Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "sora-dora-seven-extrait",
+   "marca": "Sora Dora",
+   "nome": "Seven Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "sospiro-farsa",
+   "marca": "Sospiro",
+   "nome": "Farsa"
+  },
+  {
+   "loja": "venba",
+   "handle": "sospiro-vibranna-edp-tester",
+   "marca": "Sospiro",
+   "nome": "Vibranna EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "parfums-d-elmar-diva",
+   "marca": "Sospiro",
+   "nome": "Diva"
+  },
+  {
+   "loja": "venba",
+   "handle": "spirit-of-kings-intuition-parfum",
+   "marca": "Spirit of Kings",
+   "nome": "Intuition Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "stephan-humbart-lucas-777-panthea-iris-edp",
+   "marca": "Stephane Humbert Lucas",
+   "nome": "777 Panthea Iris EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "stephan-humbert-lucas-snake-collection-venom-incarnat-edp",
+   "marca": "Stephane Humbert Lucas",
+   "nome": "Snake Collection Venom Incarnat EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "thameen-carved-oud-extrait-de-parfum",
+   "marca": "Thameen",
+   "nome": "Carved Oud Extrait de Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "the-fragrance-topaz-glamour-extrait",
+   "marca": "The Fragrance",
+   "nome": "Topaz Glamour Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "the-fragrance-tiger-eye-power-extrait",
+   "marca": "The Fragrance",
+   "nome": "Tiger Eye Power Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "the-fragrance-amethyst-soul-extrait",
+   "marca": "The Fragrance",
+   "nome": "Amethyst Soul Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "the-fragrance-opal-secret-extrait",
+   "marca": "The Fragrance",
+   "nome": "Opal Secret Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "the-fragrance-pearl-harmony-extrait",
+   "marca": "The Fragrance",
+   "nome": "Pearl Harmony Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "the-fragrance-ruby-love-extrait",
+   "marca": "The Fragrance",
+   "nome": "Ruby Love Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "the-fragrance-rouge-magnifique-extrait",
+   "marca": "The Fragrance",
+   "nome": "Rouge Magnifique Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "the-fragrance-the-duke-extrait",
+   "marca": "The Fragrance",
+   "nome": "The Duke Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "the-fragrance-the-crown-extrait",
+   "marca": "The Fragrance",
+   "nome": "The Crown Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "tiziana-terenzi-kirke-extrait",
+   "marca": "Tiziana Terenzi",
+   "nome": "Kirke Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "tiziana-terenzi-luna-kaff-extrait",
+   "marca": "Tiziana Terenzi",
+   "nome": "Kaff Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "tiziana-terenzi-kirke-overdose-extrait",
+   "marca": "Tiziana Terenzi",
+   "nome": "Kirke Overdose Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "tom-ford-ombre-leather",
+   "marca": "Tom Ford",
+   "nome": "Ombre Leather"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "tom-ford-bois-pacifique-50ml",
+   "marca": "Tom Ford",
+   "nome": "Bois Pacifique"
+  },
+  {
+   "loja": "venba",
+   "handle": "tom-ford-fougere-dargent-edp",
+   "marca": "Tom Ford",
+   "nome": "Fougere D'Argent EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "trudon-midnight-omen-edp",
+   "marca": "Trudon",
+   "nome": "Midnight Omen EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "twentysecondofmay-skin-to-skin-edp-tester",
+   "marca": "Twentysecondofmay",
+   "nome": "Skin to Skin EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "twentysecondofmay-roots-of-kente-edp",
+   "marca": "Twentysecondofmay",
+   "nome": "Roots of Kente EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "une-nuit-nomade-memory-motel-edp-1",
+   "marca": "Une Nuit Nomade",
+   "nome": "Memory Motel EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "uniquee-luxury-beverly-hills-exclusive",
+   "marca": "Unique'e Luxury",
+   "nome": "Beverly Hills Exclusive"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "v-canto-lucrethia",
+   "marca": "V Canto",
+   "nome": "Lucrethia"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "v-canto-arkano-del-sole",
+   "marca": "V Canto",
+   "nome": "Arkano Del Sole"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "v-canto-arkano-della-fortuna",
+   "marca": "V Canto",
+   "nome": "Arkano Della Fortuna"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "v-canto-alki",
+   "marca": "V Canto",
+   "nome": "Alki"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "vertus-fresh-orient",
+   "marca": "Vertus",
+   "nome": "Fresh Orient"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "vertus-rose-prive",
+   "marca": "Vertus",
+   "nome": "Rose Prive"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "vertus-bois-et-cuir-raffine-100ml",
+   "marca": "Vertus",
+   "nome": "Bois Et Cuir Raffine"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "vertus-majeste-100ml",
+   "marca": "Vertus",
+   "nome": "Majeste"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "vertus-royal-orris-100ml",
+   "marca": "Vertus",
+   "nome": "Royal Orris"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "vertus-serenade-100ml",
+   "marca": "Vertus",
+   "nome": "Serenade"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "vilhelm-parfumerie-dear-lord",
+   "marca": "Vilhelm Parfumerie",
+   "nome": "Dear Lord"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "vilhelm-smoke-show-edp",
+   "marca": "Vilhelm Parfumerie",
+   "nome": "Smoke Show EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "vilhelm-parfumerie-morning-chess-edp",
+   "marca": "Vilhelm Parfumerie",
+   "nome": "Morning Chess EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "vilhelm-parfumerie-mango-skin-edp",
+   "marca": "Vilhelm Parfumerie",
+   "nome": "Mango Skin EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "widian-hili-parfum",
+   "marca": "Widian",
+   "nome": "Hili Parfum Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "widian-ginger-edp",
+   "marca": "Widian",
+   "nome": "Ginger EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "widian-london",
+   "marca": "Widian",
+   "nome": "London"
+  },
+  {
+   "loja": "venba",
+   "handle": "widian-london-extrait",
+   "marca": "Widian",
+   "nome": "London Extrait"
+  },
+  {
+   "loja": "venba",
+   "handle": "widian-london-black-edition-extrait",
+   "marca": "Widian",
+   "nome": "London Black Edition Extrait"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-lira",
+   "marca": "Xerjoff",
+   "nome": "Lira"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-levar-del-sole",
+   "marca": "Xerjoff",
+   "nome": "Levar del Sole"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-v-accento",
+   "marca": "Xerjoff",
+   "nome": "V - Accento"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-shooting-stars-kobe-edp",
+   "marca": "Xerjoff",
+   "nome": "Shooting Stars - KOBE EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-join-the-club-400-edp",
+   "marca": "Xerjoff",
+   "nome": "Join The Club 400 EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-casamorati-1888-1888-edp",
+   "marca": "Xerjoff",
+   "nome": "Casamorati 1888 1888 EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-join-the-club-more-than-words",
+   "marca": "Xerjoff",
+   "nome": "Join the Club - More Than Words"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-torino-24",
+   "marca": "Xerjoff",
+   "nome": "Torino 24"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-torino-22-edp",
+   "marca": "Xerjoff",
+   "nome": "Torino 22 EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-shooting-stars-cruz-del-sur-i",
+   "marca": "Xerjoff",
+   "nome": "Shooting Stars - Cruz Del Sur I"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-casamorati-1888-quattro-pizzi",
+   "marca": "Xerjoff",
+   "nome": "Casamorati 1888 - Quattro Pizzi"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-k-collection-jabir",
+   "marca": "Xerjoff",
+   "nome": "K Collection - Jabir"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-xj-renaissance",
+   "marca": "Xerjoff",
+   "nome": "XJ - Renaissance"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-amabile",
+   "marca": "Xerjoff",
+   "nome": "Amabile"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-casamorati-1888-mefisto-edp",
+   "marca": "Xerjoff",
+   "nome": "Casamorati 1888 - Mefisto EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-shooting-stars-uden",
+   "marca": "Xerjoff",
+   "nome": "Shooting Stars - Uden"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-shooting-stars-uden-overdose",
+   "marca": "Xerjoff",
+   "nome": "Shooting Stars - Uden Overdose"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-v-opera",
+   "marca": "Xerjoff",
+   "nome": "V - Opera"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-erba-pura",
+   "marca": "Xerjoff",
+   "nome": "Erba Pura"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-shooting-stars-la-capitale",
+   "marca": "Xerjoff",
+   "nome": "La Capitale"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-xj-apollonia-50ml",
+   "marca": "Xerjoff",
+   "nome": "XJ - Apollonia"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-v-purple-accento-edp",
+   "marca": "Xerjoff",
+   "nome": "V - Purple Accento EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-erba-gold-edp",
+   "marca": "Xerjoff",
+   "nome": "Erba Gold EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "xerjoff-renaissance-edp",
+   "marca": "Xerjoff",
+   "nome": "Renaissance EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-torino-21-edp",
+   "marca": "Xerjoff",
+   "nome": "Torino 21 EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-v-laylati",
+   "marca": "Xerjoff",
+   "nome": "V - Laylati"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-p-33-blank-page",
+   "marca": "Xerjoff",
+   "nome": "P.33 Blank Page"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-louis-xv-rose-parfum",
+   "marca": "Xerjoff",
+   "nome": "Louis XV Rose Parfum"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "xerjoff-elle-anniversary",
+   "marca": "Xerjoff",
+   "nome": "Elle Anniversary"
+  },
+  {
+   "loja": "venba",
+   "handle": "xerjoff-irisss-edp",
+   "marca": "Xerjoff",
+   "nome": "Irisss Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "xerjoff-perseveranza-parfum",
+   "marca": "Xerjoff",
+   "nome": "Perseveranza Parfum"
+  },
+  {
+   "loja": "venba",
+   "handle": "yves-saint-laurent-capeline-edp-tester",
+   "marca": "Yves Saint Laurent",
+   "nome": "Capeline EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "yves-saint-laurent-velours-edp-tester",
+   "marca": "Yves Saint Laurent",
+   "nome": "Velours EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "yves-saint-laurent-37-rue-de-bellechasse-edp-tester",
+   "marca": "Yves Saint Laurent",
+   "nome": "37 Rue de Bellechasse EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "yves-saint-laurent-tuxedo-edp",
+   "marca": "Yves Saint Laurent",
+   "nome": "Tuxedo EDP"
+  },
+  {
+   "loja": "olfactory",
+   "handle": "ysl-tuxedo-edp",
+   "marca": "Yves Saint Laurent",
+   "nome": "Tuxedo EDP"
+  },
+  {
+   "loja": "venba",
+   "handle": "yves-saint-laurent-babycat-edp",
+   "marca": "Yves Saint Laurent",
+   "nome": "Babycat EDP"
+  }
+ ]
+}

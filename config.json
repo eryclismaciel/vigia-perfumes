@@ -1,0 +1,8 @@
+{
+ "queda_minima": 0.05,
+ "cotacao_padrao": 5.5007,
+ "lojas": {
+  "venba": {"nome": "Venba", "url": "https://www.venbafragrance.com"},
+  "olfactory": {"nome": "Olfactory Factory", "url": "https://www.olfactoryfactoryllc.com"}
+ }
+}
