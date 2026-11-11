@@ -5335,10 +5335,14 @@
  },
  "cupons": {},
  "cupons_extra": [],
+ "erro": {
+  "niche": "11/11 00:40 nenhum produto respondeu",
+  "venba": "11/11 00:39 nenhum produto respondeu (15 erros)"
+ },
  "falhas": {
-  "niche": 1,
+  "niche": 2,
   "olfactory": 0,
-  "venba": 4
+  "venba": 5
  },
  "lojas_extra": {},
  "marcas": [
@@ -12298,8 +12302,8 @@
    "visto": "2026-11-11"
   }
  },
- "site_hash": "e6e9df42d84ef7256c8233c40ee77f3c3aed4fd1",
- "ultima": "11/11 00:28",
+ "site_hash": "adfb42fcfa312a9e47c18c05580c2e79062631b2",
+ "ultima": "11/11 00:40",
  "versao": 2,
  "vigiados": [
   "niche:boadicea-imperial-edp-100ml",
