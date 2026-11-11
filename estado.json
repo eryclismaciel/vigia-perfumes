@@ -1,4 +1,7 @@
 {
+ "aviso_falha": {
+  "venba": "2026-11-10"
+ },
  "batimento": "2026-46",
  "chat_id": 1001322888,
  "conhecidos": {
@@ -5329,7 +5332,7 @@
  },
  "falhas": {
   "olfactory": 0,
-  "venba": 2
+  "venba": 3
  },
  "marcas": [
   "Acqua di Parma",
@@ -5421,7 +5424,7 @@
   "Xerjoff",
   "Yves Saint Laurent"
  ],
- "offset": 602495559,
+ "offset": 602495560,
  "produtos": {
   "olfactory:acqua-di-parma-ambra": {
    "a": true,
@@ -5688,7 +5691,7 @@
    "c": 0,
    "m": "Amouage",
    "min": 239.0,
-   "p": 239.0,
+   "p": 359.0,
    "s": "100 ml",
    "t": "The Library Collection - Opus XVI - Timber",
    "tester": false
@@ -8388,7 +8391,7 @@
    "c": 0,
    "m": "Maison Francis Kurkdjian",
    "min": 389.0,
-   "p": 389.0,
+   "p": 399.0,
    "s": "200 ml",
    "t": "Gentle Fluidity Gold",
    "tester": false
@@ -10704,7 +10707,7 @@
    "tester": false
   }
  },
- "ultima": "10/11 19:47",
+ "ultima": "10/11 23:40",
  "vigiados": [
   "olfactory:acqua-di-parma-ambra",
   "olfactory:acqua-di-parma-luce-di-rosa",
