@@ -1,8 +1,33 @@
 {
  "queda_minima": 0.05,
- "cotacao_padrao": 5.5007,
+ "cotacao_padrao": 5.5,
+ "max_fotos": 8,
+ "hora_cupons": 9,
  "lojas": {
-  "venba": {"nome": "Venba", "url": "https://www.venbafragrance.com"},
-  "olfactory": {"nome": "Olfactory Factory", "url": "https://www.olfactoryfactoryllc.com"}
- }
+  "venba": {
+   "nome": "Venba",
+   "url": "https://www.venbafragrance.com",
+   "tipo": "shopify"
+  },
+  "olfactory": {
+   "nome": "Olfactory Factory",
+   "url": "https://www.olfactoryfactoryllc.com",
+   "tipo": "shopify"
+  },
+  "niche": {
+   "nome": "Niche Gallerie",
+   "url": "https://nichegallerie.com",
+   "tipo": "woocommerce"
+  }
+ },
+ "cupons": [
+  {
+   "codigo": "VENBA5",
+   "loja": "venba"
+  },
+  {
+   "codigo": "WELCOME",
+   "loja": "venba"
+  }
+ ]
 }
