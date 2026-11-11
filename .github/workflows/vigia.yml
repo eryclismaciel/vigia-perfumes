@@ -15,7 +15,7 @@ concurrency:
 jobs:
   vigiar:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -25,11 +25,11 @@ jobs:
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
         run: python vigia.py
-      - name: Guardar o estado
+      - name: Guardar o estado e o catálogo
         run: |
           git config user.name "vigia-perfumes"
           git config user.email "vigia-perfumes@users.noreply.github.com"
-          git add estado.json
+          git add estado.json docs/dados.json
           if ! git diff --cached --quiet; then
             git commit -m "Atualiza estado"
             git pull --rebase -X theirs origin "$GITHUB_REF_NAME"
