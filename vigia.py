@@ -317,6 +317,7 @@ class Vigia:
         self.chat = e.get("chat_id")
         self.avisos = []
         self.leituras = {}
+        self.universo = {}  # todos os produtos que a loja tem, quando dá para saber
         self.cotacao = None
 
     # ---------- lojas
@@ -356,7 +357,9 @@ class Vigia:
     def ler_lojas(self):
         for chave, loja in self.lojas().items():
             try:
-                if loja["tipo"] == "shopify":
+                if loja["tipo"] == "shopify" and loja.get("modo") == "produto":
+                    self.leituras[chave] = self.ler_shopify_produto(chave, loja)
+                elif loja["tipo"] == "shopify":
                     prods = ler_shopify(loja["url"])
                     antes = len(self.est["conhecidos"].get(chave, []))
                     if antes and len(prods) < antes * 0.7:
@@ -367,6 +370,7 @@ class Vigia:
                 self.est["falhas"][chave] = 0
             except Exception as e:  # noqa: BLE001
                 print(f"Falha ao ler {loja['nome']}: {e}")
+                self.est.setdefault("erro", {})[chave] = f"{agora().strftime('%d/%m %H:%M')} {e}"[:200]
                 self.est["falhas"][chave] = self.est["falhas"].get(chave, 0) + 1
 
     def ler_woo(self, chave, loja):
@@ -388,6 +392,44 @@ class Vigia:
             raise RuntimeError("nenhum produto respondeu")
         return out
 
+    def ler_shopify_produto(self, chave, loja):
+        """Para lojas que bloqueiam a lista de produtos: usa o mapa do site para
+        descobrir lançamentos e lê um a um os perfumes vigiados."""
+        base = loja["url"]
+        mapa = set()
+        try:
+            st, idx, _ = http(f"{base}/sitemap.xml", tentativas=2)
+            if st == 200:
+                for sm in re.findall(r"<loc>([^<]*sitemap_products[^<]*)</loc>", idx.decode("utf-8", "ignore")):
+                    st2, xml, _ = http(html.unescape(sm), tentativas=2)
+                    if st2 == 200:
+                        mapa |= set(re.findall(r"/products/([^<?#/]+)</loc>", xml.decode("utf-8", "ignore")))
+                    time.sleep(1)
+        except Exception as e:  # noqa: BLE001
+            print("Mapa do site falhou:", e)
+        conhecidos = set(self.est["conhecidos"].get(chave, []))
+        novos = (mapa - conhecidos) if conhecidos else set()
+        if len(novos) > 40:
+            novos = set()
+        alvo = sorted({k.split(":", 1)[1] for k in self.vig if k.startswith(chave + ":")} | novos)
+        prods, erros = {}, 0
+        for h in alvo:
+            try:
+                st, dados, _ = http(f"{base}/products/{urllib.parse.quote(h)}.js", tentativas=2)
+                if st == 200:
+                    prods[h] = shopify_js_para_json(json.loads(dados.decode()))
+                elif st != 404:
+                    erros += 1
+            except Exception:  # noqa: BLE001
+                erros += 1
+            if erros >= 15 and not prods:
+                break
+            time.sleep(0.4)
+        if not prods:
+            raise RuntimeError(f"nenhum produto respondeu ({erros} erros)")
+        self.universo[chave] = mapa or (conhecidos | set(prods))
+        return prods
+
     def resumir(self, chave, prod):
         if prod.get("_woo"):
             item = resumir_woo(prod, self.todas_marcas())
@@ -405,7 +447,8 @@ class Vigia:
             shopify = loja["tipo"] == "shopify"
             conhecidos = set(self.est["conhecidos"].get(chave, []))
             ja_lido = chave in self.est["conhecidos"]
-            avisar_novos = len(set(prods) - conhecidos) <= 40
+            universo = self.universo.get(chave, set(prods))
+            avisar_novos = len(universo - conhecidos) <= 40
             for h, prod in prods.items():
                 k = f"{chave}:{h}"
                 item = self.resumir(chave, prod)
@@ -443,7 +486,7 @@ class Vigia:
                     item["visto"] = hoje
                 self.est["produtos"][k] = item
             if shopify:
-                self.est["conhecidos"][chave] = sorted(set(prods))
+                self.est["conhecidos"][chave] = sorted(universo)
 
     def aviso(self, tipo, k, item, loja, texto):
         self.avisos.append({"tipo": tipo, "k": k, "item": item, "loja": loja, "texto": texto})
@@ -498,7 +541,10 @@ class Vigia:
                 d = http_json("https://economia.awesomeapi.com.br/json/last/USD-BRL", tentativas=2)
                 self.cotacao = round(float(d["USDBRL"]["bid"]), 4)
             except Exception:  # noqa: BLE001
-                self.cotacao = float(self.cfg.get("cotacao_padrao", 5.5))
+                try:
+                    self.cotacao = round(float(http_json("https://open.er-api.com/v6/latest/USD", tentativas=2)["rates"]["BRL"]), 4)
+                except Exception:  # noqa: BLE001
+                    self.cotacao = float(self.cfg.get("cotacao_padrao", 5.5))
         return self.cotacao
 
     # ---------- telegram: comandos, links e botões

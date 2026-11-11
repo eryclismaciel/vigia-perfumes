@@ -7,7 +7,8 @@
   "venba": {
    "nome": "Venba",
    "url": "https://www.venbafragrance.com",
-   "tipo": "shopify"
+   "tipo": "shopify",
+   "modo": "produto"
   },
   "olfactory": {
    "nome": "Olfactory Factory",
