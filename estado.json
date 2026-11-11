@@ -1,11 +1,21 @@
 {
  "auto": {},
  "aviso_falha": {
+  "niche": "2026-11-11",
   "venba": "2026-11-11"
  },
  "batimento": "2026-46",
- "cb": {},
- "cb_n": 0,
+ "cb": {
+  "1": [
+   "nao_vigiar",
+   "olfactory:orto-parisi-seminalis"
+  ],
+  "2": [
+   "parar",
+   "Orto Parisi"
+  ]
+ },
+ "cb_n": 2,
  "chat_id": 1001322888,
  "conhecidos": {
   "olfactory": [
@@ -5336,13 +5346,13 @@
  "cupons": {},
  "cupons_extra": [],
  "erro": {
-  "niche": "11/11 00:40 nenhum produto respondeu",
-  "venba": "11/11 00:39 nenhum produto respondeu (15 erros)"
+  "niche": "11/11 07:38 nenhum produto respondeu",
+  "venba": "11/11 07:37 nenhum produto respondeu (15 erros)"
  },
  "falhas": {
-  "niche": 2,
+  "niche": 3,
   "olfactory": 0,
-  "venba": 5
+  "venba": 6
  },
  "lojas_extra": {},
  "marcas": [
@@ -5435,7 +5445,7 @@
   "Xerjoff",
   "Yves Saint Laurent"
  ],
- "offset": 602495560,
+ "offset": 602495561,
  "produtos": {
   "olfactory:acqua-di-parma-ambra": {
    "a": true,
@@ -10509,15 +10519,15 @@
   },
   "olfactory:orto-parisi-seminalis": {
    "a": true,
-   "c": 145.0,
+   "c": 139.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/C09-16.jpg?v=1781250874",
    "m": "Orto Parisi",
-   "min": 125.0,
-   "p": 125.0,
+   "min": 109.99,
+   "p": 109.99,
    "s": "50 ml",
    "t": "Seminalis",
-   "tester": false,
-   "var": 40703977783355,
+   "tester": true,
+   "var": 41730744123451,
    "visto": "2026-11-11"
   },
   "olfactory:orto-parisi-terroni": {
@@ -12302,8 +12312,8 @@
    "visto": "2026-11-11"
   }
  },
- "site_hash": "adfb42fcfa312a9e47c18c05580c2e79062631b2",
- "ultima": "11/11 00:40",
+ "site_hash": "eaa015c452994e9496a669765dac7605b2d4efe1",
+ "ultima": "11/11 07:38",
  "versao": 2,
  "vigiados": [
   "niche:boadicea-imperial-edp-100ml",
