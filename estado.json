@@ -1,8 +1,8 @@
 {
  "auto": {},
  "aviso_falha": {
-  "niche": "2026-11-11",
-  "venba": "2026-11-11"
+  "niche": "2026-11-12",
+  "venba": "2026-11-12"
  },
  "batimento": "2026-46",
  "cb": {
@@ -13,9 +13,33 @@
   "2": [
    "parar",
    "Orto Parisi"
+  ],
+  "3": [
+   "nao_vigiar",
+   "olfactory:fragrance-du-bois-oud-jaune-intense-edp"
+  ],
+  "4": [
+   "parar",
+   "Fragrance du Bois"
+  ],
+  "5": [
+   "nao_vigiar",
+   "olfactory:ella-k-musc-k"
+  ],
+  "6": [
+   "parar",
+   "Ella K"
+  ],
+  "7": [
+   "nao_vigiar",
+   "olfactory:orto-parisi-terroni"
+  ],
+  "8": [
+   "parar",
+   "Orto Parisi"
   ]
  },
- "cb_n": 2,
+ "cb_n": 8,
  "chat_id": 1001322888,
  "conhecidos": {
   "olfactory": [
@@ -3388,6 +3412,7 @@
    "montale-sensual-instinct",
    "montale-starry-night-edp",
    "montale-vanilla-absolu",
+   "montale-vanilla-cake",
    "montale-vetiver-patchouli-edp",
    "montale-womens-7x2ml-discovery-collection",
    "moresque-al-andalus-edp",
@@ -5346,13 +5371,13 @@
  "cupons": {},
  "cupons_extra": [],
  "erro": {
-  "niche": "11/11 07:38 nenhum produto respondeu",
-  "venba": "11/11 07:37 nenhum produto respondeu (15 erros)"
+  "niche": "12/11 05:47 nenhum produto respondeu",
+  "venba": "12/11 05:47 nenhum produto respondeu (15 erros)"
  },
  "falhas": {
-  "niche": 3,
+  "niche": 4,
   "olfactory": 0,
-  "venba": 6
+  "venba": 7
  },
  "lojas_extra": {},
  "marcas": [
@@ -6306,7 +6331,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-best-seller-gift-set": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/A09-5.jpg?v=1775470019",
    "m": "Boadicea The Victorious",
@@ -7350,8 +7375,8 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/20230605_MuscK_Neue_Packshots_1400x14002_1bbc530f-df13-41c6-94e6-99370d06b9f9.png?v=1753643871",
    "m": "Ella K",
-   "min": 185.0,
-   "p": 185.0,
+   "min": 169.99,
+   "p": 169.99,
    "s": "100 ml",
    "t": "Musc K",
    "tester": false,
@@ -8009,16 +8034,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:fragrance-du-bois-oud-jaune-intense-edp": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/products/oud-jaune.jpg?v=1696278375",
    "m": "Fragrance Du Bois",
-   "min": 280.0,
-   "p": 280.0,
-   "s": "100 ml",
+   "min": 179.0,
+   "p": 179.0,
+   "s": "50 ml",
    "t": "Oud Jaune Intense - Edp",
    "tester": false,
-   "var": 40704148701243,
+   "var": 43261979426875,
    "visto": "2026-11-11"
   },
   "olfactory:fragrance-du-bois-oud-noir-intense-edp": {
@@ -9322,16 +9347,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:maison-francis-kurkdjian-grand-soir": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/A06-8.jpg?v=1765001006",
    "m": "Maison Francis Kurkdjian",
    "min": 225.0,
-   "p": 225.0,
-   "s": "70 ml",
+   "p": 379.99,
+   "s": "200 ml",
    "t": "Grand Soir",
    "tester": false,
-   "var": 40703950979131,
+   "var": 42052536598587,
    "visto": "2026-11-11"
   },
   "olfactory:maison-francis-kurkdjian-kurky": {
@@ -9517,16 +9542,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:memo-paris-art-land-marfa": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/products/memo-paris-art-land-marfa-75ml-en.jpg?v=1661257940",
    "m": "Memo Paris",
    "min": 135.0,
-   "p": 135.0,
-   "s": "75 ml",
+   "p": 195.0,
+   "s": "200 ml",
    "t": "Art Land - Marfa",
    "tester": false,
-   "var": 40703968510011,
+   "var": 40703968477243,
    "visto": "2026-11-11"
   },
   "olfactory:memo-paris-cappadocia": {
@@ -9699,16 +9724,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:memo-paris-marfa-spices": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/MEMOPARFUMS-MarfaSpices2.webp?v=1788621632",
    "m": "Memo Paris",
    "min": 135.0,
-   "p": 135.0,
+   "p": 999.0,
    "s": "75 ml",
    "t": "Marfa Spices",
-   "tester": false,
-   "var": 44120536875067,
+   "tester": true,
+   "var": 44120536907835,
    "visto": "2026-11-11"
   },
   "olfactory:memo-paris-odeon-edp": {
@@ -10535,12 +10560,12 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/B01-10.jpg?v=1779115804",
    "m": "Orto Parisi",
-   "min": 119.99,
-   "p": 119.99,
+   "min": 116.0,
+   "p": 116.0,
    "s": "50 ml",
    "t": "Terroni",
-   "tester": false,
-   "var": 40703977914427,
+   "tester": true,
+   "var": 41808178479163,
    "visto": "2026-11-11"
   },
   "olfactory:pana-dora-forever-love": {
@@ -12304,7 +12329,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Venba1_3_5_10mLimages_76.webp?v=1791493571",
    "m": "Yves Saint Laurent",
    "min": 299.0,
-   "p": 299.0,
+   "p": 309.99,
    "s": "125 ml",
    "t": "Tuxedo - Edp",
    "tester": false,
@@ -12312,8 +12337,8 @@
    "visto": "2026-11-11"
   }
  },
- "site_hash": "eaa015c452994e9496a669765dac7605b2d4efe1",
- "ultima": "11/11 07:38",
+ "site_hash": "05ab413367ca5f4525293f732fbd25ff9804b8a4",
+ "ultima": "12/11 05:48",
  "versao": 2,
  "vigiados": [
   "niche:boadicea-imperial-edp-100ml",
