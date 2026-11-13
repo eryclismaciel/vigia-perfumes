@@ -5442,13 +5442,13 @@
  "cupons": {},
  "cupons_extra": [],
  "erro": {
-  "niche": "13/11 00:21 nenhum produto respondeu",
-  "venba": "13/11 00:20 nenhum produto respondeu (15 erros)"
+  "niche": "13/11 08:27 nenhum produto respondeu",
+  "venba": "13/11 08:27 nenhum produto respondeu (15 erros)"
  },
  "falhas": {
-  "niche": 5,
+  "niche": 6,
   "olfactory": 0,
-  "venba": 8
+  "venba": 9
  },
  "lojas_extra": {},
  "marcas": [
@@ -6077,16 +6077,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:bdk-parfums-citrus-riviera": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/D05-40.jpg?v=1786108669",
    "m": "BDK Parfums",
    "min": 125.0,
-   "p": 125.0,
+   "p": 139.0,
    "s": "100 ml",
    "t": "Citrus Riviera",
-   "tester": true,
-   "var": 42466204516411,
+   "tester": false,
+   "var": 42130496684091,
    "visto": "2026-11-11"
   },
   "olfactory:bdk-parfums-collection-parisienne-gris-charnel": {
@@ -6181,7 +6181,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:bdk-parfums-rouge-smoking-extrait": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/C08-27.jpg?v=1786559954",
    "m": "BDK Parfums",
@@ -12447,8 +12447,8 @@
    "visto": "2026-11-11"
   }
  },
- "site_hash": "048eaad3e7c6e9da77be4bcc1c623f2bfa0c7e4b",
- "ultima": "13/11 00:21",
+ "site_hash": "264fb6e5ba42e62c09a9a73069fe115a71b6cc40",
+ "ultima": "13/11 08:27",
  "versao": 2,
  "vigiados": [
   "niche:boadicea-imperial-edp-100ml",
