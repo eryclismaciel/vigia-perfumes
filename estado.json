@@ -1,8 +1,8 @@
 {
  "auto": {},
  "aviso_falha": {
-  "niche": "2026-11-12",
-  "venba": "2026-11-12"
+  "niche": "2026-11-13",
+  "venba": "2026-11-13"
  },
  "batimento": "2026-46",
  "cb": {
@@ -10,9 +10,69 @@
    "nao_vigiar",
    "olfactory:orto-parisi-seminalis"
   ],
+  "10": [
+   "parar",
+   "Initio Parfums"
+  ],
+  "11": [
+   "nao_vigiar",
+   "olfactory:initio-absolute-aphrodisiac"
+  ],
+  "12": [
+   "parar",
+   "Initio Parfums"
+  ],
+  "13": [
+   "nao_vigiar",
+   "olfactory:attar-al-has-golden-ice"
+  ],
+  "14": [
+   "parar",
+   "Attar Al Has"
+  ],
+  "15": [
+   "nao_vigiar",
+   "olfactory:bdk-parfums-citrus-riviera"
+  ],
+  "16": [
+   "parar",
+   "BDK Parfums"
+  ],
+  "17": [
+   "nao_vigiar",
+   "olfactory:parfums-de-marly-delina-exclusif"
+  ],
+  "18": [
+   "parar",
+   "Parfums de Marly"
+  ],
+  "19": [
+   "nao_vigiar",
+   "olfactory:initio-oud-for-grace"
+  ],
   "2": [
    "parar",
    "Orto Parisi"
+  ],
+  "20": [
+   "parar",
+   "Initio"
+  ],
+  "21": [
+   "nao_vigiar",
+   "olfactory:ormonde-jayne-montabaco-rio"
+  ],
+  "22": [
+   "parar",
+   "Ormonde Jayne"
+  ],
+  "23": [
+   "nao_vigiar",
+   "olfactory:ormonde-jayne-montabaco-aruba"
+  ],
+  "24": [
+   "parar",
+   "Ormonde Jayne"
   ],
   "3": [
    "nao_vigiar",
@@ -37,9 +97,13 @@
   "8": [
    "parar",
    "Orto Parisi"
+  ],
+  "9": [
+   "nao_vigiar",
+   "olfactory:initio-wild-rush"
   ]
  },
- "cb_n": 8,
+ "cb_n": 24,
  "chat_id": 1001322888,
  "conhecidos": {
   "olfactory": [
@@ -2381,6 +2445,7 @@
    "initio-musk-therapy-hair-perfume",
    "initio-mystic-experience",
    "initio-narcotic-delight-edp-90ml-flacon",
+   "initio-oud-for-grace",
    "initio-oud-for-greatness",
    "initio-oud-for-greatness-candle",
    "initio-oud-for-greatness-hair-perfume",
@@ -3766,7 +3831,9 @@
    "ormonde-jayne-isfarkand-1",
    "ormonde-jayne-kashmir",
    "ormonde-jayne-la-route-de-soie-levant",
+   "ormonde-jayne-montabaco-aruba",
    "ormonde-jayne-montabaco-intensivo-parfum",
+   "ormonde-jayne-montabaco-rio",
    "ormonde-jayne-montabaco-verano-edp",
    "ormonde-jayne-muscat",
    "ormonde-jayne-nawab-of-oudh-edp-5x8ml",
@@ -3877,11 +3944,14 @@
    "papillon-spell-125-edp",
    "papillon-tobacco-rose-edp",
    "pappilon-epona",
+   "parfum-de-mahzen-gugalanna",
+   "parfum-de-mahzen-molecule-oudh",
    "parfum-dempire-azemour-les-orangers-edp",
    "parfum-dempire-equistrius-edp-spray",
    "parfum-dempire-iskander-edp-spray",
    "parfum-dempire-yuzu-fou-edp-spray",
    "parfums-d-elmar-amalaya",
+   "parfums-d-elmar-blue-banana",
    "parfums-d-elmar-dalika",
    "parfums-d-elmar-diva",
    "parfums-d-elmar-elixir-damour-edp",
@@ -3890,6 +3960,7 @@
    "parfums-d-elmar-leilani-edp",
    "parfums-d-elmar-mahina",
    "parfums-d-elmar-momona-edp",
+   "parfums-d-elmar-orange-crush",
    "parfums-d-elmar-purple-rain",
    "parfums-d-elmar-rouge-mystique",
    "parfums-d-elmar-velvet-paradise",
@@ -5371,13 +5442,13 @@
  "cupons": {},
  "cupons_extra": [],
  "erro": {
-  "niche": "12/11 05:47 nenhum produto respondeu",
-  "venba": "12/11 05:47 nenhum produto respondeu (15 erros)"
+  "niche": "13/11 00:21 nenhum produto respondeu",
+  "venba": "13/11 00:20 nenhum produto respondeu (15 erros)"
  },
  "falhas": {
-  "niche": 4,
+  "niche": 5,
   "olfactory": 0,
-  "venba": 7
+  "venba": 8
  },
  "lojas_extra": {},
  "marcas": [
@@ -5761,7 +5832,7 @@
   "olfactory:amouage-purpose-50": {
    "a": true,
    "c": 0,
-   "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/c7dfea4e-8cd7-49bf-bdb5-9b973a914600.jpg?v=1794150199",
+   "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Purpose-50-By-Amouage-Extrait-De-Parfum.webp?v=1794481807",
    "m": "Amouage",
    "min": 459.0,
    "p": 459.0,
@@ -5867,12 +5938,12 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/b8f14af3-e424-4a10-8f14-7a2675f20647.jpg?v=1794153484",
    "m": "Attar Al Has",
-   "min": 175.0,
-   "p": 175.0,
+   "min": 169.0,
+   "p": 169.0,
    "s": "100 ml",
    "t": "Golden Ice",
-   "tester": false,
-   "var": 43052838420539,
+   "tester": true,
+   "var": 43052838453307,
    "visto": "2026-11-11"
   },
   "olfactory:attar-al-has-harmonic": {
@@ -6010,12 +6081,12 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/D05-40.jpg?v=1786108669",
    "m": "BDK Parfums",
-   "min": 139.0,
-   "p": 139.0,
+   "min": 125.0,
+   "p": 125.0,
    "s": "100 ml",
    "t": "Citrus Riviera",
-   "tester": false,
-   "var": 42130496684091,
+   "tester": true,
+   "var": 42466204516411,
    "visto": "2026-11-11"
   },
   "olfactory:bdk-parfums-collection-parisienne-gris-charnel": {
@@ -6318,7 +6389,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-azrak-parfum": {
-   "a": true,
+   "a": false,
    "c": 495.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/ff6dd63b-1881-4328-b4e1-ac2623cff1fd.jpg?v=1794153781",
    "m": "Boadicea The Victorious",
@@ -8151,7 +8222,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:fragrance-du-bois-sirene": {
-   "a": true,
+   "a": false,
    "c": 395.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/3885b9b5-b1ba-446b-8bbe-214fad0c6a1a.jpg?v=1794160347",
    "m": "Fragrance Du Bois",
@@ -8619,7 +8690,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:initio-absolute-aphrodisiac": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/A01-42.jpg?v=1764745412",
    "m": "Initio",
@@ -8669,6 +8740,19 @@
    "tester": false,
    "var": 41704541552699,
    "visto": "2026-11-11"
+  },
+  "olfactory:initio-oud-for-grace": {
+   "a": false,
+   "c": 0,
+   "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/1382712_1500x_5edd894b-f252-4e57-a2e5-e466e829c276.webp?v=1794534234",
+   "m": "Initio",
+   "min": 999.0,
+   "p": 999.0,
+   "s": "90 ml",
+   "t": "Oud For Grace",
+   "tester": false,
+   "var": 44957593632827,
+   "visto": "2026-11-13"
   },
   "olfactory:initio-oud-for-greatness": {
    "a": true,
@@ -8762,7 +8846,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:initio-wild-rush": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Schermafbeelding-2026-04-02-210306_clipped_rev_1.jpg?v=1776526214",
    "m": "Initio",
@@ -10270,7 +10354,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:nasomatto-silver-musk": {
-   "a": true,
+   "a": false,
    "c": 140.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/products/nasomatto-silver-musk-en.jpg?v=1661258027",
    "m": "Nasomatto",
@@ -10529,6 +10613,32 @@
    "var": 42391900586043,
    "visto": "2026-11-11"
   },
+  "olfactory:ormonde-jayne-montabaco-aruba": {
+   "a": false,
+   "c": 0,
+   "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/montabaco-aruba-ormonde-jayne-531260_650x_e04fce41-3927-4754-a7bd-bec731406722.webp?v=1794531749",
+   "m": "Ormonde Jayne",
+   "min": 999.0,
+   "p": 999.0,
+   "s": "88 ml",
+   "t": "Montabaco Aruba",
+   "tester": false,
+   "var": 44956864708667,
+   "visto": "2026-11-13"
+  },
+  "olfactory:ormonde-jayne-montabaco-rio": {
+   "a": false,
+   "c": 0,
+   "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/66e9bfc3-16dd-431c-ae92-bbdec5a116fe-1000x1000-jiRqW092WLiOoFGP5SZUMwEwt0i0leoGXKdqJdv3.png?v=1794531828",
+   "m": "Ormonde Jayne",
+   "min": 999.0,
+   "p": 999.0,
+   "s": "88 ml",
+   "t": "Montabaco Rio",
+   "tester": false,
+   "var": 44956875653179,
+   "visto": "2026-11-13"
+  },
   "olfactory:orto-parisi-risvelium-parfum": {
    "a": true,
    "c": 0,
@@ -10687,15 +10797,15 @@
   },
   "olfactory:parfums-de-marly-delina-exclusif": {
    "a": true,
-   "c": 0,
+   "c": 395.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/A06-5.jpg?v=1765000822",
    "m": "Parfums De Marly",
    "min": 169.0,
-   "p": 169.0,
-   "s": "30 ml",
+   "p": 249.0,
+   "s": "75 ml",
    "t": "Delina Exclusif",
    "tester": false,
-   "var": 41596944089147,
+   "var": 40703984304187,
    "visto": "2026-11-11"
   },
   "olfactory:parfums-de-marly-delina-la-rosee": {
@@ -11558,15 +11668,15 @@
   },
   "olfactory:rosendo-mateu-olfactive-expressions-n-5": {
    "a": false,
-   "c": 215.0,
+   "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/products/rosendo-mateu-olfactive-expressions-n-5-en.jpg?v=1751435079",
    "m": "Rosendo Mateu",
    "min": 98.0,
-   "p": 98.0,
-   "s": "100 ml",
+   "p": 999.0,
+   "s": "50 ml",
    "t": "Olfactive Expressions - N° 5",
-   "tester": false,
-   "var": 40704016711739,
+   "tester": true,
+   "var": 44956848226363,
    "visto": "2026-11-11"
   },
   "olfactory:rosendo-mateu-olfactive-expressions-n-8": {
@@ -12337,8 +12447,8 @@
    "visto": "2026-11-11"
   }
  },
- "site_hash": "05ab413367ca5f4525293f732fbd25ff9804b8a4",
- "ultima": "12/11 05:48",
+ "site_hash": "048eaad3e7c6e9da77be4bcc1c623f2bfa0c7e4b",
+ "ultima": "13/11 00:21",
  "versao": 2,
  "vigiados": [
   "niche:boadicea-imperial-edp-100ml",
@@ -12607,6 +12717,7 @@
   "olfactory:initio-atomic-rose-hair-perfume",
   "olfactory:initio-cant-get-enough",
   "olfactory:initio-narcotic-delight-edp-90ml-flacon",
+  "olfactory:initio-oud-for-grace",
   "olfactory:initio-oud-for-greatness",
   "olfactory:initio-oud-for-greatness-hair-perfume",
   "olfactory:initio-paragon",
@@ -12750,6 +12861,8 @@
   "olfactory:nobile-1942-pontevecchio-exceptional-edition-women",
   "olfactory:oman-luxury-caden",
   "olfactory:ormonde-jayne-kashmir",
+  "olfactory:ormonde-jayne-montabaco-aruba",
+  "olfactory:ormonde-jayne-montabaco-rio",
   "olfactory:orto-parisi-risvelium-parfum",
   "olfactory:orto-parisi-seminalis",
   "olfactory:orto-parisi-terroni",
