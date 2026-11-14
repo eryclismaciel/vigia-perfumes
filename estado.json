@@ -1,8 +1,8 @@
 {
  "auto": {},
  "aviso_falha": {
-  "niche": "2026-11-13",
-  "venba": "2026-11-13"
+  "niche": "2026-11-14",
+  "venba": "2026-11-14"
  },
  "batimento": "2026-46",
  "cb": {
@@ -5442,13 +5442,13 @@
  "cupons": {},
  "cupons_extra": [],
  "erro": {
-  "niche": "13/11 08:27 nenhum produto respondeu",
-  "venba": "13/11 08:27 nenhum produto respondeu (15 erros)"
+  "niche": "14/11 03:56 nenhum produto respondeu",
+  "venba": "14/11 03:55 nenhum produto respondeu (15 erros)"
  },
  "falhas": {
-  "niche": 6,
+  "niche": 7,
   "olfactory": 0,
-  "venba": 9
+  "venba": 10
  },
  "lojas_extra": {},
  "marcas": [
@@ -6064,7 +6064,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:bdk-creme-de-cuir": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/creme-de-cuir-neu.webp?v=1731593462",
    "m": "BDK Parfums",
@@ -6571,7 +6571,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-harmonious": {
-   "a": true,
+   "a": false,
    "c": 495.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/btv-site_harmonious.webp?v=1752838733",
    "m": "Boadicea The Victorious",
@@ -7226,7 +7226,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Creed_-_Aventus_-_100ml.jpg?v=1742559851",
    "m": "Creed",
    "min": 209.0,
-   "p": 209.0,
+   "p": 229.0,
    "s": "50 ml",
    "t": "Aventus",
    "tester": false,
@@ -7325,16 +7325,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:creed-wild-vetiver": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/F11-11.jpg?v=1785257503",
    "m": "Creed",
    "min": 265.0,
-   "p": 265.0,
-   "s": "50 ml",
+   "p": 399.0,
+   "s": "100 ml",
    "t": "Wild Vetiver",
    "tester": false,
-   "var": 43405106151483,
+   "var": 43255782146107,
    "visto": "2026-11-11"
   },
   "olfactory:editions-de-parfums-frederic-malle-bigarade-concentree": {
@@ -7416,7 +7416,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:electimuss-reverie-haze": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/REVERIE_HAZE_with_shadow.webp?v=1783648718",
    "m": "Electimuss",
@@ -8105,16 +8105,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:fragrance-du-bois-oud-jaune-intense-edp": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/products/oud-jaune.jpg?v=1696278375",
    "m": "Fragrance Du Bois",
    "min": 179.0,
-   "p": 179.0,
-   "s": "50 ml",
+   "p": 280.0,
+   "s": "100 ml",
    "t": "Oud Jaune Intense - Edp",
    "tester": false,
-   "var": 43261979426875,
+   "var": 40704148701243,
    "visto": "2026-11-11"
   },
   "olfactory:fragrance-du-bois-oud-noir-intense-edp": {
@@ -9600,16 +9600,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:matiere-premiere-vanilla-powder": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Extrait_de_parfum_VanillaPowder_Matiere_Premiere_50ML_8ffffd7e-0e44-4ded-bdab-5be9399e29f2.webp?v=1766149675",
    "m": "Matiere Premiere",
    "min": 209.0,
-   "p": 209.0,
+   "p": 999.0,
    "s": "50 ml",
    "t": "Vanilla Powder Extrait",
-   "tester": false,
-   "var": 41681822548027,
+   "tester": true,
+   "var": 43213900120123,
    "visto": "2026-11-11"
   },
   "olfactory:matiere-premiere-vanilla-powder-1": {
@@ -9678,7 +9678,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:memo-paris-escales-extraordinaires-irish-oud": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/products/memo-paris-escales-extraordinaires-irish-oud-en.jpg?v=1661257958",
    "m": "Memo Paris",
@@ -9756,7 +9756,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:memo-paris-italian-leather": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Sept_2026_C_Row-73.jpg?v=1793263301",
    "m": "Memo Paris",
@@ -11576,7 +11576,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:roja-parfums-apex-edp": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/1000pxOLFACTORYFACTORYLLC_11.jpg?v=1782903187",
    "m": "Roja Parfums",
@@ -12447,8 +12447,8 @@
    "visto": "2026-11-11"
   }
  },
- "site_hash": "264fb6e5ba42e62c09a9a73069fe115a71b6cc40",
- "ultima": "13/11 08:27",
+ "site_hash": "f3c65f40da727a80f4487c302e6605de79e79284",
+ "ultima": "14/11 03:56",
  "versao": 2,
  "vigiados": [
   "niche:boadicea-imperial-edp-100ml",
