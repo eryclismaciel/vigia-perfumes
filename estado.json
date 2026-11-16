@@ -1,10 +1,10 @@
 {
  "auto": {},
  "aviso_falha": {
-  "niche": "2026-11-15",
-  "venba": "2026-11-15"
+  "niche": "2026-11-16",
+  "venba": "2026-11-16"
  },
- "batimento": "2026-46",
+ "batimento": "2026-47",
  "cb": {
   "1": [
    "nao_vigiar",
@@ -74,6 +74,14 @@
    "parar",
    "Ormonde Jayne"
   ],
+  "25": [
+   "nao_vigiar",
+   "olfactory:micallef-gntonic-virgin-100ml-tester"
+  ],
+  "26": [
+   "parar",
+   "M. Micallef"
+  ],
   "3": [
    "nao_vigiar",
    "olfactory:fragrance-du-bois-oud-jaune-intense-edp"
@@ -103,7 +111,7 @@
    "olfactory:initio-wild-rush"
   ]
  },
- "cb_n": 24,
+ "cb_n": 26,
  "chat_id": 1001322888,
  "conhecidos": {
   "olfactory": [
@@ -5547,13 +5555,13 @@
  "cupons": {},
  "cupons_extra": [],
  "erro": {
-  "niche": "15/11 07:42 nenhum produto respondeu",
-  "venba": "15/11 07:41 nenhum produto respondeu (15 erros)"
+  "niche": "16/11 07:54 nenhum produto respondeu",
+  "venba": "16/11 07:53 nenhum produto respondeu (15 erros)"
  },
  "falhas": {
-  "niche": 8,
+  "niche": 9,
   "olfactory": 0,
-  "venba": 11
+  "venba": 12
  },
  "lojas_extra": {},
  "marcas": [
@@ -10008,8 +10016,8 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/o.136118.jpg?v=1788827047",
    "m": "Micallef",
-   "min": 135.0,
-   "p": 135.0,
+   "min": 125.0,
+   "p": 125.0,
    "s": "100 ml",
    "t": "GnTonic Virgin",
    "tester": true,
@@ -10433,7 +10441,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:nasomatto-narcotic-v": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/products/nasomatto-narcotic-v-en.jpg?v=1661258025",
    "m": "Nasomatto",
@@ -10550,7 +10558,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:nishane-hacivat-x-extrait-de-parfume": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/B03-6_2fbbe6d9-ac12-4045-82da-489753f35fe7.jpg?v=1779118424",
    "m": "Nishane",
@@ -12279,16 +12287,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:xerjoff-join-the-club-400-edp": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/A04-7_df135b9f-b74e-416b-b4f3-c0017fdefb74.jpg?v=1785134813",
    "m": "Xerjoff",
    "min": 99.0,
-   "p": 99.0,
+   "p": 115.0,
    "s": "50 ml",
    "t": "Join The Club 400 - Edp",
-   "tester": true,
-   "var": 41360227762235,
+   "tester": false,
+   "var": 41360227729467,
    "visto": "2026-11-11"
   },
   "olfactory:xerjoff-join-the-club-more-than-words": {
@@ -12479,7 +12487,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Sept_2026_C_Row-48.jpg?v=1793211556",
    "m": "Xerjoff",
    "min": 99.99,
-   "p": 99.99,
+   "p": 109.99,
    "s": "50 ml",
    "t": "V - Accento",
    "tester": false,
@@ -12565,8 +12573,8 @@
    "visto": "2026-11-11"
   }
  },
- "site_hash": "95e776daa4b2a5eaea6121a35cd3230615eb3c80",
- "ultima": "15/11 07:42",
+ "site_hash": "9698a3d122ac16eb85b73657e9e066144d3e3a0a",
+ "ultima": "16/11 07:54",
  "versao": 2,
  "vigiados": [
   "niche:boadicea-imperial-edp-100ml",
