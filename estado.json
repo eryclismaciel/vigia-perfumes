@@ -1,8 +1,8 @@
 {
  "auto": {},
  "aviso_falha": {
-  "niche": "2026-11-16",
-  "venba": "2026-11-16"
+  "niche": "2026-11-17",
+  "venba": "2026-11-17"
  },
  "batimento": "2026-47",
  "cb": {
@@ -82,9 +82,33 @@
    "parar",
    "M. Micallef"
   ],
+  "27": [
+   "nao_vigiar",
+   "olfactory:borntostandout-drunk-lovers"
+  ],
+  "28": [
+   "parar",
+   "Borntostandout"
+  ],
+  "29": [
+   "nao_vigiar",
+   "olfactory:nishane-hacivat-x-extrait-de-parfume"
+  ],
   "3": [
    "nao_vigiar",
    "olfactory:fragrance-du-bois-oud-jaune-intense-edp"
+  ],
+  "30": [
+   "parar",
+   "Nishane"
+  ],
+  "31": [
+   "nao_vigiar",
+   "olfactory:parfums-de-marly-perseus"
+  ],
+  "32": [
+   "parar",
+   "Parfums de Marly"
   ],
   "4": [
    "parar",
@@ -111,7 +135,7 @@
    "olfactory:initio-wild-rush"
   ]
  },
- "cb_n": 26,
+ "cb_n": 32,
  "chat_id": 1001322888,
  "conhecidos": {
   "olfactory": [
@@ -5555,13 +5579,13 @@
  "cupons": {},
  "cupons_extra": [],
  "erro": {
-  "niche": "16/11 07:54 nenhum produto respondeu",
-  "venba": "16/11 07:53 nenhum produto respondeu (15 erros)"
+  "niche": "17/11 00:38 nenhum produto respondeu",
+  "venba": "17/11 00:37 nenhum produto respondeu (15 erros)"
  },
  "falhas": {
-  "niche": 9,
+  "niche": 10,
   "olfactory": 0,
-  "venba": 12
+  "venba": 13
  },
  "lojas_extra": {},
  "marcas": [
@@ -6437,7 +6461,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:bdk-pas-ce-soir-extrait": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/0699d464-b226-4cb5-98f4-c8338254ba9e.jpg?v=1794153771",
    "m": "BDK Parfums",
@@ -6970,7 +6994,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:borntostandout-drunk-lovers": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/drunk-lovers.webp?v=1737378594",
    "m": "Borntostandout",
@@ -7001,11 +7025,11 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/F07-7.jpg?v=1779794779",
    "m": "Borntostandout",
    "min": 169.99,
-   "p": 169.99,
+   "p": 179.0,
    "s": "100 ml",
    "t": "Indecent Cherry - EDP",
-   "tester": false,
-   "var": 42225178673211,
+   "tester": true,
+   "var": 43557377343547,
    "visto": "2026-11-11"
   },
   "olfactory:borntostandout-purple-stain": {
@@ -7274,7 +7298,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/download_f0dcfa20-484e-4fc3-a082-2ed9c3427da2.png?v=1753031589",
    "m": "Clive Christian",
    "min": 299.99,
-   "p": 299.99,
+   "p": 315.0,
    "s": "50 ml",
    "t": "Noble VII - Rock Rose",
    "tester": false,
@@ -7287,7 +7311,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/products/CC-NB21P50AN01_1.png?v=1696279044",
    "m": "Clive Christian",
    "min": 209.99,
-   "p": 209.99,
+   "p": 299.0,
    "s": "50 ml",
    "t": "Noble Xxi Art Deco Amberwood",
    "tester": false,
@@ -8127,7 +8151,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:fragrance-du-bois-london-spice": {
-   "a": true,
+   "a": false,
    "c": 320.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Untitleddesign_62_13214814-23a8-4678-8e5e-fb0af48bd9fe.png?v=1752751813",
    "m": "Fragrance Du Bois",
@@ -8496,7 +8520,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/D12-6.jpg?v=1786347605",
    "m": "Goldfield & Banks",
    "min": 149.0,
-   "p": 149.0,
+   "p": 159.0,
    "s": "100 ml",
    "t": "Goldfield and Banks - Tales of Amber",
    "tester": false,
@@ -9128,7 +9152,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:lentropiste-semence-douce": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/50011_l_e_edp_semence_douce_50ml_packshot_1_v1.png?v=1762473971",
    "m": "L'Entropiste",
@@ -9263,7 +9287,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/399e6538-4f25-4677-8126-d99217e8ef8f.jpg?v=1794204681",
    "m": "Liquides Imaginaires",
    "min": 135.0,
-   "p": 135.0,
+   "p": 139.0,
    "s": "100 ml",
    "t": "Liquide Gold",
    "tester": false,
@@ -9393,7 +9417,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/6c290743-e369-4e5b-be54-6bb10f13da55.jpg?v=1794210224",
    "m": "Maison Crivelli",
    "min": 213.0,
-   "p": 213.0,
+   "p": 215.0,
    "s": "50 ml",
    "t": "Ambre chromatique",
    "tester": false,
@@ -10558,7 +10582,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:nishane-hacivat-x-extrait-de-parfume": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/B03-6_2fbbe6d9-ac12-4045-82da-489753f35fe7.jpg?v=1779118424",
    "m": "Nishane",
@@ -10862,7 +10886,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/05-27-12.jpg?v=1780130084",
    "m": "Parfums De Marly",
    "min": 223.0,
-   "p": 223.0,
+   "p": 229.0,
    "s": "125 ml",
    "t": "Althair",
    "tester": false,
@@ -11026,7 +11050,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:parfums-de-marly-meliora": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/E09-2.jpg?v=1780129578",
    "m": "Parfums De Marly",
@@ -11069,8 +11093,8 @@
    "c": 365.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/A07-7.jpg?v=1765003695",
    "m": "Parfums De Marly",
-   "min": 185.0,
-   "p": 185.0,
+   "min": 179.0,
+   "p": 179.0,
    "s": "125 ml",
    "t": "Perseus",
    "tester": false,
@@ -11122,7 +11146,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/images_431a0b8a-3a3f-43c5-b459-552d3ea4c906.jpg?v=1789002652",
    "m": "Penhaligon's",
    "min": 169.0,
-   "p": 169.0,
+   "p": 190.0,
    "s": "100 ml",
    "t": "London Dandy",
    "tester": false,
@@ -11226,7 +11250,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Untitleddesign-2025-07-19T143507.614.png?v=1752916001",
    "m": "Penhaligon's",
    "min": 135.0,
-   "p": 135.0,
+   "p": 155.0,
    "s": "100 ml",
    "t": "Sartorial - EDT",
    "tester": false,
@@ -11238,8 +11262,8 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/penhaligons-unisex-solaris-edp-34-oz-fragrances-5056245035999_2.jpg?v=1789004257",
    "m": "Penhaligon's",
-   "min": 999.0,
-   "p": 999.0,
+   "min": 191.0,
+   "p": 191.0,
    "s": "100 ml",
    "t": "Solaris",
    "tester": false,
@@ -11251,12 +11275,12 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/penhaligon_s---the-cut_2.webp?v=1789003013",
    "m": "Penhaligon's",
-   "min": 999.0,
-   "p": 999.0,
+   "min": 191.0,
+   "p": 191.0,
    "s": "100 ml",
    "t": "The Cut",
-   "tester": true,
-   "var": 44162140241979,
+   "tester": false,
+   "var": 44162140209211,
    "visto": "2026-11-11"
   },
   "olfactory:penhaligons-the-favourite-edp": {
@@ -11264,12 +11288,12 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/9435674116126.jpg?v=1683179533",
    "m": "Penhaligon's",
-   "min": 999.0,
-   "p": 999.0,
-   "s": "30 ml",
+   "min": 191.0,
+   "p": 191.0,
+   "s": "100 ml",
    "t": "The Favourite Edp",
    "tester": false,
-   "var": 44484264427579,
+   "var": 41229687128123,
    "visto": "2026-11-11"
   },
   "olfactory:perris-monte-carlo-rose-de-taif-extrait-de-parfum": {
@@ -12573,8 +12597,8 @@
    "visto": "2026-11-11"
   }
  },
- "site_hash": "9698a3d122ac16eb85b73657e9e066144d3e3a0a",
- "ultima": "16/11 07:54",
+ "site_hash": "8c5398194bf44c0dfca4936c4fd7c144a5623170",
+ "ultima": "17/11 00:38",
  "versao": 2,
  "vigiados": [
   "niche:boadicea-imperial-edp-100ml",
