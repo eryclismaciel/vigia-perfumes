@@ -1,8 +1,8 @@
 {
  "auto": {},
  "aviso_falha": {
-  "niche": "2026-11-19",
-  "venba": "2026-11-19"
+  "niche": "2026-11-20",
+  "venba": "2026-11-20"
  },
  "batimento": "2026-47",
  "cb": {
@@ -214,13 +214,77 @@
    "parar",
    "Xerjoff"
   ],
+  "57": [
+   "nao_vigiar",
+   "olfactory:parfums-de-marly-meliora"
+  ],
+  "58": [
+   "parar",
+   "Parfums de Marly"
+  ],
+  "59": [
+   "nao_vigiar",
+   "olfactory:parfums-de-marly-oajan"
+  ],
   "6": [
    "parar",
    "Ella K"
   ],
+  "60": [
+   "parar",
+   "Parfums de Marly"
+  ],
+  "61": [
+   "nao_vigiar",
+   "olfactory:lorenzo-pazzaglia-green-island-50-ml"
+  ],
+  "62": [
+   "parar",
+   "Lorenzo Pazzaglia"
+  ],
+  "63": [
+   "nao_vigiar",
+   "olfactory:lorenzo-pazzaglia-foresta-magica-50-ml"
+  ],
+  "64": [
+   "parar",
+   "Lorenzo Pazzaglia"
+  ],
+  "65": [
+   "nao_vigiar",
+   "olfactory:lorenzo-pazzaglia-vesuviuur-50-ml"
+  ],
+  "66": [
+   "parar",
+   "Lorenzo Pazzaglia"
+  ],
+  "67": [
+   "nao_vigiar",
+   "olfactory:lorenzo-pazzaglia-cherry-ink"
+  ],
+  "68": [
+   "parar",
+   "Lorenzo Pazzaglia"
+  ],
+  "69": [
+   "nao_vigiar",
+   "olfactory:maison-francis-kurkdjian-baccarat-rouge-540"
+  ],
   "7": [
    "nao_vigiar",
    "olfactory:orto-parisi-terroni"
+  ],
+  "70": [
+   "parar",
+   "Maison Francis Kurkdjian"
+  ],
+  "71": [
+   "nao_vigiar",
+   "olfactory:fragrance-du-bois-forbidden-plum"
+  ],
+  "72": [
+   "parar",
+   "Fragrance Du Bois"
   ],
   "8": [
    "parar",
@@ -231,7 +295,7 @@
    "olfactory:initio-wild-rush"
   ]
  },
- "cb_n": 56,
+ "cb_n": 72,
  "chat_id": 1001322888,
  "conhecidos": {
   "olfactory": [
@@ -2130,6 +2194,7 @@
    "fragrance-du-bois-cannabis-blue-1",
    "fragrance-du-bois-cannabis-intense",
    "fragrance-du-bois-cavort",
+   "fragrance-du-bois-forbidden-plum",
    "fragrance-du-bois-heritage",
    "fragrance-du-bois-london-oud-edp",
    "fragrance-du-bois-london-spice",
@@ -3709,6 +3774,7 @@
    "nicolai-les-new-york-intense",
    "nicolai-les-oud-sublime-elixir-de-parfum-spray",
    "nicolai-les-patchouli-sublime-elixir-de-parfum-spray",
+   "nicolai-les-poudre-de-musc-intense",
    "nicolai-les-rose-oud",
    "nicolai-musc-intense",
    "nicolai-parfumeur-createur-bois-belize-intense-edp",
@@ -3959,7 +4025,6 @@
    "orlov-sun-drop-edp",
    "orlov-supreme-star-edp",
    "orlov-the-best-of-me-edp",
-   "ormonde-jayne-ambre-royal",
    "ormonde-jayne-ambre-royal-edp-5x8ml",
    "ormonde-jayne-ambre-royal-parfum",
    "ormonde-jayne-arabesque-edp",
@@ -5582,13 +5647,13 @@
  "cupons": {},
  "cupons_extra": [],
  "erro": {
-  "niche": "19/11 08:24 nenhum produto respondeu",
-  "venba": "19/11 08:24 nenhum produto respondeu (15 erros)"
+  "niche": "20/11 06:54 nenhum produto respondeu",
+  "venba": "20/11 06:53 nenhum produto respondeu (15 erros)"
  },
  "falhas": {
-  "niche": 12,
+  "niche": 13,
   "olfactory": 0,
-  "venba": 15
+  "venba": 16
  },
  "lojas_extra": {},
  "marcas": [
@@ -6295,7 +6360,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:bdk-parfums-oud-abramad-edp": {
-   "a": true,
+   "a": false,
    "c": 230.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/A07-6.jpg?v=1765003587",
    "m": "BDK Parfums",
@@ -6464,7 +6529,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:bdk-parfums-wood-jasmin-edp": {
-   "a": true,
+   "a": false,
    "c": 230.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/A07-27.jpg?v=1765018800",
    "m": "BDK Parfums",
@@ -7793,11 +7858,11 @@
    "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Sept2026DRow-55.jpg?v=1792370594",
-   "m": "Les Liquides Imaginaires",
+   "m": "Liquides Imaginaires",
    "min": 135.0,
    "p": 135.0,
    "s": "100 ml",
-   "t": "Liquides Imaginaires - Ame De Fleur",
+   "t": "Ame De Fleur",
    "tester": false,
    "var": 43512296570939,
    "visto": "2026-11-11"
@@ -7819,11 +7884,11 @@
    "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/E11-43.jpg?v=1785821566",
-   "m": "Les Liquides Imaginaires",
+   "m": "Liquides Imaginaires",
    "min": 125.0,
    "p": 125.0,
    "s": "100 ml",
-   "t": "Fortis",
+   "t": "Les Liquides Imaginaires - Fortis",
    "tester": false,
    "var": 44219341209659,
    "visto": "2026-11-11"
@@ -7832,11 +7897,11 @@
    "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/E12-20.jpg?v=1785578076",
-   "m": "Les Liquides Imaginaires",
+   "m": "Liquides Imaginaires",
    "min": 80.0,
    "p": 80.0,
    "s": "100 ml",
-   "t": "Tumultu",
+   "t": "Les Liquides Imaginaires - Tumultu",
    "tester": true,
    "var": 43512303288379,
    "visto": "2026-11-11"
@@ -8244,6 +8309,19 @@
    "var": 41229606027323,
    "visto": "2026-11-11"
   },
+  "olfactory:fragrance-du-bois-forbidden-plum": {
+   "a": false,
+   "c": 0,
+   "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/5061028752048-1.jpg?v=1795131469",
+   "m": "Fragrance Du Bois",
+   "min": 999.0,
+   "p": 999.0,
+   "s": "100 ml",
+   "t": "Forbidden Plum",
+   "tester": false,
+   "var": 45032166948923,
+   "visto": "2026-11-20"
+  },
   "olfactory:fragrance-du-bois-london-spice": {
    "a": false,
    "c": 320.0,
@@ -8479,7 +8557,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:fragrance-du-bois-sirene-privee": {
-   "a": true,
+   "a": false,
    "c": 395.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/fbcab8e5-a10d-4baa-adae-764b33a05318.jpg?v=1794160347",
    "m": "Fragrance Du Bois",
@@ -9393,8 +9471,8 @@
    "c": 175.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/C01-2_96855f43-0038-4e47-9586-3fcaa414af6f.jpg?v=1786113216",
    "m": "Lorenzo Pazzaglia",
-   "min": 129.0,
-   "p": 129.0,
+   "min": 119.0,
+   "p": 119.0,
    "s": "50 ml",
    "t": "Cherry Ink",
    "tester": true,
@@ -9406,8 +9484,8 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/f5e8f201-7078-4969-bc66-675da35557fd.jpg?v=1794210221",
    "m": "Lorenzo Pazzaglia",
-   "min": 139.0,
-   "p": 139.0,
+   "min": 119.0,
+   "p": 119.0,
    "s": "50 ml",
    "t": "Foresta Magica",
    "tester": false,
@@ -9419,8 +9497,8 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/ERow2026-32.jpg?v=1791479694",
    "m": "Lorenzo Pazzaglia",
-   "min": 149.0,
-   "p": 149.0,
+   "min": 125.0,
+   "p": 125.0,
    "s": "50 ml",
    "t": "Green Island",
    "tester": false,
@@ -9432,8 +9510,8 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/9e35f429-567d-429d-a3f5-5299de061345.jpg?v=1794210223",
    "m": "Lorenzo Pazzaglia",
-   "min": 135.0,
-   "p": 135.0,
+   "min": 119.0,
+   "p": 119.0,
    "s": "50 ml",
    "t": "Vesuviuur",
    "tester": false,
@@ -9666,8 +9744,8 @@
    "c": 665.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/B08-18.jpg?v=1785720305",
    "m": "Maison Francis Kurkdjian",
-   "min": 469.99,
-   "p": 469.99,
+   "min": 449.0,
+   "p": 449.0,
    "s": "200 ml",
    "t": "Baccarat Rouge 540 EDP",
    "tester": false,
@@ -9701,16 +9779,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:maison-francis-kurkdjian-gentle-fluidity-silver": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/products/gentle-fluidity-silver-eau-de-parfum-by-maison-francis-kurkdjian_2400x_d9fe87c6-a5a5-4380-9398-e67acec5b22c.jpg?v=1758375424",
    "m": "Maison Francis Kurkdjian",
    "min": 225.0,
-   "p": 225.0,
-   "s": "70 ml",
+   "p": 415.0,
+   "s": "200 ml",
    "t": "Gentle Fluidity Silver",
    "tester": false,
-   "var": 40703950913595,
+   "var": 41228954599483,
    "visto": "2026-11-11"
   },
   "olfactory:maison-francis-kurkdjian-grand-soir": {
@@ -9896,16 +9974,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:matiere-premiere-vanilla-powder-1": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/C07-7.jpg?v=1781362076",
    "m": "Matiere Premiere",
    "min": 149.0,
-   "p": 149.0,
-   "s": "50 ml",
+   "p": 199.0,
+   "s": "100 ml",
    "t": "Vanilla Powder",
    "tester": false,
-   "var": 43059267239995,
+   "var": 42024314732603,
    "visto": "2026-11-11"
   },
   "olfactory:memo-paris-art-land-marfa": {
@@ -10662,6 +10740,19 @@
    "var": 43543791042619,
    "visto": "2026-11-11"
   },
+  "olfactory:nicolai-les-poudre-de-musc-intense": {
+   "a": false,
+   "c": 0,
+   "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/POUDRE_DE_MUSC_30ML.webp?v=1795129943",
+   "m": "Nicolai Les",
+   "min": 999.0,
+   "p": 999.0,
+   "s": "250 ml",
+   "t": "Poudre De Musc Intense",
+   "tester": false,
+   "var": 45032139882555,
+   "visto": "2026-11-20"
+  },
   "olfactory:nishane-ani": {
    "a": true,
    "c": 380.0,
@@ -10923,7 +11014,7 @@
    "visto": "2026-11-13"
   },
   "olfactory:orto-parisi-risvelium-parfum": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/B07-24.jpg?v=1785721233",
    "m": "Orto Parisi",
@@ -11136,11 +11227,11 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/pdm_20_b54a3eb3-b68b-49bc-a3ac-2a57d1468090.jpg?v=1741258098",
    "m": "Parfums De Marly",
    "min": 249.0,
-   "p": 249.0,
-   "s": "125 ml",
+   "p": 299.0,
+   "s": "200 ml",
    "t": "Haltane",
    "tester": false,
-   "var": 40897869578299,
+   "var": 44335069036603,
    "visto": "2026-11-11"
   },
   "olfactory:parfums-de-marly-kalan": {
@@ -11183,7 +11274,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:parfums-de-marly-meliora": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/E09-2.jpg?v=1780129578",
    "m": "Parfums De Marly",
@@ -11196,7 +11287,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:parfums-de-marly-oajan": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/05-27-7.jpg?v=1780127957",
    "m": "Parfums De Marly",
@@ -12847,8 +12938,8 @@
    "visto": "2026-11-11"
   }
  },
- "site_hash": "a02c6ccbe0539406e3fbdc3dbb0679d519338cff",
- "ultima": "19/11 08:25",
+ "site_hash": "7aa04ea0bebe7c9b5b6b0dbf7c68a9d7ad8b29fb",
+ "ultima": "20/11 06:54",
  "versao": 2,
  "vigiados": [
   "niche:boadicea-imperial-edp-100ml",
@@ -13068,6 +13159,7 @@
   "olfactory:filippo-sorcinelli-notre-dame-15-4-2019-extrait-de-parfum",
   "olfactory:fragrance-du-bois-brume-du-matin",
   "olfactory:fragrance-du-bois-cavort",
+  "olfactory:fragrance-du-bois-forbidden-plum",
   "olfactory:fragrance-du-bois-london-spice",
   "olfactory:fragrance-du-bois-lovers",
   "olfactory:fragrance-du-bois-lucius",
@@ -13254,6 +13346,7 @@
   "olfactory:nasomatto-sado-naso",
   "olfactory:nasomatto-silver-musk",
   "olfactory:nicolai-les-oud-sublime-elixir-de-parfum-spray",
+  "olfactory:nicolai-les-poudre-de-musc-intense",
   "olfactory:nishane-ani",
   "olfactory:nishane-b-612-extrait-de-parfum",
   "olfactory:nishane-deziro",
