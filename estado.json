@@ -1,8 +1,8 @@
 {
  "auto": {},
  "aviso_falha": {
-  "niche": "2026-11-20",
-  "venba": "2026-11-20"
+  "niche": "2026-11-21",
+  "venba": "2026-11-21"
  },
  "batimento": "2026-47",
  "cb": {
@@ -5647,13 +5647,13 @@
  "cupons": {},
  "cupons_extra": [],
  "erro": {
-  "niche": "20/11 06:54 nenhum produto respondeu",
-  "venba": "20/11 06:53 nenhum produto respondeu (15 erros)"
+  "niche": "21/11 04:38 nenhum produto respondeu",
+  "venba": "21/11 04:37 nenhum produto respondeu (15 erros)"
  },
  "falhas": {
-  "niche": 13,
+  "niche": 14,
   "olfactory": 0,
-  "venba": 16
+  "venba": 17
  },
  "lojas_extra": {},
  "marcas": [
@@ -6802,7 +6802,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-heroine": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/795bc393-7f11-4793-ac23-f80b2ba30622.jpg?v=1794154789",
    "m": "Boadicea The Victorious",
@@ -7626,11 +7626,11 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/F11-11.jpg?v=1785257503",
    "m": "Creed",
    "min": 265.0,
-   "p": 399.0,
+   "p": 999.0,
    "s": "100 ml",
    "t": "Wild Vetiver",
-   "tester": false,
-   "var": 43255782146107,
+   "tester": true,
+   "var": 45039924150331,
    "visto": "2026-11-11"
   },
   "olfactory:editions-de-parfums-frederic-malle-bigarade-concentree": {
@@ -9758,11 +9758,11 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/mfk_6.jpg?v=1741259982",
    "m": "Maison Francis Kurkdjian",
    "min": 385.0,
-   "p": 385.0,
-   "s": "70 ml",
+   "p": 689.0,
+   "s": "200 ml",
    "t": "Baccarat Rouge 540 - Extrait de Parfum",
    "tester": false,
-   "var": 40703950487611,
+   "var": 45045747548219,
    "visto": "2026-11-11"
   },
   "olfactory:maison-francis-kurkdjian-gentle-fluidity-gold": {
@@ -12938,8 +12938,8 @@
    "visto": "2026-11-11"
   }
  },
- "site_hash": "7aa04ea0bebe7c9b5b6b0dbf7c68a9d7ad8b29fb",
- "ultima": "20/11 06:54",
+ "site_hash": "9f48f31b148fab3c9da35a9bffc1212cd54bed41",
+ "ultima": "21/11 04:38",
  "versao": 2,
  "vigiados": [
   "niche:boadicea-imperial-edp-100ml",
