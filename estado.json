@@ -1,10 +1,10 @@
 {
  "auto": {},
  "aviso_falha": {
-  "niche": "2026-11-22",
-  "venba": "2026-11-22"
+  "niche": "2026-11-23",
+  "venba": "2026-11-23"
  },
- "batimento": "2026-47",
+ "batimento": "2026-48",
  "cb": {
   "1": [
    "nao_vigiar",
@@ -286,6 +286,14 @@
    "parar",
    "Fragrance Du Bois"
   ],
+  "73": [
+   "nao_vigiar",
+   "olfactory:marc-antoine-barrois-tilia"
+  ],
+  "74": [
+   "parar",
+   "Marc-Antoine Barrois"
+  ],
   "8": [
    "parar",
    "Orto Parisi"
@@ -295,7 +303,7 @@
    "olfactory:initio-wild-rush"
   ]
  },
- "cb_n": 72,
+ "cb_n": 74,
  "chat_id": 1001322888,
  "conhecidos": {
   "olfactory": [
@@ -5647,13 +5655,13 @@
  "cupons": {},
  "cupons_extra": [],
  "erro": {
-  "niche": "22/11 07:10 nenhum produto respondeu",
-  "venba": "22/11 07:09 nenhum produto respondeu (15 erros)"
+  "niche": "23/11 04:04 nenhum produto respondeu",
+  "venba": "23/11 04:04 nenhum produto respondeu (15 erros)"
  },
  "falhas": {
-  "niche": 15,
+  "niche": 16,
   "olfactory": 0,
-  "venba": 18
+  "venba": 19
  },
  "lojas_extra": {},
  "marcas": [
@@ -9896,16 +9904,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:marc-antoine-barrois-tilia": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/B06-15.jpg?v=1779149801",
    "m": "Marc-Antoine Barrois",
-   "min": 225.0,
-   "p": 225.0,
+   "min": 219.0,
+   "p": 219.0,
    "s": "100 ml",
    "t": "Tilia",
-   "tester": false,
-   "var": 41696290701371,
+   "tester": true,
+   "var": 42510055571515,
    "visto": "2026-11-11"
   },
   "olfactory:matiere-premiere-discovery-set": {
@@ -12405,7 +12413,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:vertus-royal-orris-100ml": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Royal_Orris_Front.webp?v=1788827411",
    "m": "Vertus",
@@ -12652,16 +12660,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:xerjoff-join-the-club-more-than-words": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/F07-2.jpg?v=1785498519",
    "m": "Xerjoff",
    "min": 149.0,
-   "p": 149.0,
-   "s": "100 ml",
+   "p": 209.0,
+   "s": "85 ml",
    "t": "Join the Club - More Than Words",
-   "tester": true,
-   "var": 40704027230267,
+   "tester": false,
+   "var": 40704027197499,
    "visto": "2026-11-11"
   },
   "olfactory:xerjoff-k-collection-jabir": {
@@ -12938,8 +12946,8 @@
    "visto": "2026-11-11"
   }
  },
- "site_hash": "7d5a0dce29978f66178b8d68e7f0c43002d1eed6",
- "ultima": "22/11 07:10",
+ "site_hash": "836e0d4fdfb5db3d930fc2f2bca7295630e54532",
+ "ultima": "23/11 04:05",
  "versao": 2,
  "vigiados": [
   "niche:boadicea-imperial-edp-100ml",
