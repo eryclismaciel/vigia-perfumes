@@ -1,8 +1,8 @@
 {
  "auto": {},
  "aviso_falha": {
-  "niche": "2026-11-25",
-  "venba": "2026-11-25"
+  "niche": "2026-11-27",
+  "venba": "2026-11-27"
  },
  "batimento": "2026-48",
  "cb": {
@@ -42,13 +42,77 @@
    "parar",
    "Mind Games"
   ],
+  "107": [
+   "nao_vigiar",
+   "olfactory:xerjoff-fierezza"
+  ],
+  "108": [
+   "parar",
+   "Xerjoff"
+  ],
+  "109": [
+   "nao_vigiar",
+   "olfactory:ramon-monegal-ibiza-love-reaction-100ml"
+  ],
   "11": [
    "nao_vigiar",
    "olfactory:initio-absolute-aphrodisiac"
   ],
+  "110": [
+   "parar",
+   "Ramon Monegal"
+  ],
+  "111": [
+   "nao_vigiar",
+   "olfactory:amouage-the-library-collection-opus-xvi-timber"
+  ],
+  "112": [
+   "parar",
+   "Amouage"
+  ],
+  "113": [
+   "nao_vigiar",
+   "olfactory:ramon-monegal-matador"
+  ],
+  "114": [
+   "parar",
+   "Ramon Monegal"
+  ],
+  "115": [
+   "nao_vigiar",
+   "olfactory:fragrance-du-bois-sirene"
+  ],
+  "116": [
+   "parar",
+   "Fragrance du Bois"
+  ],
+  "117": [
+   "nao_vigiar",
+   "olfactory:fragrance-du-bois-pm"
+  ],
+  "118": [
+   "parar",
+   "Fragrance du Bois"
+  ],
+  "119": [
+   "nao_vigiar",
+   "olfactory:amouage-remain"
+  ],
   "12": [
    "parar",
    "Initio Parfums"
+  ],
+  "120": [
+   "parar",
+   "Amouage"
+  ],
+  "121": [
+   "nao_vigiar",
+   "olfactory:pana-dora-oud-republic"
+  ],
+  "122": [
+   "parar",
+   "Pana Dora"
   ],
   "13": [
    "nao_vigiar",
@@ -431,7 +495,7 @@
    "olfactory:mind-games-gardez"
   ]
  },
- "cb_n": 106,
+ "cb_n": 122,
  "chat_id": 1001322888,
  "conhecidos": {
   "olfactory": [
@@ -574,12 +638,15 @@
    "alyssa-ashley-cedro-musk",
    "alyssa-ashley-essence-de-patchouli",
    "alyssa-ashley-musk",
+   "alyssa-ashley-musk-parfum",
    "alyssa-ashley-oud-patchouli",
    "alyssa-ashley-red-berry-musk",
    "alyssa-ashley-rose-musk",
    "alyssa-ashley-tonka-musk",
    "alyssa-ashley-vanilla",
+   "alyssa-ashley-vanilla-edp",
    "alyssa-ashley-white-musk",
+   "alyssa-ashley-white-musk-edt",
    "alyssa-ashley-white-patchouii",
    "amouage-ashore-edp-100ml",
    "amouage-beach-hut-man",
@@ -712,6 +779,7 @@
    "anfas-ghala-extrait-de-parfum",
    "anfas-haneen",
    "anfas-hybrid-gaya-green",
+   "anfas-hybrid-gaya-green-1",
    "anfas-hybrid-watan-gold",
    "anfas-hybrid-watan-gold-1",
    "anfas-ishq-red",
@@ -1086,6 +1154,7 @@
    "boadicea-the-victorious-sadu",
    "boadicea-the-victorious-sapphire-collection-gift-set",
    "boadicea-the-victorious-the-amber-gift-set",
+   "boadicea-the-victorious-the-ambery-gift-set-4x10ml",
    "boadicea-the-victorious-the-citrus-gift-set",
    "boadicea-the-victorious-the-floral-gift-set",
    "boadicea-the-victorious-the-leather-gift-set",
@@ -1363,6 +1432,7 @@
    "byredo-rose-noir",
    "byredo-rose-of-no-mans-land-body-lotion",
    "byredo-rose-of-no-mans-land-rinse-free-hand-cleansers",
+   "byredo-rose-of-no-mans-land-rinse-free-hand-wash",
    "byredo-rose-of-no-mans-land-rinse-free-hand-wash-1",
    "byredo-rouge-chaotique-night-veils-edp",
    "byredo-safran-candle",
@@ -1467,6 +1537,7 @@
    "carthusia-numero-uno",
    "carthusia-profumo-intenso-basilico",
    "carthusia-profumo-intenso-ginestra",
+   "carthusia-profumo-intenso-mirto",
    "carthusia-terra-mia",
    "carthusia-tuberosa",
    "carthusia-via-camerelle",
@@ -2340,6 +2411,7 @@
    "fragrance-du-bois-milano-edp",
    "fragrance-du-bois-minuit-et-demi",
    "fragrance-du-bois-new-york-5-th-avenue",
+   "fragrance-du-bois-new-york-5th-avenue-flag-edition",
    "fragrance-du-bois-new-york-intense-edp",
    "fragrance-du-bois-new-york-intense-flag-edition",
    "fragrance-du-bois-oud-amber-intense",
@@ -2458,6 +2530,7 @@
    "frederic-malle-acne-studio",
    "frederic-malle-carnal-flower-body-wash",
    "frederic-malle-vetiver-extraordinar-e",
+   "free-sample",
    "fugazzi-angel-dust",
    "fugazzi-angel-dust-extrait",
    "fugazzi-cash-flower",
@@ -2882,6 +2955,7 @@
    "jo-malone-peony-blush-suede-body-hand-wash",
    "jo-malone-pomegranate-noir-cologne",
    "jo-malone-poppy-barley-edc",
+   "jo-malone-tuberose-angelica-intense",
    "jo-malone-wild-bluebell-cologne",
    "jo-malone-wood-sage-sea-salt-body-cream",
    "jo-malone-wood-sage-sea-salt-body-hand-wash",
@@ -2909,7 +2983,9 @@
    "jovoy-spray-datcha-home",
    "jovoy-touche-finale-edp",
    "jpg-le-male-le-parfum",
+   "jul-et-mad-aqua-sextius",
    "jul-et-mad-aqua-sextius-edp",
+   "jul-et-mad-bella-donna",
    "jul-et-mad-callisto",
    "jul-et-mad-callisto-extrait-de-parfum",
    "jul-et-mad-ganja-oud-edp",
@@ -3742,6 +3818,7 @@
    "min-new-york-star-dust-edp",
    "min-new-york-voodoo-body-hair-spray",
    "min-new-york-voodoo-eau-de-parfum-unisex-fragrance",
+   "mind-games-8ml-travel-spray",
    "mind-games-amber-discovery-set",
    "mind-games-artisan-collection-blockade-100ml",
    "mind-games-artisan-collection-grand-master-100ml",
@@ -4074,12 +4151,15 @@
    "olfactive-studio-autoportrait",
    "olfactive-studio-chambre-noire",
    "olfactive-studio-close-up",
+   "olfactive-studio-close-up-1",
    "olfactive-studio-collection-sepia-chypre-shot",
    "olfactive-studio-collection-sepia-leather-shot",
    "olfactive-studio-collection-sepia-vanilla-shot",
    "olfactive-studio-flash-back",
    "olfactive-studio-flash-back-in-new-york",
+   "olfactive-studio-flash-back-in-new-york-1",
    "olfactive-studio-iris-shot-extract-edp",
+   "olfactive-studio-leather-shot",
    "olfactive-studio-lumiere-blanche",
    "olfactive-studio-ombre-indigo",
    "olfactive-studio-panorama-2",
@@ -4722,6 +4802,8 @@
    "reminiscence-rose-tentation-edp",
    "reminiscence-souffle-ambre-intense-edt",
    "reminiscence-sous-un-mimosa-de-provence-edt",
+   "replacement-automizer",
+   "replacement-automizer-outer-shell",
    "roberto-ugolini-17-rosso",
    "roberto-ugolini-blue-suede-shoes",
    "roberto-ugolini-giardino-di-boboli",
@@ -4751,10 +4833,12 @@
    "roja-creation-r-essence-de-parfum",
    "roja-danger-essence-de-parfum-100ml",
    "roja-danger-parfum-pour-homme-50ml",
+   "roja-danger-pour-femme",
    "roja-danger-pour-homme-parfum-cologne",
    "roja-diaghilev",
    "roja-discovery-10ml-sets-the-aouds-parfum",
    "roja-elixir-essence",
+   "roja-elixir-essence-de-parfum-pour-femme",
    "roja-elixir-parfum-pour-femme",
    "roja-elysium-noir-pour-homme",
    "roja-elysium-parfum",
@@ -4779,6 +4863,7 @@
    "roja-kuwait-50ml",
    "roja-lost-in-paris",
    "roja-musk-aoud",
+   "roja-musk-aoud-absolue-precieux",
    "roja-musk-aoud-crystal-parfum-100ml",
    "roja-neiman-marcus-exclusive-parfum",
    "roja-nuwa",
@@ -4791,14 +4876,18 @@
    "roja-parfums-apex-eau-intense-pour-homme-edp",
    "roja-parfums-apex-edp",
    "roja-parfums-apex-extrait-de-parfum",
+   "roja-parfums-apex-parfum-cologne",
    "roja-parfums-creation-e-parfum-pour-homme",
    "roja-parfums-danger",
+   "roja-parfums-danger-femme-parfum",
    "roja-parfums-elixir",
    "roja-parfums-elixir-supreme-hair-mist",
    "roja-parfums-elysium-eau-intense",
    "roja-parfums-elysium-eau-intense-pour-homme",
    "roja-parfums-elysium-parfum-cologne",
    "roja-parfums-enigma-parfum-pour-homme",
+   "roja-parfums-enslaved-parfum-pour-femme",
+   "roja-parfums-fetish-parfum-pour-homme",
    "roja-parfums-isola-snow",
    "roja-parfums-manhattan",
    "roja-parfums-manhattan-hair-mist",
@@ -4812,11 +4901,13 @@
    "roja-reckless-essence-de-parfum-100ml",
    "roja-reckless-pour-femme-eau-de-parfum",
    "roja-reckless-pour-homme-parfum",
+   "roja-risque-pour-femme-eau-de-parfum",
    "roja-scandal-essence-de-parfum-100ml",
    "roja-scandal-pour-femme",
    "roja-scandal-pour-homme-edp-50ml",
    "roja-scandal-pour-homme-parfum",
    "roja-scandal-pour-homme-parfum-cologne",
+   "roja-sultanate-of-oman",
    "roja-sweetie-aoud-parfum",
    "roja-taif-aoud-parfum",
    "roja-the-aoud-discovery-collection",
@@ -5278,6 +5369,7 @@
    "tiziana-terenzi-comete-collection-wirtanen",
    "tiziana-terenzi-cubia-extrait-de-parfum",
    "tiziana-terenzi-delox",
+   "tiziana-terenzi-draco-edp",
    "tiziana-terenzi-ecstasy",
    "tiziana-terenzi-foconero",
    "tiziana-terenzi-gold-rose-oudh-extrait-de-parfum",
@@ -5610,6 +5702,7 @@
    "xerjoff-gibeon",
    "xerjoff-golden-moka",
    "xerjoff-groove-xcape",
+   "xerjoff-homme",
    "xerjoff-homme-anniversary",
    "xerjoff-italica-eau-de-parfum",
    "xerjoff-java-blossom",
@@ -5783,13 +5876,13 @@
  "cupons": {},
  "cupons_extra": [],
  "erro": {
-  "niche": "25/11 06:01 nenhum produto respondeu",
-  "venba": "25/11 06:00 nenhum produto respondeu (15 erros)"
+  "niche": "27/11 01:02 nenhum produto respondeu",
+  "venba": "27/11 01:01 nenhum produto respondeu (15 erros)"
  },
  "falhas": {
-  "niche": 18,
+  "niche": 19,
   "olfactory": 0,
-  "venba": 21
+  "venba": 22
  },
  "lojas_extra": {},
  "marcas": [
@@ -5989,12 +6082,12 @@
    "visto": "2026-11-11"
   },
   "olfactory:agatho-seigiorni": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/3df470e2-46de-455a-9522-ff7547e663d2.jpg?v=1794150187",
    "m": "Agatho",
-   "min": 85.0,
-   "p": 85.0,
+   "min": 75.0,
+   "p": 75.0,
    "s": "50 ml",
    "t": "Seigiorni - Extrait de Parfum",
    "tester": false,
@@ -6041,12 +6134,12 @@
    "visto": "2026-11-11"
   },
   "olfactory:amouage-epic-woman-56-extrait": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/240154be-201d-4fa5-bb89-47e6347fc29c.jpg?v=1794150193",
    "m": "Amouage",
    "min": 299.0,
-   "p": 299.0,
+   "p": 366.0,
    "s": "100 ml",
    "t": "Epic Woman 56 Extrait",
    "tester": false,
@@ -6072,7 +6165,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Olfactory-34_1.jpg?v=1752321835",
    "m": "Amouage",
    "min": 325.0,
-   "p": 325.0,
+   "p": 335.0,
    "s": "100 ml",
    "t": "Guidance Edp",
    "tester": false,
@@ -6080,12 +6173,12 @@
    "visto": "2026-11-11"
   },
   "olfactory:amouage-honour-woman-43-extrait": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/e0c1efe0-9239-45c8-9ecd-e598f24d53d0.jpg?v=1794150194",
    "m": "Amouage",
    "min": 279.0,
-   "p": 279.0,
+   "p": 325.0,
    "s": "100 ml",
    "t": "Honour Woman 43 - Extrait",
    "tester": false,
@@ -6098,7 +6191,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/5d2f924e-d5e9-44de-9798-5f8fd6f84244.jpg?v=1794150195",
    "m": "Amouage",
    "min": 265.0,
-   "p": 265.0,
+   "p": 277.0,
    "s": "100 ml",
    "t": "Interlude Man",
    "tester": false,
@@ -6184,7 +6277,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:amouage-purpose-50": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Purpose-50-By-Amouage-Extrait-De-Parfum.webp?v=1794481807",
    "m": "Amouage",
@@ -6223,12 +6316,12 @@
    "visto": "2026-11-11"
   },
   "olfactory:amouage-remain": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/6fe37f64-1468-49b4-90c5-cc9bf956b796.jpg?v=1794150200",
    "m": "Amouage",
    "min": 398.99,
-   "p": 417.0,
+   "p": 399.0,
    "s": "100 ml",
    "t": "The Essences - Remain",
    "tester": false,
@@ -6236,12 +6329,12 @@
    "visto": "2026-11-11"
   },
   "olfactory:amouage-the-library-collection-opus-xvi-timber": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/07c658dc-8b1d-45bc-a623-9666a5996f83.jpg?v=1794150202",
    "m": "Amouage",
    "min": 239.0,
-   "p": 359.0,
+   "p": 366.0,
    "s": "100 ml",
    "t": "The Library Collection - Opus XVI - Timber",
    "tester": false,
@@ -6254,11 +6347,11 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/C05-4_7999f9c1-cc5b-40d4-8b32-5469058e241c.jpg?v=1786412236",
    "m": "Argos",
    "min": 115.0,
-   "p": 115.0,
-   "s": "30 ml",
+   "p": 179.0,
+   "s": "100 ml",
    "t": "Sacred Flame",
    "tester": false,
-   "var": 42105658146875,
+   "var": 41920100401211,
    "visto": "2026-11-11"
   },
   "olfactory:argos-neptunes-trident": {
@@ -6366,12 +6459,12 @@
    "visto": "2026-11-11"
   },
   "olfactory:bdk-312-saint-honore": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/457955d8-04f4-414e-9eee-53e6bb47b47b.jpg?v=1794153770",
    "m": "BDK Parfums",
    "min": 125.0,
-   "p": 125.0,
+   "p": 133.0,
    "s": "100 ml",
    "t": "BDK - 312 Saint Honore",
    "tester": false,
@@ -6565,8 +6658,8 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/SilverCeremonyAbsolu.webp?v=1787244146",
    "m": "BDK Parfums",
-   "min": 259.0,
-   "p": 259.0,
+   "min": 249.99,
+   "p": 249.99,
    "s": "100 ml",
    "t": "Silver Ceremony Absolu",
    "tester": false,
@@ -6678,16 +6771,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:bdk-pas-ce-soir-extrait": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/0699d464-b226-4cb5-98f4-c8338254ba9e.jpg?v=1794153771",
    "m": "BDK Parfums",
-   "min": 205.0,
-   "p": 205.0,
+   "min": 199.0,
+   "p": 199.0,
    "s": "100 ml",
    "t": "BDK - Pas ce soir extrait",
-   "tester": false,
-   "var": 41893760204859,
+   "tester": true,
+   "var": 41893760237627,
    "visto": "2026-11-11"
   },
   "olfactory:beso-beach-deseo": {
@@ -6695,25 +6788,25 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/f4183a3b-2655-4cb4-a22c-642496548eb9.jpg?v=1794153775",
    "m": "Beso Beach",
-   "min": 79.0,
-   "p": 79.0,
+   "min": 69.0,
+   "p": 69.0,
    "s": "100 ml",
    "t": "Deseo",
-   "tester": false,
-   "var": 44132191535163,
+   "tester": true,
+   "var": 44132191567931,
    "visto": "2026-11-11"
   },
   "olfactory:birkholz-tales-of-torino": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/d19b5975-6ff8-47b8-a5e1-41d611e484d3.jpg?v=1794153776",
    "m": "Birkholz",
-   "min": 159.0,
-   "p": 165.0,
+   "min": 117.0,
+   "p": 117.0,
    "s": "100 ml",
    "t": "Tales Of Torino",
-   "tester": true,
-   "var": 43284480819259,
+   "tester": false,
+   "var": 43284480786491,
    "visto": "2026-11-11"
   },
   "olfactory:blndr-grphy-01-jasmin-martini": {
@@ -6730,7 +6823,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-ardent": {
-   "a": false,
+   "a": true,
    "c": 295.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/88d8bccd-9741-49c9-8b6e-80b4a21d9105.jpg?v=1794153780",
    "m": "Boadicea The Victorious",
@@ -6743,7 +6836,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-azrak-parfum": {
-   "a": false,
+   "a": true,
    "c": 495.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/ff6dd63b-1881-4328-b4e1-ac2623cff1fd.jpg?v=1794153781",
    "m": "Boadicea The Victorious",
@@ -6773,8 +6866,8 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/22c965fb-0b09-424c-8ea0-2f74b20ecc05.jpg?v=1794153781",
    "m": "Boadicea The Victorious",
-   "min": 565.0,
-   "p": 565.0,
+   "min": 550.0,
+   "p": 550.0,
    "s": "100 ml",
    "t": "Blue Sapphire Supercharged - EDP",
    "tester": false,
@@ -6782,7 +6875,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-bodacious": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/1d79ae47-f2bb-4a5e-ab68-851b0bc526b3.jpg?v=1794154784",
    "m": "Boadicea The Victorious",
@@ -6799,12 +6892,12 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/6f859eab-f434-41d0-a9a4-60a9bbbf6b2e.jpg?v=1794154784",
    "m": "Boadicea The Victorious",
-   "min": 175.0,
-   "p": 175.0,
+   "min": 169.0,
+   "p": 169.0,
    "s": "100 ml",
    "t": "Bravery - Edp",
-   "tester": true,
-   "var": 42391809851451,
+   "tester": false,
+   "var": 41471781666875,
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-consort": {
@@ -6847,7 +6940,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-dragon-edp": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/5e474e41-d53a-4e4a-8f8c-080c9db7c9c6.jpg?v=1794154785",
    "m": "Boadicea The Victorious",
@@ -6886,7 +6979,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-envious-edp": {
-   "a": false,
+   "a": true,
    "c": 495.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/99e606c3-c89b-4b4d-a26b-946243a18085.jpg?v=1794154786",
    "m": "Boadicea The Victorious",
@@ -6912,7 +7005,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-glorious-parfum": {
-   "a": false,
+   "a": true,
    "c": 295.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/d11f63b9-e2b1-4994-9700-9d83bd555e10.jpg?v=1794154787",
    "m": "Boadicea The Victorious",
@@ -6938,16 +7031,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-heroine": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/795bc393-7f11-4793-ac23-f80b2ba30622.jpg?v=1794154789",
    "m": "Boadicea The Victorious",
-   "min": 199.0,
-   "p": 199.0,
+   "min": 185.0,
+   "p": 185.0,
    "s": "100 ml",
    "t": "Heroine",
-   "tester": false,
-   "var": 42025321922619,
+   "tester": true,
+   "var": 41722661961787,
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-imperial-parfum": {
@@ -6990,7 +7083,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-lavish": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/08556c36-7d0f-4108-a223-35f99cea7946.jpg?v=1794154789",
    "m": "Boadicea The Victorious",
@@ -7003,7 +7096,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-nemer": {
-   "a": false,
+   "a": true,
    "c": 595.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/93557d74-7f59-43a3-be17-d12a0cd82d60.jpg?v=1794154791",
    "m": "Boadicea The Victorious",
@@ -7042,12 +7135,12 @@
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-opal": {
-   "a": false,
+   "a": true,
    "c": 1300.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/35631da2-da82-4c69-bb74-c00382a176ef.jpg?v=1794154792",
    "m": "Boadicea The Victorious",
-   "min": 425.0,
-   "p": 425.0,
+   "min": 394.0,
+   "p": 394.0,
    "s": "100 ml",
    "t": "Opal",
    "tester": false,
@@ -7079,6 +7172,19 @@
    "tester": false,
    "var": 43868767420475,
    "visto": "2026-11-11"
+  },
+  "olfactory:boadicea-the-victorious-the-ambery-gift-set-4x10ml": {
+   "a": true,
+   "c": 0,
+   "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Ambery_Open_10ml_Gift_Set.webp?v=1795647933",
+   "m": "Boadicea The Victorious",
+   "min": 149.0,
+   "p": 149.0,
+   "s": "",
+   "t": "The Ambery Gift Set 4x10Ml",
+   "tester": false,
+   "var": 45103433252923,
+   "visto": "2026-11-27"
   },
   "olfactory:boadicea-the-victorious-the-citrus-gift-set": {
    "a": false,
@@ -7120,33 +7226,33 @@
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-tobacco-sapphire": {
-   "a": false,
-   "c": 935.0,
+   "a": true,
+   "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/905664a7-2185-4a3a-9fe9-0b3ff4d27d39.jpg?v=1794154794",
    "m": "Boadicea The Victorious",
-   "min": 359.0,
-   "p": 359.0,
+   "min": 338.0,
+   "p": 338.0,
    "s": "100 ml",
    "t": "Tobacco Sapphire",
-   "tester": false,
-   "var": 41722695057467,
+   "tester": true,
+   "var": 41722662355003,
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-valiant-parfum": {
    "a": true,
-   "c": 728.0,
+   "c": 650.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/273b29d3-2204-4e97-bda7-10a53f15aeba.jpg?v=1794154795",
    "m": "Boadicea The Victorious",
-   "min": 499.0,
-   "p": 499.0,
+   "min": 449.0,
+   "p": 449.0,
    "s": "100 ml",
    "t": "Valiant parfum",
-   "tester": true,
-   "var": 40704095256635,
+   "tester": false,
+   "var": 40704095289403,
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-violet-sapphire-supercarged": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/boadicea-the-victorious-violet-sapphire-supercharged-3437113.webp?v=1783386211",
    "m": "Boadicea The Victorious",
@@ -7457,6 +7563,19 @@
    "var": 42389291335739,
    "visto": "2026-11-11"
   },
+  "olfactory:byredo-rose-of-no-mans-land-rinse-free-hand-wash": {
+   "a": false,
+   "c": 0,
+   "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/rinsefree-ronml-1500x1680.avif?v=1758310923",
+   "m": "Byredo",
+   "min": 999.0,
+   "p": 999.0,
+   "s": "",
+   "t": "Rose of no man's land - Rinse-free hand wash",
+   "tester": false,
+   "var": 42472796225595,
+   "visto": "2026-11-27"
+  },
   "olfactory:caron-poivre-imperial": {
    "a": true,
    "c": 0,
@@ -7670,8 +7789,8 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/B09-19.jpg?v=1770792736",
    "m": "Creed",
-   "min": 339.99,
-   "p": 339.99,
+   "min": 280.0,
+   "p": 280.0,
    "s": "50 ml",
    "t": "Aventus Absolu",
    "tester": false,
@@ -7684,7 +7803,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/C06-1_0d2e27c9-57a1-486c-a2a4-c1c6224ec1ab.jpg?v=1786413623",
    "m": "Creed",
    "min": 275.0,
-   "p": 299.0,
+   "p": 280.0,
    "s": "100 ml",
    "t": "Aventus Cologne",
    "tester": false,
@@ -7723,7 +7842,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/bc8488a9da6a4466234a87a47f929f4d.avif?v=1789146943",
    "m": "Creed",
    "min": 399.0,
-   "p": 399.0,
+   "p": 407.0,
    "s": "100 ml",
    "t": "Iris Debonair",
    "tester": false,
@@ -8321,11 +8440,11 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/cf665d1f-1ed4-4be1-8822-1a3780100daf.jpg?v=1794155517",
    "m": "Filippo Sorcinelli",
    "min": 135.0,
-   "p": 135.0,
+   "p": 136.0,
    "s": "100 ml",
    "t": "Chiesa D'Oro - Extrait de parfum",
-   "tester": true,
-   "var": 43248071770171,
+   "tester": false,
+   "var": 43248071802939,
    "visto": "2026-11-11"
   },
   "olfactory:filippo-sorcinelli-chiudi-gli-occhi-e-poi-vedi": {
@@ -8334,7 +8453,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/e4497a20-a41c-406d-a575-21e7d2a53d56.jpg?v=1794155518",
    "m": "Filippo Sorcinelli",
    "min": 145.0,
-   "p": 145.0,
+   "p": 150.0,
    "s": "100 ml",
    "t": "Chiudi Gli Occhi E Poi Vedi - Extrait de parfum",
    "tester": false,
@@ -8347,7 +8466,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/filippo_sorcinelli_domm_extrait_de_parfum_1.webp?v=1772404614",
    "m": "Filippo Sorcinelli",
    "min": 149.0,
-   "p": 159.0,
+   "p": 161.0,
    "s": "100 ml",
    "t": "Do'mm - Extrait de parfum",
    "tester": false,
@@ -8360,7 +8479,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/2f8f69ed-5da6-432d-945d-9347bcabbb60.jpg?v=1794243977",
    "m": "Filippo Sorcinelli",
    "min": 159.99,
-   "p": 159.99,
+   "p": 186.0,
    "s": "100 ml",
    "t": "Epicentro - Extrait de parfum",
    "tester": false,
@@ -8373,7 +8492,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/414c7d08-0c33-4e1e-9d0d-75da19366b40.jpg?v=1794243982",
    "m": "Filippo Sorcinelli",
    "min": 149.0,
-   "p": 149.0,
+   "p": 159.0,
    "s": "100 ml",
    "t": "Io Non Ho Mani Che - Extrait de parfum",
    "tester": false,
@@ -8385,12 +8504,12 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/E10-36.jpg?v=1786479258",
    "m": "Filippo Sorcinelli",
-   "min": 135.0,
-   "p": 135.0,
+   "min": 132.0,
+   "p": 132.0,
    "s": "100 ml",
    "t": "Lascia Che Io Pianga - Extrait de parfum",
-   "tester": false,
-   "var": 43248072982587,
+   "tester": true,
+   "var": 43248073015355,
    "visto": "2026-11-11"
   },
   "olfactory:filippo-sorcinelli-lux-visionaria": {
@@ -8399,7 +8518,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/375x500.74666.jpg?v=1772416606",
    "m": "Filippo Sorcinelli",
    "min": 205.0,
-   "p": 205.0,
+   "p": 206.0,
    "s": "100 ml",
    "t": "Lux Visionaria - Extrait de parfum",
    "tester": false,
@@ -8529,12 +8648,25 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/2d4df451-48a7-4b71-945e-8ca1103daead.jpg?v=1794160346",
    "m": "Fragrance Du Bois",
    "min": 134.99,
-   "p": 134.99,
+   "p": 149.0,
    "s": "100 ml",
    "t": "New York 5th Avenue",
    "tester": false,
    "var": 40977682726971,
    "visto": "2026-11-11"
+  },
+  "olfactory:fragrance-du-bois-new-york-5th-avenue-flag-edition": {
+   "a": false,
+   "c": 0,
+   "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/247c76b6-deca-4693-8918-a885e2b7b295.jpg?v=1793817063",
+   "m": "Fragrance Du Bois",
+   "min": 179.0,
+   "p": 179.0,
+   "s": "100 ml",
+   "t": "New York 5th Avenue Flag Edition",
+   "tester": false,
+   "var": 44875605868603,
+   "visto": "2026-11-27"
   },
   "olfactory:fragrance-du-bois-new-york-intense-edp": {
    "a": false,
@@ -8615,16 +8747,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:fragrance-du-bois-pm": {
-   "a": false,
-   "c": 365.0,
+   "a": true,
+   "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/18810126-7a31-484a-90f9-3ebcfc7ad3df.jpg?v=1794160347",
    "m": "Fragrance Du Bois",
-   "min": 209.0,
-   "p": 209.0,
+   "min": 189.0,
+   "p": 189.0,
    "s": "100 ml",
    "t": "PM",
-   "tester": false,
-   "var": 41746791596091,
+   "tester": true,
+   "var": 41692711616571,
    "visto": "2026-11-11"
   },
   "olfactory:fragrance-du-bois-prive-oud-noir-intense": {
@@ -8680,7 +8812,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:fragrance-du-bois-sirene": {
-   "a": false,
+   "a": true,
    "c": 395.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/3885b9b5-b1ba-446b-8bbe-214fad0c6a1a.jpg?v=1794160347",
    "m": "Fragrance Du Bois",
@@ -9270,7 +9402,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/364981b9-d3f2-464f-9cc0-b8a95ab464ac.jpg?v=1794160350",
    "m": "Initio",
    "min": 189.0,
-   "p": 204.0,
+   "p": 199.99,
    "s": "90 ml",
    "t": "Parfums Prives - Power Self",
    "tester": false,
@@ -9425,8 +9557,8 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/371be70b-a0f5-48a1-be36-276593a6e2da.jpg?v=1794204661",
    "m": "Juliette Has A Gun",
-   "min": 99.99,
-   "p": 99.99,
+   "min": 86.0,
+   "p": 86.0,
    "s": "100 ml",
    "t": "Madeleine Imperiale",
    "tester": false,
@@ -9438,8 +9570,8 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/01_Oil_Fiction_Packshot_75ml_1000x_c5789e40-cc95-4761-8bae-448d46a00189.webp?v=1779642645",
    "m": "Juliette Has A Gun",
-   "min": 104.0,
-   "p": 104.0,
+   "min": 86.0,
+   "p": 86.0,
    "s": "100 ml",
    "t": "Oil Fiction",
    "tester": false,
@@ -9595,7 +9727,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/399e6538-4f25-4677-8126-d99217e8ef8f.jpg?v=1794204681",
    "m": "Liquides Imaginaires",
    "min": 135.0,
-   "p": 149.0,
+   "p": 183.0,
    "s": "100 ml",
    "t": "Liquide Gold",
    "tester": false,
@@ -9621,7 +9753,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/f5e8f201-7078-4969-bc66-675da35557fd.jpg?v=1794210221",
    "m": "Lorenzo Pazzaglia",
    "min": 119.0,
-   "p": 119.0,
+   "p": 139.0,
    "s": "50 ml",
    "t": "Foresta Magica",
    "tester": false,
@@ -9647,7 +9779,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/9e35f429-567d-429d-a3f5-5299de061345.jpg?v=1794210223",
    "m": "Lorenzo Pazzaglia",
    "min": 119.0,
-   "p": 119.0,
+   "p": 135.0,
    "s": "50 ml",
    "t": "Vesuviuur",
    "tester": false,
@@ -9746,16 +9878,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:maison-crivelli-hibiscus-mahajad": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/9321124b-9bfc-4033-b3e5-7e12cc9203f6.jpg?v=1794210225",
    "m": "Maison Crivelli",
-   "min": 399.0,
-   "p": 399.0,
-   "s": "100 ml",
+   "min": 299.0,
+   "p": 299.0,
+   "s": "50 ml",
    "t": "Hibiscus Mahajad",
    "tester": false,
-   "var": 42162526978107,
+   "var": 42162526945339,
    "visto": "2026-11-11"
   },
   "olfactory:maison-crivelli-musc-nurasana": {
@@ -9772,7 +9904,7 @@
    "visto": "2026-11-18"
   },
   "olfactory:maison-crivelli-oud-maracuja": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/4d1b63a9-3ea3-4d6b-8f1d-6105dd647353.jpg?v=1794210226",
    "m": "Maison Crivelli",
@@ -9881,7 +10013,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/B08-18.jpg?v=1785720305",
    "m": "Maison Francis Kurkdjian",
    "min": 449.0,
-   "p": 449.0,
+   "p": 479.0,
    "s": "200 ml",
    "t": "Baccarat Rouge 540 EDP",
    "tester": false,
@@ -9907,7 +10039,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/C07-16.jpg?v=1786558549",
    "m": "Maison Francis Kurkdjian",
    "min": 389.0,
-   "p": 399.0,
+   "p": 407.0,
    "s": "200 ml",
    "t": "Gentle Fluidity Gold",
    "tester": false,
@@ -9920,7 +10052,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/products/gentle-fluidity-silver-eau-de-parfum-by-maison-francis-kurkdjian_2400x_d9fe87c6-a5a5-4380-9398-e67acec5b22c.jpg?v=1758375424",
    "m": "Maison Francis Kurkdjian",
    "min": 225.0,
-   "p": 415.0,
+   "p": 423.0,
    "s": "200 ml",
    "t": "Gentle Fluidity Silver",
    "tester": false,
@@ -10024,7 +10156,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/A10-2.jpg?v=1765002272",
    "m": "Marc-Antoine Barrois",
    "min": 209.0,
-   "p": 209.0,
+   "p": 213.0,
    "s": "100 ml",
    "t": "Ganymede",
    "tester": false,
@@ -10460,13 +10592,26 @@
    "var": 44145058218043,
    "visto": "2026-11-11"
   },
+  "olfactory:mind-games-8ml-travel-spray": {
+   "a": true,
+   "c": 0,
+   "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Travelsprayvail_0c4e8f74-cb0f-4786-9e7e-ee82ddc86bc4.jpg?v=1787158737",
+   "m": "Mind Games",
+   "min": 22.0,
+   "p": 22.0,
+   "s": "",
+   "t": "8ml Travel Spray",
+   "tester": false,
+   "var": 44010517200955,
+   "visto": "2026-11-27"
+  },
   "olfactory:mind-games-artisan-collection-blockade-100ml": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/201e2da5-a244-41f0-a694-e85e080dfac2.jpg?v=1794210229",
    "m": "Mind Games",
    "min": 419.99,
-   "p": 419.99,
+   "p": 420.0,
    "s": "100 ml",
    "t": "Artisan Collection - Blockade",
    "tester": false,
@@ -10492,7 +10637,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/a143ab8a-577c-4fb4-a8ad-0c4d6198ae7f.jpg?v=1794210231",
    "m": "Mind Games",
    "min": 219.0,
-   "p": 219.0,
+   "p": 409.0,
    "s": "100 ml",
    "t": "Artisan Collection - J'Adoube",
    "tester": false,
@@ -10630,7 +10775,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:mind-games-soulmate-collection-french-defense-100ml": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/4b2156fa-48a8-439e-849f-0bc7090fce89.jpg?v=1794210230",
    "m": "Mind Games",
@@ -11189,12 +11334,12 @@
    "visto": "2026-11-11"
   },
   "olfactory:pana-dora-forever-love": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/6cf3bb92-66d6-42f2-ad4f-793ffd5efbb7.jpg?v=1794216208",
    "m": "Pana Dora",
-   "min": 179.0,
-   "p": 179.0,
+   "min": 149.0,
+   "p": 149.0,
    "s": "100 ml",
    "t": "Forever Love",
    "tester": false,
@@ -11202,12 +11347,12 @@
    "visto": "2026-11-11"
   },
   "olfactory:pana-dora-oud-republic": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/cd37d951-bc21-4628-939f-2318b44b456e.jpg?v=1794216211",
    "m": "Pana Dora",
-   "min": 189.0,
-   "p": 189.0,
+   "min": 179.0,
+   "p": 179.0,
    "s": "100 ml",
    "t": "Oud Republic",
    "tester": false,
@@ -11557,12 +11702,12 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/C10-26.jpg?v=1781249262",
    "m": "Penhaligon's",
-   "min": 169.0,
-   "p": 169.0,
-   "s": "100 ml",
+   "min": 121.0,
+   "p": 121.0,
+   "s": "30 ml",
    "t": "Luna",
    "tester": false,
-   "var": 42212470882363,
+   "var": 44484119429179,
    "visto": "2026-11-11"
   },
   "olfactory:penhaligons-portraits-collection-changing-constance": {
@@ -11722,7 +11867,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:ramon-monegal-ibiza-love-reaction-100ml": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/99af7023-5a33-4aca-9ebc-ab0d577ac0cc.jpg?v=1794216225",
    "m": "Ramon Monegal",
@@ -11748,16 +11893,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:ramon-monegal-matador": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/f476abae-7249-4670-b0ed-d243eb88ff75.jpg?v=1794216226",
    "m": "Ramon Monegal",
-   "min": 169.0,
-   "p": 169.0,
-   "s": "100 ml",
+   "min": 135.0,
+   "p": 135.0,
+   "s": "50 ml",
    "t": "Matador",
    "tester": false,
-   "var": 43984034922555,
+   "var": 44132264509499,
    "visto": "2026-11-11"
   },
   "olfactory:reinvented-illusion": {
@@ -11890,6 +12035,19 @@
    "var": 40913933205563,
    "visto": "2026-11-11"
   },
+  "olfactory:roja-danger-pour-femme": {
+   "a": false,
+   "c": 0,
+   "img": "",
+   "m": "Roja Parfums",
+   "min": 270.0,
+   "p": 270.0,
+   "s": "50 ml",
+   "t": "Danger pour Femme",
+   "tester": false,
+   "var": 40704161808443,
+   "visto": "2026-11-27"
+  },
   "olfactory:roja-danger-pour-homme-parfum-cologne": {
    "a": false,
    "c": 255.0,
@@ -11915,6 +12073,19 @@
    "tester": false,
    "var": 40704088866875,
    "visto": "2026-11-11"
+  },
+  "olfactory:roja-elixir-essence-de-parfum-pour-femme": {
+   "a": false,
+   "c": 0,
+   "img": "",
+   "m": "Roja Parfums",
+   "min": 225.0,
+   "p": 225.0,
+   "s": "100 ml",
+   "t": "Elixir Essence de Parfum Pour Femme",
+   "tester": false,
+   "var": 40704199065659,
+   "visto": "2026-11-27"
   },
   "olfactory:roja-elysium-noir-pour-homme": {
    "a": true,
@@ -12007,6 +12178,19 @@
    "var": 42283136745531,
    "visto": "2026-11-11"
   },
+  "olfactory:roja-musk-aoud-absolue-precieux": {
+   "a": false,
+   "c": 0,
+   "img": "",
+   "m": "Roja Parfums",
+   "min": 388.0,
+   "p": 388.0,
+   "s": "30 ml",
+   "t": "Musk Aoud Absolue Précieux",
+   "tester": false,
+   "var": 40913929437243,
+   "visto": "2026-11-27"
+  },
   "olfactory:roja-neiman-marcus-exclusive-parfum": {
    "a": false,
    "c": 0,
@@ -12098,6 +12282,32 @@
    "var": 42144208814139,
    "visto": "2026-11-11"
   },
+  "olfactory:roja-parfums-apex-parfum-cologne": {
+   "a": false,
+   "c": 0,
+   "img": "",
+   "m": "Roja Parfums",
+   "min": 159.0,
+   "p": 159.0,
+   "s": "100 ml",
+   "t": "Apex - Parfum Cologne",
+   "tester": false,
+   "var": 40704199655483,
+   "visto": "2026-11-27"
+  },
+  "olfactory:roja-parfums-danger-femme-parfum": {
+   "a": true,
+   "c": 0,
+   "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/F11-6.jpg?v=1787335439",
+   "m": "Roja Parfums",
+   "min": 318.0,
+   "p": 318.0,
+   "s": "50 ml",
+   "t": "Danger Femme Parfum",
+   "tester": false,
+   "var": 43482928152635,
+   "visto": "2026-11-27"
+  },
   "olfactory:roja-parfums-elysium-eau-intense-pour-homme": {
    "a": true,
    "c": 0,
@@ -12111,6 +12321,45 @@
    "var": 42498574876731,
    "visto": "2026-11-11"
   },
+  "olfactory:roja-parfums-enslaved-parfum-pour-femme": {
+   "a": false,
+   "c": 0,
+   "img": "",
+   "m": "Roja Parfums",
+   "min": 279.0,
+   "p": 279.0,
+   "s": "50 ml",
+   "t": "Enslaved - Parfum Pour Femme",
+   "tester": false,
+   "var": 40704221970491,
+   "visto": "2026-11-27"
+  },
+  "olfactory:roja-parfums-fetish-parfum-pour-homme": {
+   "a": false,
+   "c": 326.0,
+   "img": "",
+   "m": "Roja Parfums",
+   "min": 192.0,
+   "p": 192.0,
+   "s": "50 ml",
+   "t": "Fetish - Parfum Pour Homme",
+   "tester": false,
+   "var": 40704221413435,
+   "visto": "2026-11-27"
+  },
+  "olfactory:roja-risque-pour-femme-eau-de-parfum": {
+   "a": false,
+   "c": 0,
+   "img": "",
+   "m": "Roja Parfums",
+   "min": 159.0,
+   "p": 159.0,
+   "s": "50 ml",
+   "t": "Risqué Pour Femme Eau de Parfum",
+   "tester": false,
+   "var": 40704161873979,
+   "visto": "2026-11-27"
+  },
   "olfactory:roja-scandal-pour-homme-parfum-cologne": {
    "a": false,
    "c": 255.0,
@@ -12123,6 +12372,19 @@
    "tester": false,
    "var": 40704035356731,
    "visto": "2026-11-11"
+  },
+  "olfactory:roja-sultanate-of-oman": {
+   "a": false,
+   "c": 0,
+   "img": "",
+   "m": "Roja Parfums",
+   "min": 279.0,
+   "p": 279.0,
+   "s": "50 ml",
+   "t": "Sultanate Of Oman",
+   "tester": false,
+   "var": 40704180092987,
+   "visto": "2026-11-27"
   },
   "olfactory:roja-sweetie-aoud-parfum": {
    "a": true,
@@ -12762,17 +13024,30 @@
    "visto": "2026-11-11"
   },
   "olfactory:xerjoff-fierezza": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/gallery-fierezza-eau-de-parfum-100ml.webp?v=1795015463",
    "m": "Xerjoff",
-   "min": 999.0,
-   "p": 999.0,
+   "min": 299.0,
+   "p": 299.0,
    "s": "100 ml",
    "t": "Fierezza",
    "tester": false,
    "var": 45021425467451,
    "visto": "2026-11-19"
+  },
+  "olfactory:xerjoff-homme": {
+   "a": false,
+   "c": 0,
+   "img": "",
+   "m": "Xerjoff",
+   "min": 5.99,
+   "p": 5.99,
+   "s": "2 ml",
+   "t": "Homme",
+   "tester": false,
+   "var": 44045458964539,
+   "visto": "2026-11-27"
   },
   "olfactory:xerjoff-join-the-club-400-edp": {
    "a": false,
@@ -12905,16 +13180,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:xerjoff-shooting-stars-la-capitale": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/7cdadaf8-9fb3-472c-baf7-352e251b6dda.jpg?v=1794219174",
    "m": "Xerjoff",
-   "min": 149.99,
-   "p": 149.99,
+   "min": 139.0,
+   "p": 139.0,
    "s": "50 ml",
    "t": "La Capitale",
-   "tester": false,
-   "var": 40704027754555,
+   "tester": true,
+   "var": 41357692993595,
    "visto": "2026-11-11"
   },
   "olfactory:xerjoff-shooting-stars-uden": {
@@ -12983,16 +13258,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:xerjoff-v-accento": {
-   "a": true,
-   "c": 0,
+   "a": false,
+   "c": 310.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Sept_2026_C_Row-48.jpg?v=1793211556",
    "m": "Xerjoff",
    "min": 99.99,
-   "p": 109.99,
-   "s": "50 ml",
+   "p": 169.0,
+   "s": "100 ml",
    "t": "V - Accento",
    "tester": false,
-   "var": 40704028475451,
+   "var": 40704028508219,
    "visto": "2026-11-11"
   },
   "olfactory:xerjoff-v-laylati": {
@@ -13022,12 +13297,12 @@
    "visto": "2026-11-11"
   },
   "olfactory:xerjoff-v-purple-accento-edp": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/dd7f9aea-3663-4cb5-a8d6-7b497475e953.jpg?v=1794219174",
    "m": "Xerjoff",
-   "min": 235.0,
-   "p": 235.0,
+   "min": 179.0,
+   "p": 179.0,
    "s": "100 ml",
    "t": "V - Purple Accento edp",
    "tester": true,
@@ -13074,8 +13349,8 @@
    "visto": "2026-11-11"
   }
  },
- "site_hash": "ddc2b9745fe6f52449bcb1367ef36339c2e7c3b9",
- "ultima": "25/11 06:01",
+ "site_hash": "5fe9de2c436f6c6df331eca51fa4872d2dee48be",
+ "ultima": "27/11 01:03",
  "versao": 2,
  "vigiados": [
   "niche:boadicea-imperial-edp-100ml",
@@ -13190,6 +13465,7 @@
   "olfactory:boadicea-the-victorious-opal",
   "olfactory:boadicea-the-victorious-royal-sapphire-collection-gift-set",
   "olfactory:boadicea-the-victorious-the-amber-gift-set",
+  "olfactory:boadicea-the-victorious-the-ambery-gift-set-4x10ml",
   "olfactory:boadicea-the-victorious-the-citrus-gift-set",
   "olfactory:boadicea-the-victorious-the-leather-gift-set",
   "olfactory:boadicea-the-victorious-the-woody-gift-set",
@@ -13219,6 +13495,7 @@
   "olfactory:byredo-parfums-mojave-ghost",
   "olfactory:byredo-parfums-mojave-ghost-absolu-de-parfum",
   "olfactory:byredo-parfums-wick-trimmer",
+  "olfactory:byredo-rose-of-no-mans-land-rinse-free-hand-wash",
   "olfactory:caron-poivre-imperial",
   "olfactory:chambre52-tobacco-memories-edp",
   "olfactory:chambre52-tobacco-memories-extrait",
@@ -13302,6 +13579,7 @@
   "olfactory:fragrance-du-bois-lucius-maximus-parfum",
   "olfactory:fragrance-du-bois-milano-edp",
   "olfactory:fragrance-du-bois-new-york-5-th-avenue",
+  "olfactory:fragrance-du-bois-new-york-5th-avenue-flag-edition",
   "olfactory:fragrance-du-bois-new-york-intense-edp",
   "olfactory:fragrance-du-bois-oud-bleu-intense-edp",
   "olfactory:fragrance-du-bois-oud-jaune-intense-edp",
@@ -13450,6 +13728,7 @@
   "olfactory:micallef-secret-of-love-ma-nature",
   "olfactory:micallef-secret-of-love-royal-blue",
   "olfactory:miller-harris-reverie-de-bergamote-100ml",
+  "olfactory:mind-games-8ml-travel-spray",
   "olfactory:mind-games-artisan-collection-blockade-100ml",
   "olfactory:mind-games-artisan-collection-grand-master-100ml",
   "olfactory:mind-games-artisan-collection-jadoube-100ml",
@@ -13560,8 +13839,10 @@
   "olfactory:roja-apex-parfum-pour-homme-50ml",
   "olfactory:roja-burlington-1819-edp",
   "olfactory:roja-danger-parfum-pour-homme-50ml",
+  "olfactory:roja-danger-pour-femme",
   "olfactory:roja-danger-pour-homme-parfum-cologne",
   "olfactory:roja-diaghilev",
+  "olfactory:roja-elixir-essence-de-parfum-pour-femme",
   "olfactory:roja-elysium-noir-pour-homme",
   "olfactory:roja-elysium-parfum",
   "olfactory:roja-enigma-aoud-parfum",
@@ -13569,6 +13850,7 @@
   "olfactory:roja-isola-blu",
   "olfactory:roja-isola-verde-parfum",
   "olfactory:roja-lost-in-paris",
+  "olfactory:roja-musk-aoud-absolue-precieux",
   "olfactory:roja-neiman-marcus-exclusive-parfum",
   "olfactory:roja-nuwa",
   "olfactory:roja-nuwa-edp",
@@ -13576,8 +13858,14 @@
   "olfactory:roja-parfum-de-la-nuit",
   "olfactory:roja-parfums-apex-eau-intense-pour-homme-edp",
   "olfactory:roja-parfums-apex-edp",
+  "olfactory:roja-parfums-apex-parfum-cologne",
+  "olfactory:roja-parfums-danger-femme-parfum",
   "olfactory:roja-parfums-elysium-eau-intense-pour-homme",
+  "olfactory:roja-parfums-enslaved-parfum-pour-femme",
+  "olfactory:roja-parfums-fetish-parfum-pour-homme",
+  "olfactory:roja-risque-pour-femme-eau-de-parfum",
   "olfactory:roja-scandal-pour-homme-parfum-cologne",
+  "olfactory:roja-sultanate-of-oman",
   "olfactory:roja-sweetie-aoud-parfum",
   "olfactory:roja-taif-aoud-parfum",
   "olfactory:roja-the-womens-discovery-collection",
@@ -13628,6 +13916,7 @@
   "olfactory:xerjoff-erba-gold-edp",
   "olfactory:xerjoff-erba-pura",
   "olfactory:xerjoff-fierezza",
+  "olfactory:xerjoff-homme",
   "olfactory:xerjoff-join-the-club-400-edp",
   "olfactory:xerjoff-join-the-club-more-than-words",
   "olfactory:xerjoff-k-collection-jabir",
