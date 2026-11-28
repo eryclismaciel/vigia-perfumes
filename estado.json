@@ -1,8 +1,8 @@
 {
  "auto": {},
  "aviso_falha": {
-  "niche": "2026-11-27",
-  "venba": "2026-11-27"
+  "niche": "2026-11-28",
+  "venba": "2026-11-28"
  },
  "batimento": "2026-48",
  "cb": {
@@ -114,9 +114,73 @@
    "parar",
    "Pana Dora"
   ],
+  "123": [
+   "nao_vigiar",
+   "olfactory:creed-iris-debonair"
+  ],
+  "124": [
+   "parar",
+   "Creed"
+  ],
+  "125": [
+   "nao_vigiar",
+   "olfactory:marc-antoine-barrois-ganymede"
+  ],
+  "126": [
+   "parar",
+   "Marc-Antoine Barrois"
+  ],
+  "127": [
+   "nao_vigiar",
+   "olfactory:maison-francis-kurkdjian-gentle-fluidity-gold"
+  ],
+  "128": [
+   "parar",
+   "Maison Francis Kurkdjian"
+  ],
+  "129": [
+   "nao_vigiar",
+   "olfactory:maison-francis-kurkdjian-a-la-rose-eau-de-parfum"
+  ],
   "13": [
    "nao_vigiar",
    "olfactory:attar-al-has-golden-ice"
+  ],
+  "130": [
+   "parar",
+   "Maison Francis Kurkdjian"
+  ],
+  "131": [
+   "nao_vigiar",
+   "olfactory:maison-francis-kurkdjian-oud-satin-mood-eau-de-parfum"
+  ],
+  "132": [
+   "parar",
+   "Maison Francis Kurkdjian"
+  ],
+  "133": [
+   "nao_vigiar",
+   "olfactory:maison-francis-kurkdjian-grand-soir"
+  ],
+  "134": [
+   "parar",
+   "Maison Francis Kurkdjian"
+  ],
+  "135": [
+   "nao_vigiar",
+   "olfactory:maison-francis-kurkdjian-gentle-fluidity-silver"
+  ],
+  "136": [
+   "parar",
+   "Maison Francis Kurkdjian"
+  ],
+  "137": [
+   "nao_vigiar",
+   "olfactory:initio-wild-rush"
+  ],
+  "138": [
+   "parar",
+   "Initio Parfums"
   ],
   "14": [
    "parar",
@@ -495,7 +559,7 @@
    "olfactory:mind-games-gardez"
   ]
  },
- "cb_n": 122,
+ "cb_n": 138,
  "chat_id": 1001322888,
  "conhecidos": {
   "olfactory": [
@@ -1895,6 +1959,7 @@
    "diptyque-eau-rose",
    "diptyque-eau-rose-body-lotion",
    "diptyque-eau-rose-edt",
+   "diptyque-eau-rose-edt-1",
    "diptyque-eau-rose-soap",
    "diptyque-eau-tempo-edp",
    "diptyque-feu-de-bois-duftkerze",
@@ -2530,7 +2595,6 @@
    "frederic-malle-acne-studio",
    "frederic-malle-carnal-flower-body-wash",
    "frederic-malle-vetiver-extraordinar-e",
-   "free-sample",
    "fugazzi-angel-dust",
    "fugazzi-angel-dust-extrait",
    "fugazzi-cash-flower",
@@ -2560,7 +2624,6 @@
    "genyum-ballerina-edp",
    "genyum-musician-edp",
    "genyum-photographer",
-   "genyum-sculptor",
    "genyum-sculptor-edp",
    "genyum-singer-edp",
    "genyum-tattoo-artist",
@@ -4802,8 +4865,6 @@
    "reminiscence-rose-tentation-edp",
    "reminiscence-souffle-ambre-intense-edt",
    "reminiscence-sous-un-mimosa-de-provence-edt",
-   "replacement-automizer",
-   "replacement-automizer-outer-shell",
    "roberto-ugolini-17-rosso",
    "roberto-ugolini-blue-suede-shoes",
    "roberto-ugolini-giardino-di-boboli",
@@ -5876,13 +5937,13 @@
  "cupons": {},
  "cupons_extra": [],
  "erro": {
-  "niche": "27/11 01:02 nenhum produto respondeu",
-  "venba": "27/11 01:01 nenhum produto respondeu (15 erros)"
+  "niche": "28/11 01:39 nenhum produto respondeu",
+  "venba": "28/11 01:38 nenhum produto respondeu (15 erros)"
  },
  "falhas": {
-  "niche": 19,
+  "niche": 20,
   "olfactory": 0,
-  "venba": 22
+  "venba": 23
  },
  "lojas_extra": {},
  "marcas": [
@@ -6659,7 +6720,7 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/SilverCeremonyAbsolu.webp?v=1787244146",
    "m": "BDK Parfums",
    "min": 249.99,
-   "p": 249.99,
+   "p": 259.99,
    "s": "100 ml",
    "t": "Silver Ceremony Absolu",
    "tester": false,
@@ -7083,7 +7144,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-lavish": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/08556c36-7d0f-4108-a223-35f99cea7946.jpg?v=1794154789",
    "m": "Boadicea The Victorious",
@@ -7135,16 +7196,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-opal": {
-   "a": true,
-   "c": 1300.0,
+   "a": false,
+   "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/35631da2-da82-4c69-bb74-c00382a176ef.jpg?v=1794154792",
    "m": "Boadicea The Victorious",
    "min": 394.0,
-   "p": 394.0,
+   "p": 409.0,
    "s": "100 ml",
    "t": "Opal",
-   "tester": false,
-   "var": 42025302327355,
+   "tester": true,
+   "var": 42105689669691,
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-royal-sapphire-collection-gift-set": {
@@ -7226,16 +7287,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-tobacco-sapphire": {
-   "a": true,
-   "c": 0,
+   "a": false,
+   "c": 935.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/905664a7-2185-4a3a-9fe9-0b3ff4d27d39.jpg?v=1794154794",
    "m": "Boadicea The Victorious",
    "min": 338.0,
-   "p": 338.0,
+   "p": 349.0,
    "s": "100 ml",
    "t": "Tobacco Sapphire",
-   "tester": true,
-   "var": 41722662355003,
+   "tester": false,
+   "var": 41722695057467,
    "visto": "2026-11-11"
   },
   "olfactory:boadicea-the-victorious-valiant-parfum": {
@@ -7282,8 +7343,8 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/1359352_392x.progressive_aa8a992c-ce64-46f7-b04d-c5bf7bcc0a24.webp?v=1794928841",
    "m": "Bond No.9",
-   "min": 999.0,
-   "p": 999.0,
+   "min": 366.0,
+   "p": 366.0,
    "s": "100 ml",
    "t": "Bond No 9 - Good Oud",
    "tester": false,
@@ -7295,8 +7356,8 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/096300-01.jpg?v=1794929082",
    "m": "Bond No.9",
-   "min": 999.0,
-   "p": 999.0,
+   "min": 240.0,
+   "p": 240.0,
    "s": "100 ml",
    "t": "Bond No 9 - Greenpoint",
    "tester": false,
@@ -7308,8 +7369,8 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/o.zKgfbGS7niK.jpg?v=1794929331",
    "m": "Bond No.9",
-   "min": 999.0,
-   "p": 999.0,
+   "min": 281.0,
+   "p": 281.0,
    "s": "100 ml",
    "t": "Bond No 9 - New York Chic",
    "tester": false,
@@ -7347,8 +7408,8 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/images_811610a8-838c-4f97-a232-2fc970c4f42d.jpg?v=1794929672",
    "m": "Bond No.9",
-   "min": 999.0,
-   "p": 999.0,
+   "min": 366.0,
+   "p": 366.0,
    "s": "100 ml",
    "t": "Bond No 9 - Oud Supreme",
    "tester": false,
@@ -7777,11 +7838,11 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Creed_-_Aventus_-_100ml.jpg?v=1742559851",
    "m": "Creed",
    "min": 209.0,
-   "p": 229.0,
-   "s": "50 ml",
+   "p": 315.0,
+   "s": "100 ml",
    "t": "Aventus",
    "tester": false,
-   "var": 43910714196027,
+   "var": 41938317213755,
    "visto": "2026-11-11"
   },
   "olfactory:creed-aventus-absolu-100ml": {
@@ -7790,11 +7851,11 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/B09-19.jpg?v=1770792736",
    "m": "Creed",
    "min": 280.0,
-   "p": 280.0,
-   "s": "50 ml",
+   "p": 448.0,
+   "s": "100 ml",
    "t": "Aventus Absolu",
    "tester": false,
-   "var": 43905026752571,
+   "var": 42241172308027,
    "visto": "2026-11-11"
   },
   "olfactory:creed-aventus-cologne": {
@@ -7837,7 +7898,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:creed-iris-debonair": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/bc8488a9da6a4466234a87a47f929f4d.avif?v=1789146943",
    "m": "Creed",
@@ -8188,16 +8249,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:ex-nihilo-paris-blue-talisman-extrait": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/w-ex-nihilo-blue_talisman-extrait-de-parfum-100ml.webp?v=1760529459",
    "m": "Ex Nihilo Paris",
    "min": 425.0,
-   "p": 425.0,
+   "p": 999.0,
    "s": "100 ml",
    "t": "Blue Talisman Extrait",
-   "tester": false,
-   "var": 42457255379003,
+   "tester": true,
+   "var": 44103343603771,
    "visto": "2026-11-11"
   },
   "olfactory:ex-nihilo-paris-chandigarh-express-edp": {
@@ -8864,7 +8925,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:fragrance-du-bois-voyage-a-paris": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/B04-2.jpg?v=1779121477",
    "m": "Fragrance Du Bois",
@@ -8877,16 +8938,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:frangrance-du-bois-oud-vert-intense": {
-   "a": true,
-   "c": 0,
+   "a": false,
+   "c": 340.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/A02-71.jpg?v=1780968164",
    "m": "Fragrance Du Bois",
    "min": 189.0,
-   "p": 189.0,
-   "s": "50 ml",
+   "p": 279.99,
+   "s": "100 ml",
    "t": "Frangrance Du Bois - Oud Vert Intense",
    "tester": false,
-   "var": 40704085852219,
+   "var": 40704085917755,
    "visto": "2026-11-11"
   },
   "olfactory:giardini-di-toscana-bianco-latte": {
@@ -9440,8 +9501,8 @@
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Schermafbeelding-2026-04-02-210306_clipped_rev_1.jpg?v=1776526214",
    "m": "Initio",
-   "min": 249.0,
-   "p": 249.0,
+   "min": 239.99,
+   "p": 239.99,
    "s": "90 ml",
    "t": "Wild Rush",
    "tester": false,
@@ -9969,16 +10030,16 @@
    "visto": "2026-11-19"
   },
   "olfactory:maison-francis-kurkdjian-a-la-rose-eau-de-parfum": {
-   "a": false,
-   "c": 535.0,
+   "a": true,
+   "c": 458.0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/A01-5.jpg?v=1764659781",
    "m": "Maison Francis Kurkdjian",
-   "min": 249.0,
-   "p": 249.0,
-   "s": "200 ml",
+   "min": 219.0,
+   "p": 219.0,
+   "s": "70 ml",
    "t": "À la rose - Eau de Parfum",
    "tester": false,
-   "var": 40703949504571,
+   "var": 40703949471803,
    "visto": "2026-11-11"
   },
   "olfactory:maison-francis-kurkdjian-amyris-femme": {
@@ -10034,7 +10095,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:maison-francis-kurkdjian-gentle-fluidity-gold": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/C07-16.jpg?v=1786558549",
    "m": "Maison Francis Kurkdjian",
@@ -10047,7 +10108,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:maison-francis-kurkdjian-gentle-fluidity-silver": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/products/gentle-fluidity-silver-eau-de-parfum-by-maison-francis-kurkdjian_2400x_d9fe87c6-a5a5-4380-9398-e67acec5b22c.jpg?v=1758375424",
    "m": "Maison Francis Kurkdjian",
@@ -10060,16 +10121,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:maison-francis-kurkdjian-grand-soir": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/A06-8.jpg?v=1765001006",
    "m": "Maison Francis Kurkdjian",
-   "min": 225.0,
-   "p": 379.99,
-   "s": "200 ml",
+   "min": 215.0,
+   "p": 215.0,
+   "s": "70 ml",
    "t": "Grand Soir",
    "tester": false,
-   "var": 42052536598587,
+   "var": 40703950979131,
    "visto": "2026-11-11"
   },
   "olfactory:maison-francis-kurkdjian-kurky": {
@@ -10086,16 +10147,16 @@
    "visto": "2026-11-11"
   },
   "olfactory:maison-francis-kurkdjian-oud-satin-mood-eau-de-parfum": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/C10-21.jpg?v=1781249568",
    "m": "Maison Francis Kurkdjian",
-   "min": 399.0,
-   "p": 399.0,
-   "s": "200 ml",
+   "min": 274.0,
+   "p": 274.0,
+   "s": "70 ml",
    "t": "OUD - Satin Mood - Eau de Parfum",
    "tester": false,
-   "var": 41358079131707,
+   "var": 40703951241275,
    "visto": "2026-11-11"
   },
   "olfactory:maison-mataha-evasion-bonbon": {
@@ -10151,7 +10212,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:marc-antoine-barrois-ganymede": {
-   "a": false,
+   "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/A10-2.jpg?v=1765002272",
    "m": "Marc-Antoine Barrois",
@@ -10169,11 +10230,11 @@
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/B06-15.jpg?v=1779149801",
    "m": "Marc-Antoine Barrois",
    "min": 215.0,
-   "p": 215.0,
+   "p": 233.0,
    "s": "100 ml",
    "t": "Tilia",
-   "tester": true,
-   "var": 42510055571515,
+   "tester": false,
+   "var": 41696290701371,
    "visto": "2026-11-11"
   },
   "olfactory:matiere-premiere-discovery-set": {
@@ -10505,11 +10566,11 @@
    "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/7ba0b8_90a26abb8b3248efa751c8ecfb6576a3_mv2.avif?v=1788827020",
-   "m": "Micallef",
+   "m": "M.Micallef",
    "min": 69.0,
    "p": 69.0,
    "s": "50 ml",
-   "t": "Ananda Nectar",
+   "t": "Micallef - Ananda Nectar",
    "tester": true,
    "var": 44145054842939,
    "visto": "2026-11-11"
@@ -10518,11 +10579,11 @@
    "a": true,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/o.136118.jpg?v=1788827047",
-   "m": "Micallef",
+   "m": "M.Micallef",
    "min": 125.0,
    "p": 125.0,
    "s": "100 ml",
-   "t": "GnTonic Virgin",
+   "t": "Micallef - GnTonic Virgin",
    "tester": true,
    "var": 44145054974011,
    "visto": "2026-11-11"
@@ -10697,7 +10758,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:mind-games-lionora": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/C10-6.jpg?v=1780902419",
    "m": "Mind Games",
@@ -11685,7 +11746,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:penhaligons-london-trade-routes-babylon": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/penhaligon-s-london-trade-routes-babylon-en.jpg?v=1718823268",
    "m": "Penhaligon's",
@@ -11750,7 +11811,7 @@
    "visto": "2026-11-11"
   },
   "olfactory:penhaligons-sartorial-edt-spray-100ml-m": {
-   "a": true,
+   "a": false,
    "c": 0,
    "img": "https://cdn.shopify.com/s/files/1/0582/2955/5259/files/Untitleddesign-2025-07-19T143507.614.png?v=1752916001",
    "m": "Penhaligon's",
@@ -13349,8 +13410,8 @@
    "visto": "2026-11-11"
   }
  },
- "site_hash": "5fe9de2c436f6c6df331eca51fa4872d2dee48be",
- "ultima": "27/11 01:03",
+ "site_hash": "b3c1a6097ae64850c05c89c1f56312dd7f53bedf",
+ "ultima": "28/11 01:40",
  "versao": 2,
  "vigiados": [
   "niche:boadicea-imperial-edp-100ml",
